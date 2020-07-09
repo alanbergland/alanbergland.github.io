@@ -32,6 +32,9 @@ plugins:
   - kramdown
   - rouge
 
+include:
+  - _pages
+  
 exclude:
   - Gemfile
   - clean-theme.gemspec
