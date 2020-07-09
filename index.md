@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Welcome to the Bergland Lab
-subtitle: an ecological- and evolutionary-genetics lab, focusing on the molecular basis and dynamics of adaptation in the wild.
+subtitle: an ecological- and evolutionary-genetics lab
 hero_height: is-large
-hero_link: /page-1/
+hero_link: /page-1/s
 hero_link_text: Example Call To Action
 show_sidebar: false
 callouts: example_callouts
