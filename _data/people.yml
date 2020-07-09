@@ -6,6 +6,7 @@
     It can contain multiple lines. It has the size set to 'large'.
   sponsors:
     - name: Dave McDave
+      image: image: https://via.placeholder.com/1200x800
       profile: https://github.com/
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
