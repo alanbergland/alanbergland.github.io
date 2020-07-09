@@ -23,19 +23,19 @@
                             {{ sponsor.name }}
                         </p>
                         <p class="subtitle is-6">
-                            {% if sponsor.profile %}
-                            <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a>
+                            {% if sponsor.image %}
+                            <img src="{{ sponsor.image }}">
                             {% else %}
                             &nbsp;
                             {% endif %}
                         </p>
                         <p class="subtitle is-6">
-                            {% if sponsor.image %}
-                            {{ sponsor.image }}
+                            {% if sponsor.profile %}
+                            <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a>
                             {% else %}
                             &nbsp;
                             {% endif %}
-                        </p>
+                        </p>s
                     </div>
                 </div>
                 {% endfor %}
