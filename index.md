@@ -6,7 +6,7 @@ hero_height: is-large
 hero_link: /#callouts
 hero_link_text: Scroll for more
 show_sidebar: false
-callouts: example_callouts
+callouts: homepage_callouts
 ---
 
 ## General page content

@@ -10,13 +10,13 @@ items:
     call_to_action_name: Read More
     call_to_action_link: /what-we-do/
   - title: Our Team
-    icon: fa-wrench
+    icon: fa-users
     description: >
       We are a cohort of students, post-docs, and educators of varying expertises.
     call_to_action_name: Join Us!
     call_to_action_link: /join-us/
   - title: Our Commitment
-    icon: fa-github
+    icon: fa-fist-raised
     icon_brand: true
     description: >
       Our lab is committed to anti-racism and intersectional inclusion. As scientists, we have a
