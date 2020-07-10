@@ -3,8 +3,8 @@ layout: page
 title: Welcome to the Bergland Lab
 subtitle: an ecological- and evolutionary-genetics lab
 hero_height: is-large
-hero_link: /page-1/s
-hero_link_text: Example Call To Action
+hero_link: /page-1/
+hero_link_text: About Our Lab
 show_sidebar: false
 callouts: example_callouts
 ---
