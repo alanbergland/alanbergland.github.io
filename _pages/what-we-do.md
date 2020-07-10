@@ -6,9 +6,11 @@ show_sidebar: false
 menubar: example_menu
 permalink: /what-we-do/
 ---
+<a id="research_overview"></a>
 ## Research overview
 Research in the Bergland Lab addresses basic problems in ecological and evolutionary genetics. Our work focuses on the dynamics and molecular underpinnings of adaptation with particular attention to the role of local adaptation, tradeoffs, and behavior as mechanisms of balancing selection. We use tools from population-, molecular-, and quantitative-genetics and work in a variety of organisms, including <a href="https://en.wikipedia.org/wiki/Daphnia_pulex">Daphnia</a>, <a href="https://en.wikipedia.org/wiki/Drosophila_melanogaster">Drosophila</a>, and <a href="https://en.wikipedia.org/wiki/White-throated_sparrow">sparrows</a>. Several of the species we study experience strong fluctuations in selection pressure over seasonal time scales providing us the opportunity to study adaptive evolution as it unfolds in the wild.
 
+<a id="molecular_basis"></a>
 ## The molecular basis of local adaptation
 **Background**. One of the major systems we work on is *Drosophila melanogaster* which has served for decades as an important model for understanding local adaptation. Fly populations arrayed along latitudinal and altitudinal clines exhibit patterns of genetically based phenotypic differentiation in morphological and life-history traits consistent with local adaptation to temperate environments (<a href="http://bergland-lab.org/pdfs/Paaby_etal_2014.pdf">Paaby et al.2014</a>, <a href="http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf">Bergland et al. 2016</a>, <a href="http://bergland-lab.org/pdfs/Machado_etal_2016.pdf">Machado et al. 2016</a>). Genetically based phenotypic differentiation in fitness related traits also occurs among seasons. For instance, flies sampled in spring - the recent descendants of individuals that survived winter - tend to be more hardy whereas those sampled during fall - the descendants of those individuals that prospered during summer - tend to invest more resources into reproduction. Quantitative genetic variation in these stress tolerance and life-history traits is thus shaped over seasonal time scales (10-15 generations) and we can identify polymorphisms that vary through time and space (<a href="http://bergland-lab.org/pdfs/Bergland_etal_2014.pdf">Bergland et al. 2014</a>) and underlie local adaptation.
 
@@ -18,6 +20,7 @@ Research in the Bergland Lab addresses basic problems in ecological and evolutio
 
 **Current project** - _population genomics of Drosophila_. The Bergland participates in several consortia, <a href="https://sites.sas.upenn.edu/paul-schmidt-lab/pages/opportunities">DrosRTEC</a> and <a href="https://sites.google.com/site/droseuweb/">DrosEU</a>, whose aim is to sample and resequence fly populations on multiple continents and over decadal time scales. Such efforts will provide valuable information to the broader community about the dynamic process of adaptation in the wild. These efforts are led by members of the Bergland lab, as well as many labs throughout the world. Our consortia are open to anyone and we are actively sampling flies and continuing our organization efforts. Please <a href="/join-us/">be in touch</a> if you are interested in participating.
 
+<a id="temporal_dynamics"></a>
 ## The temporal dynamics of adaptation in the wild
 **Background**. All organisms live in environments that vary through time and space. In response to fluctuations in aspects of the biotic and abiotic environment, many populations rapidly adapt as they track the environment. Such non-anthropogenic environmental change is often caused by genetic shifts at many loci that underly quantitative traits. However, we have little knowledge of the evolutionary dynamics of such loci and how fluctuations of these alleles affects patterns of genetic variation genome-wide. For instance, are these alleles old or do they go to fixation often and subsequently arise again de novo? Do fluctuations at these loci substantially alter patterns of polymorphism at linked neutral sites? We address these basic questions using _Daphnia_ as a model system
 
@@ -25,6 +28,7 @@ Research in the Bergland Lab addresses basic problems in ecological and evolutio
 
 In addition to examining adaptive dynamics in response to predation regime, our work on Daphnia will bear direct relevance to our understanding of adaptation to novel anthropogenic stressors as well as adaptation to anthropogenic climate change.
 
+<a id="behavioral_mechanisms"></a>
 ## Behavioral mechanisms & consequences of balancing selection
 **Background**. Balancing selection - the selective maintenance of fitness related genetic variation - can be caused by different mechanisms. While much of our work examines how environmental heterogeneity promotes balancing selection, we also investigate how behavioral mechanisms can generate and maintain functional variation.
 
