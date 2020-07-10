@@ -8,7 +8,6 @@ hero_link_text: Scroll for more
 show_sidebar: false
 callouts: example_callouts
 ---
-<a id="callouts"> " " </a>
 
 ## General page content
 
