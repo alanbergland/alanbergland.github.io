@@ -8,7 +8,7 @@ hero_link_text: Scroll for more
 show_sidebar: false
 callouts: example_callouts
 ---
-<a id="callouts"> {% include example_callouts %} </a>
+<a id="callouts"> {% include callouts.html %} </a>
 
 ## General page content
 
