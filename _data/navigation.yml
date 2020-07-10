@@ -1,3 +1,5 @@
+- name: Home
+  link: /
 - name: Who We Are
   link: /who-we-are/
 - name: What We Do
