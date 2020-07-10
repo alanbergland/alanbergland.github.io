@@ -48,3 +48,14 @@
     - name: Liam Miller
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
+- tier_name: Alumni
+  size: small
+  description: |-
+    Keep this here or link to a separate alumni page.
+  sponsors:
+    - name: Placeholder
+      image: https://via.placeholder.com/1200x800
+      profile: https://github.com/
+    - name: Placeholder
+      image: https://via.placeholder.com/1200x800
+      profile: https://github.com/
