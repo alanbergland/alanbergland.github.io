@@ -1,9 +1,9 @@
 {% assign menus = site.data.[page.menubar] %}
 
-<aside class="menu" style="width=20%">
+<aside class="menu">
 {% for menu in menus %}
     <p class="menu-label">{{ menu.label }}</p>
-    <ul class="menu-list">
+    <ul class="menu-list" style="width=20%">
         {% for item in menu.items %}
         <li>
             <a href="{{ item.link | absolute_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
