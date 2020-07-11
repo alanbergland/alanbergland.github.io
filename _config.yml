@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false
   -
     scope:
       path: ""
@@ -69,7 +69,7 @@ defaults:
       author: ""
       layout: post
       image: https://via.placeholder.com/1200x800
-      show_sidebar: false
+      show_sidebar: true
       hide_hero: true
 
 markdown: kramdown
