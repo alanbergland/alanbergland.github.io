@@ -18,7 +18,10 @@ Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler
 Tilk S, **Bergland AO**, Goodman A, Schmidt P, Petrov D, Greeblum S. 2019. Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments. [_G3_](https://www.g3journal.org/content/9/12/4159.abstract): 10.1534/g3.119.400755 [pdf](http://bergland-lab.org/pdfs/Tilk_etal_2019.pdf)
 
 <a id="2018"></a>
-## 2020
+## 2018
+Rajpurohit S, Gefen E, **Bergland AO**, Petrov DA, Gibbs AG, Schmidt PS. 2018. Spatiotemporal dynamics and genome‐wide association analysis of desiccation tolerance in _Drosophila melanogaster_. [_Molecular Ecology_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129450/): 10.1111/mec.14814 [pdf](http://bergland-lab.org/pdfs/Rajpurohit_etal_2018.pdf)
+<br><br>
+Behrman EL, Howick VM, Kapun M, Staubach F, **Bergland AO**, Petrov DA, Lazzaro BP, Schmidt PS. 2018. Rapid seasonal evolution in innate immunity of wild _Drosophila melanogaster_. [_Proc. R. Soc. B_](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2017.2599): 10.1098/rspb.2017.2599 [pdf](http://bergland-lab.org/pdfs/Behrman_etal_2018.pdf)
 
 <a id="2017"></a>
 ## 2020
