@@ -4,7 +4,6 @@ title: Publications
 subtitle: papers written by members of the Bergland lab
 show_sidebar: false
 menubar: pub_menu
-pub_list: pub_list
 permalink: /publications/
 ---
 <a id="2020"></a>
