@@ -9,6 +9,6 @@ show_sidebar: false
 callouts: homepage_callouts
 ---
 
-## General page content
+## Photo Gallery
 
-This is the rest of the page content. You can add what you like here.
+Gather some photos and put them here. Could also have announcements on the homepage if so desired.
