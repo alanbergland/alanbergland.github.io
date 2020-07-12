@@ -56,13 +56,22 @@ Machado H, **Bergland AO**, O'Brien K, Behrman E, Schmidt P & Petrov D. 2016. Co
 Zhao X, **Bergland AO**, Behrman EL, Gregory BD, Petrov DA & Schmidt PS. 2015. Global Transcriptional Profiling of Diapause and Climatic Adaptation in _Drosophila melanogaster_. [_Molecular Biology Evolution_](http://mbe.oxfordjournals.org/content/early/2015/12/15/molbev.msv263): doi:10.1093/molbev/msv263 [pdf](http://bergland-lab.org/pdfs/Zhao_etal_2015.pdf)
 
 <a id="2014"></a>
-## 2020
-
-<a id="2013"></a>
-## 2020
+## 2014
+Paaby AB, **Bergland AO**, Behrman EL, Schmidt PS. 2014. A highly pleiotropic amino acid polymorphism in the _Drosophila_ Insulin Receptor contributes to life-history adaptation. [_Evolution_](http://onlinelibrary.wiley.com/doi/10.1111/evo.12546/abstract): doi:10.1111/evo.12546 [pdf](http://bergland-lab.org/pdfs/Paaby_etal_2014.pdf)
+<br><br>
+Adrion J, Pascual M, Burrack H, Haddad N, **Bergland AO**, Machado H, Sackton T, Schlenke T, Watada M, Singh N. 2014. Reconstructing the invasion history of _Drosophila suzukii_ using multilocus sequence data. [_Molecular Biology Evolution_](http://mbe.oxfordjournals.org/content/early/2014/09/27/molbev.msu246): doi:10.1093/molbev/msu246. [pdf](http://bergland-lab.org/pdfs/Adrion_etal_2014.pdf)
+<br><br>
+**Bergland AO**, Behrman EL, O'Brien KR , Schmidt PS, Petrov D. 2014. Genomic evidence of rapid and stable adaptive oscillations over seasonal time scales in _Drosophila_. [_PLoS Genetics_](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1004775) 10(11): e1004775. [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2014.pdf) <br>
+<span style="color:#996888">[Check out the [F1000](https://f1000.com/prime/725227131) evaluation by E. Svensson]</span>
 
 <a id="2012"></a>
-## 2020
+## 2012
+Feder A, Petrov F, **Bergland AO**. 2012. Estimation of linkage disequilibrium from high-throughput pooled resequencing data. [_PLoS One_](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048588) 7(11): e48588. doi:10.1371/journal.pone.0048588. [pdf](http://bergland-lab.org/pdfs/Feder_etal_2012.pdf) [Download program](http://sourceforge.net/p/ldx/wiki/Home/)
+<br><br>
+Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pooled whole genome population re-sequencing in _Drosophila melanogaster_. [_PLoS One_](http://dx.plos.org/10.1371/journal.pone.0041901) 7(7): e41901. doi: 10.1371/journal.pone.0041901. [pdf](http://bergland-lab.org/pdfs/Zhu_etal_2012.pdf)
+<br><br>
+**Bergland AO**, Chae HS, Kim YJ, Tatar M. 2012. Fine scale mapping of natural variation in fly fecundity identifies neuronal domain of expression and function of an aquaporin. [_PLoS Genetics_](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002631) 8(4): e1002631, doi: 10.1371/journal.pgen.1002631. [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2012.pdf)<br>
+<span style="color:#996888">[Check out the [F1000](http://f1000.com/prime/714647860?bd=1) evaluation by J. True & J. Lachance]</span>
 
 <a id="2011-and-earlier"></a>
 ## 2020
