@@ -74,4 +74,9 @@ Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pool
 <span style="color:#996888">[Check out the [F1000](http://f1000.com/prime/714647860?bd=1) evaluation by J. True & J. Lachance]</span>
 
 <a id="2011-and-earlier"></a>
-## 2020
+## 2011 & earlier
+**Bergland AO**. 2011. Mechanisms and ecological genetics of reproduction in Dipteran insects.  In [_Molecular mechanisms of life history evolution_](http://www.oup.com/us/catalog/general/subject/LifeSciences/EvolutionaryBiology/?view=usa&ci=9780199568765), eds. Flatt, T. & A. Heyland.  Oxford University Press, Oxford, UK. [pdf](http://bergland-lab.org/pdfs/Bergland_2011.pdf)
+<br><br>
+**Bergland AO**, Genissel A, Nuzhdin SV, Tatar M. 2008. Quantitative trait loci affecting phenotypic plasticity and the allometric relationship of ovariole number and thorax length in _Drosophila melanogaster_. [_Genetics_](http://www.genetics.org/content/180/1/567.long) 180: 567-582. [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2008.pdf)
+<br><br>
+**Bergland AO**, Agotsch M, Mathias D, Bradshaw WE, Holzapfel CM. 2005. Factors influencing the seasonal life history of the pitcher plant mosquito, _Wyeomyia smithii_. [_Ecological Entomology_](http://onlinelibrary.wiley.com/doi/10.1111/j.0307-6946.2005.00687.x/abstract), 30: 129-137. [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2005.pdf)
