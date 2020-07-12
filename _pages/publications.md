@@ -41,15 +41,15 @@ Rajpurohit S, Hanus R, Vrkoslav V, Behrman EL, **Bergland AO**, Petrov D, Cvačk
 Beckerman AP, Childs DZ, **Bergland AO**. 2016. Eco-evolutionary Biology: Feeding and Feedback Loops. [_Current Biology_](http://www.cell.com/current-biology/fulltext/S0960-9822(16)00063-4): doi:10.1016/j.cub.2016.01.013 [pdf](http://bergland-lab.org/pdfs/Beckerman_etal_2016.pdf)
 <br><br>
 Tuttle EM\*, **Bergland AO\*** , Korody ML, Brewer MS, Newhouse DJ, Minx P, Stager M, Betuel A, Cheviron ZA, Warren WC, Gonser RA, Balakrishnan CN. 2016. Divergence and Functional Degradation of a Sex Chromosome-like Supergene. [_Current Biology_](http://www.cell.com/current-biology/abstract/S0960-9822(15)01562-6): doi:10.1016/j.cub.2015.11.069 [pdf](http://bergland-lab.org/pdfs/Tuttle_etal_2016.pdf) <br>
-<span style="color:#996888">\[Check out the Perspective by S. Edwards & L. Campagna in <a href="http://science.sciencemag.org/content/351/6272/446">Science</a>\]</span>
-<span style="color:#996888">\[Check out the Dispatch by L. Campagna in <a href="http://dx.doi.org/10.1016/j.cub.2015.12.005">Current Biology</a>\]</span>
+<span style="color:#996888">\[Check out the Perspective by S. Edwards & L. Campagna in <a href="http://science.sciencemag.org/content/351/6272/446">Science</a>\]</span> <br>
+<span style="color:#996888">\[Check out the Dispatch by L. Campagna in <a href="http://dx.doi.org/10.1016/j.cub.2015.12.005">Current Biology</a>\]</span> <br>
 <span style="color:#996888">\[Check out News Feature on this paper and Dr. Tuttle's life and work by C. Arnold in <a href="http://www.nature.com/news/the-sparrow-with-four-sexes-1.21018">Nature</a>\]</span>
 <br><br>
 Machado H, **Bergland AO**, O'Brien K, Behrman E, Schmidt P & Petrov D. 2016. Comparative population genomics of latitudinal variation in _Drosophila simulans_ and _Drosophila melanogaster_. [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13446/full): doi:10.1111/mec.13446 [pdf](http://bergland-lab.org/pdfs/Machado_etal_2016.pdf)<br>
 <span style="color:#996888">[Check out the News and Views by T. Flatt in [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]</span>
 <br><br>
-**Bergland AO**, Tobler R, González J, Schmidt P & Petrov D. 2016. Secondary contact has contributed to genome-wide patterns of clinal variation in North American and Australian populations of _Drosophila melanogaster_. [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13455/full): doi:10.1111/mec.13445 [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf)
-[Check out the News and Views by T. Flatt in [Molecular Ecology](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]
+**Bergland AO**, Tobler R, González J, Schmidt P & Petrov D. 2016. Secondary contact has contributed to genome-wide patterns of clinal variation in North American and Australian populations of _Drosophila melanogaster_. [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13455/full): doi:10.1111/mec.13445 [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf)<br>
+<span style="color:#996888">[Check out the News and Views by T. Flatt in [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]</span>
 
 <a id="2015"></a>
 ## 2015
