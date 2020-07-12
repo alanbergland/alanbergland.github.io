@@ -66,7 +66,7 @@ Adrion J, Pascual M, Burrack H, Haddad N, **Bergland AO**, Machado H, Sackton T,
 
 <a id="2012"></a>
 ## 2012
-Feder A, Petrov F, **Bergland AO**. 2012. Estimation of linkage disequilibrium from high-throughput pooled resequencing data. [_PLoS One_](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048588) 7(11): e48588. doi:10.1371/journal.pone.0048588. [pdf](http://bergland-lab.org/pdfs/Feder_etal_2012.pdf) [Download program](http://sourceforge.net/p/ldx/wiki/Home/)
+Feder A, Petrov F, **Bergland AO**. 2012. Estimation of linkage disequilibrium from high-throughput pooled resequencing data. [_PLoS One_](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048588) 7(11): e48588. doi:10.1371/journal.pone.0048588. [pdf](http://bergland-lab.org/pdfs/Feder_etal_2012.pdf) [[Download program]](http://sourceforge.net/p/ldx/wiki/Home/)
 <br><br>
 Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pooled whole genome population re-sequencing in _Drosophila melanogaster_. [_PLoS One_](http://dx.plos.org/10.1371/journal.pone.0041901) 7(7): e41901. doi: 10.1371/journal.pone.0041901. [pdf](http://bergland-lab.org/pdfs/Zhu_etal_2012.pdf)
 <br><br>
