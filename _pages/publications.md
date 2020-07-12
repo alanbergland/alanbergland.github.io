@@ -35,7 +35,21 @@ Fu Z, Epstein B, Kelley JL, Zheng Q, **Bergland AO**, Castillo Carrillo C, Jense
 Akhund-Zade J, **Bergland AO**, Crowe SO, Unckless R. 2017. The Genetic Basis of Natural Variation in Drosophila (Diptera: Drosophilidae) Virgin Egg Retention. [_Journal of Insect Science_](http://jinsectscience.oxfordjournals.org/cgi/content/full/iew094?ijkey=cjJJem7tP3As9AR&keytype=ref): doi: 10.1093/jisesa/iew094 [pdf](http://bergland-lab.org/pdfs/AkhundZade_etal_2017.pdf)
 
 <a id="2016"></a>
-## 2020
+## 2016
+Rajpurohit S, Hanus R, Vrkoslav V, Behrman EL, **Bergland AO**, Petrov D, Cvačka J, Schmidt PS. 2016. Adaptive dynamics of cuticular hydrocarbons in Drosophila. [_Journal of Evolutionary Biology_](https://www.ncbi.nlm.nih.gov/pubmed/27718537): doi: 10.1111/jeb.12988 [pdf](http://bergland-lab.org/pdfs/Rajpurohit_etal_2016.pdf)
+<br><br>
+Beckerman AP, Childs DZ, **Bergland AO**. 2016. Eco-evolutionary Biology: Feeding and Feedback Loops. [_Current Biology_](http://www.cell.com/current-biology/fulltext/S0960-9822(16)00063-4): doi:10.1016/j.cub.2016.01.013 [pdf](http://bergland-lab.org/pdfs/Beckerman_etal_2016.pdf)
+<br><br>
+Tuttle EM\*, **Bergland AO\*** , Korody ML, Brewer MS, Newhouse DJ, Minx P, Stager M, Betuel A, Cheviron ZA, Warren WC, Gonser RA, Balakrishnan CN. 2016. Divergence and Functional Degradation of a Sex Chromosome-like Supergene. [_Current Biology_](http://www.cell.com/current-biology/abstract/S0960-9822(15)01562-6): doi:10.1016/j.cub.2015.11.069 [pdf](http://bergland-lab.org/pdfs/Tuttle_etal_2016.pdf) <br>
+<p style="color:#996888">[Check out the Perspective by S. Edwards & L. Campagna in [Science](http://science.sciencemag.org/content/351/6272/446)]</p>
+<p style="color:#996888">[Check out the Dispatch by L. Campagna in [Current Biology](http://dx.doi.org/10.1016/j.cub.2015.12.005)]</p>
+<p style="color:#996888">[Check out News Feature on this paper and Dr. Tuttle's life and work by C. Arnold in [Nature](http://www.nature.com/news/the-sparrow-with-four-sexes-1.21018)]</p>
+<br><br>
+Machado H, **Bergland AO**, O'Brien K, Behrman E, Schmidt P & Petrov D. 2016. Comparative population genomics of latitudinal variation in _Drosophila simulans_ and _Drosophila melanogaster_. [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13446/full): doi:10.1111/mec.13446 [pdf](http://bergland-lab.org/pdfs/Machado_etal_2016.pdf)
+<p style="color:#996888">[Check out the News and Views by T. Flatt in [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]</p>
+<br><br>
+**Bergland AO**, Tobler R, González J, Schmidt P & Petrov D. 2016. Secondary contact has contributed to genome-wide patterns of clinal variation in North American and Australian populations of _Drosophila melanogaster_. [_Molecular Ecology_](http://onlinelibrary.wiley.com/doi/10.1111/mec.13455/full): doi:10.1111/mec.13445 [pdf](http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf)
+[Check out the News and Views by T. Flatt in [Molecular Ecology](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]
 
 <a id="2015"></a>
 ## 2020
