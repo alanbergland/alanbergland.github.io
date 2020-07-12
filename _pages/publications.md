@@ -52,7 +52,8 @@ Machado H, **Bergland AO**, O'Brien K, Behrman E, Schmidt P & Petrov D. 2016. Co
 [Check out the News and Views by T. Flatt in [Molecular Ecology](http://onlinelibrary.wiley.com/doi/10.1111/mec.13534/epdf)]
 
 <a id="2015"></a>
-## 2020
+## 2015
+Zhao X, **Bergland AO**, Behrman EL, Gregory BD, Petrov DA & Schmidt PS. 2015. Global Transcriptional Profiling of Diapause and Climatic Adaptation in _Drosophila melanogaster_. [_Molecular Biology Evolution_](http://mbe.oxfordjournals.org/content/early/2015/12/15/molbev.msv263): doi:10.1093/molbev/msv263 [pdf](http://bergland-lab.org/pdfs/Zhao_etal_2015.pdf)
 
 <a id="2014"></a>
 ## 2020
