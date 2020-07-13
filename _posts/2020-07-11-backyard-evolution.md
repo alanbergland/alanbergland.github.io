@@ -1,7 +1,7 @@
 ---
 layout: post
 hide_hero: false
-hero_height: is-small
+hero_height: is-medium
 title:  "Backyard Evolution"
 subtitle: Capture evolution in your own backyard!
 date:   2020-07-11

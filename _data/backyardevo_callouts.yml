@@ -2,12 +2,12 @@ style: is-light
 height: is-short
 items:
   - title: It's FREE
-    description: >
-      1. To sign up, visit bergland-lab.org/backyard
-      2. Receive the collection kit >
+    description: |
+      1. To sign up, fill out the form below
+      2. Receive the collection kit
       3. Start your collections!
     call_to_action_name: Sign up
-    call_to_action_link: bergland-lab.org/backyard
+    call_to_action_link: "https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true"
   - title: Participate in this citizen science project!
     description: >
       The Bergland Lab at UVA is looking for volunteers to collect and preserve
