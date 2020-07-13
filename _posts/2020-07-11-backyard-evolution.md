@@ -13,7 +13,7 @@ excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is l
 callouts: backyardevo_callouts
 ---
 ### Evolution in your backyard
-For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in popu- lation size across time. Many of the organisms in your backyard - for instance small invertebrtes and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
+For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in population size across time. Many of the organisms in your backyard - for instance small invertebrates and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
 
 ### DNA as a historical record
 We can observe evolutionary change in populations through the analysis of DNA. Because most individuals in a population have slightly different genomes, we can infer the evolutionary history of the population and species. In some cases, such patterns reveal the more distant past, for instance large scale migration events. In other cases, we identify regions of the genome that have recently undergone adaptive evolution. Patterns of variation not only tell the story of the past, but also the present. We can track evolutionary dynamics in real-time. And, we can do it from your backyard.
@@ -47,3 +47,23 @@ Here is an example of a filled collection vial. Flies were collected by gently k
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Here's what you'll be doing 2x a month:
+**Goal**: We want you to sample ~100-200 fruit-flies every several weeks over the growing season and into early winter.<br>
+
+Fruit flies are most active in the early morning (6:00AM-9:00AM) or evening (6:00PM-9:00PM), and will be easier to collect then. They may be hiding in the heat of the day.<br>
+**To sample**, first hold a large collection vial in your non-dominant hand; keep the lid nearby. Then, with your other hand, sweep your net back and forth in a gentle motion and kick or tap your compost pile with your foot.
+Many small flying things will emerge. Capture as many as you can in your net. Keep sweeping the net back and forth to keep the flies in the tip of your net. Then, in a swift motion, place your collection vial in the net tip and tap the flies into the vial. Using a tapping motion, tap the flies to the bottom of the vial and cover the vial with two or three fingers, tapping the flies down on your knee. Then, take the lid and screw it onto the vial. It might take a couple of tries. If the flies escape, give them a minute to settle down on the pile and then try again. <br>
+
+Your sample likely contains anywhere from 10-100 flies and multiple species. Take a look at your vial. How many unique species do you think there are? Write down your estimate on your sample label.<br>
+
+**To preserve** your flies for genetic analysis, you will be storing them in 75% ethanol. First, take a preservation tube and fill it ~1/3 full with 75% ethanol using your plastic eye-dropper. Place your funnel in the opening to the preservation tube and seat both upright, using your specimen box. Using a tapping motion, tap your vial
+down to knock the flies to the bottom of the collection tube. Unscrew the vial and place two or three fingers over the top. In a swift motion, invert the collection vial into the funnel and tap\* the flies down, into the ethanol.
+
+Ideally, you will fill the preservation tube more than half way full with flies. You might need to take multiple samples from your pile on a collection day to get that many. If, after two or three nettings, you cannot get the vial half full, then stop. Once your collection is complete, firmly press the cap down (it'll snap closed) and place vial upright in the freezer. This ensures that DNA will be preserved in a high quality state.<br>
+
+**Record** your sample by filling in the date and time of collection on your specimen label and apply to the vial. Please use a pencil or ball-point pen, as Sharpies tend to bleed when exposed to ethanol. Your labels will contain a unique collector ID (that’s you!) and a sample number. For safety, record the sample number, time, and
+date on your collection log.<br>
+
+We will **pick-up** your samples at the end of the year (**December 1-15 2020, or earlier upon request**). <br>
+We will **remind** you to collect every two weeks via text message or email (your choice).<br>
+
+\***Cold shock your flies.** If you are having a difficult time transferring your flies from the collection vial to the preservation tube, place the collection vial in the freezer for ~1-2 minutes. This will slow the flies down.
