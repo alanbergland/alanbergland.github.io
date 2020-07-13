@@ -7,6 +7,7 @@ subtitle: Capture evolution in your own backyard!
 date:   2020-07-11
 image: "/assets/images/backyardEvoHeader.png"
 published: true
+sidebar: false
 canonical_url: /announcements/backyard-evolution
 excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is looking for volunteers to collect and preserve flying insects from their compost piles this spring, summer, and fall. Click below to read more!"
 callouts: backyardevo_callouts
@@ -26,4 +27,4 @@ Your compost pile is teaming with life, and fruit flies are an important part of
 ### Participate in a world-wide effort
 Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [http://www.droseu.net](http://www.droseu.net)
 
-## We supply everything you need to participate! 
+## We supply everything you need to participate!
