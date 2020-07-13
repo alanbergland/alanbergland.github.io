@@ -9,10 +9,8 @@ items:
     call_to_action_link: bergland-lab.org/backyard
   - title: We provide the collection gear and online training
     icon: fa-users
-    description: >s
+    description: >
   - title: Questions?
     icon: fa-fist-raised
     description: >
       Contact virginia.backyard.flies@gmail.com
-    call_to_action_name: Email
-    call_to_action_link: mailto:virginia.backyard.flies@gmail.com
