@@ -27,4 +27,23 @@ Your compost pile is teaming with life, and fruit flies are an important part of
 ### Participate in a world-wide effort
 Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [http://www.droseu.net](http://www.droseu.net)
 
+# To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
+
 ## We supply everything you need to participate!
+### The Kit
+* Drosophila net
+* Collection vials
+* Preservation tubes
+* 75% Ethanol
+* Eye dropper
+* Specimen labels
+* A funnel
+* Collection Log
+* Collection Manual
+
+Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.**
+
+### Learn how to collect flies with this video:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+## Here's what you'll be doing 2x a month:
