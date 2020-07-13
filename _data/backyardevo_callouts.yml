@@ -2,15 +2,18 @@ style: is-light
 height: is-short
 items:
   - title: It's FREE
-    icon: fa-dna
     description: >
-      To sign up, visit [bergland-lab.org/backyard](bergland-lab.org/backyard)
+      1. To sign up, visit bergland-lab.org/backyard
+      2. Receive the collection kit
+      3. Start your collections!
     call_to_action_name: Sign up
     call_to_action_link: bergland-lab.org/backyard
+  - title: Participate in this citizen science project.
+    description: >
+    The Bergland Lab at UVA is looking for volunteers to collect and preserve flying insects
+    from their compost piles this spring, summer, and fall.
   - title: We provide the collection gear and online training
-    icon: fa-users
     description: >
-  - title: Questions?
-    icon: fa-fist-raised
-    description: >
-      Contact virginia.backyard.flies@gmail.com
+      Questions? Contact virginia.backyard.flies@gmail.com
+    call_to_action_name: Email us
+    # call_to_action_link: mailto:virginia.backyard.flies@gmail.com
