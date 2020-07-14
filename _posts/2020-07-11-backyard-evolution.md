@@ -12,6 +12,7 @@ excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is l
 callouts: backyardevo_callouts
 menubar: backyardevo_menubar
 ---
+<a id="top"></a>
 <img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="30%" height="30%">
 ### Evolution in your backyard
 For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in population size across time. Many of the organisms in your backyard - for instance small invertebrates and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
@@ -22,6 +23,7 @@ We can observe evolutionary change in populations through the analysis of DNA. B
 ### Fruit flies and compost piles
 Your compost pile is teaming with life, and fruit flies are an important part of that ecosystem. Fruit flies typically eat bacteria and fungi that decompose your scraps, and are therefore part of the decomposition cycles that make the world go around. Over the course of the summer, your pile will likely be inhabited by about a dozen species of fruit flies, in addition to many other flying, walking, and crawling invertebrates. For some species of fruit flies, 10-15 generations can pass between the spring and fall. Populations of fruit flies evolve over the course of the growing season as aspects of the nutritional and thermal environment change. By sampling fruit flies from your compost pile over the growing season, we can track the evolutionary dynamics of fruit flies in real-time.
 
+<a id="sign-up"></a>
 # Will you commit to sampling and preserving small flying insects from your compost piles 2x per month July - December?
 ##### \*If you miss a week or two, that's okay!
 
@@ -57,6 +59,7 @@ Your participation in this project will contribute to an ongoing, international 
 
 </div>
 
+<a id="how-to"></a>
 ### Learn how to collect flies with this video:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
@@ -92,15 +95,19 @@ to track the frequency of every genetic variant in the genome through the growin
 
 The 2020 Backyard Evolution collection effort is a pilot project that will augment ongoing research in the Bergland lab. We aim to include ~35 participants this year, and will be pursuing National Science Foundation funding to expand the program to include more of the state for 2021-2026. We look forward to working with you to incorporate your ideas to improve this project and to increase outreach and education efforts.<br><br>
 
+<a id="diversity"></a>
 **Statement on the evolution of diversity.** In many species, populations differ from each other and these different varieties are sometimes locally adapted to the environment where they are found. It is easy to relate this ubiquitous biological phenomenon to racial categories. We cannot confuse ancestry and evolutionary history with race. Racial labels reflect the imposition of power of one group over another and arbitrary distinctions of who is superior and inferior. There is no biological justification for oppression. There is no better and worse, just different.<br><br>
 
+<a id="covid"></a>
 **COVID-19 safety**<br>
 Collection kits will be dropped off at your house with no personal contact.
 <br><br>
+<a id="privacy"></a>
 **Privacy statement**
 
 We will only use your contact information to remind you to collect. For research purposes, we will use latitude and longitude associated with your house along with the answers to your survey questions. Your name will not be linked to your address for any publication and your house location will be only presented as latitude and longitude (within ~1/2 mile of actual address).
 
+<a id="contact"></a>
 ## ANY QUESTIONS?
 Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
 ## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
