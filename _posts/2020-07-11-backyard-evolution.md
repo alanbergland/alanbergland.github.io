@@ -54,10 +54,9 @@ Your participation in this project will contribute to an ongoing, international 
   <div class="column is-2">
   <img src="/assets/images/BackyardEvolution/bkydevo3.png" width="150px" height="228px">
   </div>
-  </div>
+
 </div>
 
-<br>
 ### Learn how to collect flies with this video:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
