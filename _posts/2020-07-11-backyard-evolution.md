@@ -33,8 +33,7 @@ Your participation in this project will contribute to an ongoing, international 
 ## We supply everything you need to participate!
 <div class="columns is-multiline">
   <div class="column is-3" markdown="1">
-
-  ### The Kit
+  <h3>The Kit</h3>
   * Drosophila net
   * Collection vials
   * Preservation tubes
