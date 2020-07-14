@@ -42,12 +42,12 @@ Your participation in this project will contribute to an ongoing, international 
 * Collection Log
 * Collection Manual
 </div>
-<iframe src="/assets/images/BackyardEvolution/bkydevo2.png" width=20% height=auto></iframe>
+<iframe src="/assets/images/BackyardEvolution/bkydevo2.png" width="20%" height="auto"></iframe>
 
 Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.**
-<iframe src="/assets/images/BackyardEvolution/bkydevo3.png" width=20% height=auto></iframe>
+<iframe src="/assets/images/BackyardEvolution/bkydevo3.png" width="20%" height="auto"></iframe>
 
-
+<br>
 ### Learn how to collect flies with this video:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
