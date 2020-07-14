@@ -112,4 +112,7 @@ We will only use your contact information to remind you to collect. For research
 Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
 ## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
+<br><br>
+#### Drosopholids of the Midwest and Northeast
+<a href="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" download>Download pdf</a>
 <img src="/assets/images/BackyardEvolution/DrosopholidsGuide.jpg" width="65%" height="100%">
