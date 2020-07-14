@@ -12,7 +12,7 @@ canonical_url: /announcements/backyard-evolution
 excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is looking for volunteers to collect and preserve flying insects from their compost piles this spring, summer, and fall. Click below to read more!"
 callouts: backyardevo_callouts
 ---
-<img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right">
+<img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="25%" height="25%">
 ### Evolution in your backyard
 For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in population size across time. Many of the organisms in your backyard - for instance small invertebrates and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
 
