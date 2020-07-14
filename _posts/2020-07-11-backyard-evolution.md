@@ -8,9 +8,9 @@ date:   2020-07-11
 image: "/assets/images/BackyardEvolution/backyardEvoHeader.png"
 published: true
 show_sidebar: false
-canonical_url: /announcements/backyard-evolution
 excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is looking for volunteers to collect and preserve flying insects from their compost piles this spring, summer, and fall. Click below to read more!"
 callouts: backyardevo_callouts
+menubar: backyardevo_menubar
 ---
 <img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="30%" height="30%">
 ### Evolution in your backyard
@@ -105,4 +105,4 @@ We will only use your contact information to remind you to collect. For research
 Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
 ## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
-<iframe src="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" width="65%" height="100%"></iframe>
+<img src="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" width="65%" height="100%">
