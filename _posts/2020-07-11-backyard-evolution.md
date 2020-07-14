@@ -42,11 +42,11 @@ Your participation in this project will contribute to an ongoing, international 
 * Collection Log
 * Collection Manual
 </div>
-<img src="/assets/images/BackyardEvolution/bkydevo2.png" width="auto" height="300px">
+<img src="/assets/images/BackyardEvolution/bkydevo2.png" height="300px">
 
 <div markdown="1">
 Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.**
-<div style="float:right"><img src="/assets/images/BackyardEvolution/bkydevo3.png" width="300px" height="456px"></div>
+<div style="float:right"><img src="/assets/images/BackyardEvolution/bkydevo3.png" width="150px" height="228px"></div>
 </div>
 
 <br>
