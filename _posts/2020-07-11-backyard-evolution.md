@@ -30,23 +30,27 @@ Your participation in this project will contribute to an ongoing, international 
 # To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
 ## We supply everything you need to participate!
-<div style="float:left;width:30%" markdown="1">
-### The Kit
-* Drosophila net
-* Collection vials
-* Preservation tubes
-* 75% Ethanol
-* Eye dropper
-* Specimen labels
-* A funnel
-* Collection Log
-* Collection Manual
-</div>
-<img src="/assets/images/BackyardEvolution/bkydevo2.png" width="258" height="300px">
+<div class="columns is-multiline">
+  <div class="column is-4" markdown="1">
+  ### The Kit
+  * Drosophila net
+  * Collection vials
+  * Preservation tubes
+  * 75% Ethanol
+  * Eye dropper
+  * Specimen labels
+  * A funnel
+  * Collection Log
+  * Collection Manual
+  </div>
+  <div class="column is-3">
+  <img src="/assets/images/BackyardEvolution/bkydevo2.png" width="258" height="300px">
+  </div>
 
-<div markdown="1">
-Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.**
-<div style="float:right"><img src="/assets/images/BackyardEvolution/bkydevo3.png" width="150px" height="228px"></div>
+  <div class="column is-5" markdown="1">
+  Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.** <br>
+  <img src="/assets/images/BackyardEvolution/bkydevo3.png" width="150px" height="228px">
+  </div>
 </div>
 
 <br>
