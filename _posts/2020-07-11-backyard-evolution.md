@@ -66,4 +66,29 @@ date on your collection log.<br>
 We will **pick-up** your samples at the end of the year (**December 1-15 2020, or earlier upon request**). <br>
 We will **remind** you to collect every two weeks via text message or email (your choice).<br>
 
-\***Cold shock your flies.** If you are having a difficult time transferring your flies from the collection vial to the preservation tube, place the collection vial in the freezer for ~1-2 minutes. This will slow the flies down.
+\***Cold shock your flies.** If you are having a difficult time transferring your flies from the collection vial to the preservation tube, place the collection vial in the freezer for ~1-2 minutes. This will slow the flies down.<br>
+
+**What species of fruit flies can you expect to find?** In Central Virginia, we typically find about 10 species of flies. Some of these species are endemic to Virginia and North America. One group of endemic species that you can easily spot are species in the _affinis_ group. They tend to be quite dark and males have bright red testicles that are visible on the bottom of their abdomen. Other species you find are invasive, and have established in North America over the last several hundred
+years. One of these species is the genetic model species, _Drosophila melanogaster_. Even though this species is not native, it is capable of overwintering and populations in your backyard might be permanent. Most of the species you collect are not economically important pests. One exception is _Drosophila suzukii_, the spotted wing Drosophila. This species has colonized the world in the last decade and is a major pest on soft-skinned fruits. An excellent resource for species identification
+and natural history of many of the species in our area can be found in _**Drosophilids of the Midwest and Northeast (2018) by Werner, Steenwinkel, and Jaenike**_
+[https://digitalcommons.mtu.edu/oabooks/1/](https://digitalcommons.mtu.edu/oabooks/1/) (the 2nd version includes bedtime stories for kids!)<br><br>
+
+**What are we going to do with the flies you collect?** Samples that you collect during this first year will be sorted by students at UVA. We will then sequence the genomes of one species you collect, _D. melanogaster_, using a technique called Illumina sequencing. This approach will allow us
+to track the frequency of every genetic variant in the genome through the growing season. This is the basic approach that we use to study the evolutionary process. The remaining samples of species will be retained for future work.<br>
+
+The 2020 Backyard Evolution collection effort is a pilot project that will augment ongoing research in the Bergland lab. We aim to include ~35 participants this year, and will be pursuing National Science Foundation funding to expand the program to include more of the state for 2021-2026. We look forward to working with you to incorporate your ideas to improve this project and to increase outreach and education efforts.<br><br>
+
+**Statement on the evolution of diversity.** In many species, populations differ from each other and these different varieties are sometimes locally adapted to the environment where they are found. It is easy to relate this ubiquitous biological phenomenon to racial categories. We cannot confuse ancestry and evolutionary history with race. Racial labels reflect the imposition of power of one group over another and arbitrary distinctions of who is superior and inferior. There is no biological justification for oppression. There is no better and worse, just different.<br><br>
+
+**COVID-19 safety**<br>
+Collection kits will be dropped off at your house with no personal contact.
+<br><br>
+**Privacy statement**
+
+We will only use your contact information to remind you to collect. For research purposes, we will use latitude and longitude associated with your house along with the answers to your survey questions. Your name will not be linked to your address for any publication and your house location will be only presented as latitude and longitude (within ~1/2 mile of actual address).
+
+## ANY QUESTIONS?
+Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
+## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
+
+<iframe src="/assets/images/DrosophildsGuide.pdf" width="50%">
