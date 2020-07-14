@@ -91,4 +91,4 @@ We will only use your contact information to remind you to collect. For research
 Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
 ## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
-<iframe src="/assets/images/DrosopholidsGuide.pdf" width="65%">
+<iframe src="/assets/images/DrosopholidsGuide.pdf" width="65%" height="auto">
