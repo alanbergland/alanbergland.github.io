@@ -114,5 +114,5 @@ Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.c
 
 <br><br>
 #### Drosopholids of the Midwest and Northeast
-<a href="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" download>Download pdf</a>
+<a href="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" download>Download pdf</a> <br>
 <img src="/assets/images/BackyardEvolution/DrosopholidsGuide.jpg" width="65%" height="100%">
