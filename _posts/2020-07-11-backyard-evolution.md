@@ -5,7 +5,7 @@ hero_height: is-medium
 title:  "Backyard Evolution"
 subtitle: Capture evolution in your own backyard!
 date:   2020-07-11
-image: "/assets/images/backyardEvoHeader.png"
+image: "/assets/images/BackyardEvolution/backyardEvoHeader.png"
 published: true
 show_sidebar: false
 canonical_url: /announcements/backyard-evolution
@@ -30,6 +30,7 @@ Your participation in this project will contribute to an ongoing, international 
 # To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
 ## We supply everything you need to participate!
+<div style="float:left;width:30%">
 ### The Kit
 * Drosophila net
 * Collection vials
@@ -40,8 +41,12 @@ Your participation in this project will contribute to an ongoing, international 
 * A funnel
 * Collection Log
 * Collection Manual
+</div>
+<iframe src="/assets/images/BackyardEvolution/bkydevo2.png" width=20% height=auto>
 
 Here is an example of a filled collection vial. Flies were collected by gently kicking a compost pile. There are **~50 flies in there, so multiple vials might be necessary to get the requested ~200 flies.**
+<iframe src="/assets/images/BackyardEvolution/bkydevo3.png" width=20% height=auto>
+
 
 ### Learn how to collect flies with this video:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
@@ -91,4 +96,4 @@ We will only use your contact information to remind you to collect. For research
 Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.com)
 ## TO SIGN UP, VISIT [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
-<iframe src="/assets/images/DrosopholidsGuide.pdf" width="65%" height="100%">
+<iframe src="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" width="65%" height="100%">
