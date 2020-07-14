@@ -10,7 +10,7 @@ published: true
 show_sidebar: false
 excerpt: "Participate in a citizen science project! The Bergland Lab at UVA is looking for volunteers to collect and preserve flying insects from their compost piles this spring, summer, and fall. Click below to read more!"
 callouts: backyardevo_callouts
-menubar: backyardevo_menubar
+menubar: backyardevo_menu
 ---
 <a id="top"></a>
 <img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="30%" height="30%">
