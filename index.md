@@ -5,7 +5,7 @@ subtitle: an ecological- and evolutionary-genetics lab
 hero_height: is-large
 hero_link: /#callouts
 hero_link_text: Scroll for more
-show_sidebar: true
+show_sidebar: false
 callouts: homepage_callouts
 ---
 <!-- set up scroll elements for the announcements -->
