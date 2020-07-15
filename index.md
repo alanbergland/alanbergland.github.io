@@ -11,6 +11,7 @@ callouts: homepage_callouts
 <!-- set up scroll elements for the announcements -->
 <style>
 .scroll_wrapper {
+    position: relative;
     display: inline-block;
     padding-right: 10px;
     margin-top: -12px;
@@ -20,6 +21,8 @@ callouts: homepage_callouts
 <style>
 .scroll {
     overflow-x: scroll;
+    overflow-y: hidden;
+    height: 800px;
 }
 </style>
 
