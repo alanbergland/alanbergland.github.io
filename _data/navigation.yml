@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Announcements
-  link: /announcements/
+# - name: Announcements
+#   link: /announcements/
 - name: Who We Are
   link: /who-we-are/
 - name: What We Do
@@ -12,6 +12,8 @@
   link: /diversity/
 - name: Publications
   link: /publications/
+- name: Backyard Evolution!
+  link: /2020/07/11/backyard-evolution/
 # - name: Pages
 #   link: /#
 #   dropdown:
