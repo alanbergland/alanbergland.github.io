@@ -27,12 +27,8 @@ callouts: homepage_callouts
 
 <div class="scroll_wrapper">
   <div class="scroll">
-  <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
-       <img src="http://placehold.it/1200x800" />
+     {% for post in site.posts %}
+        {% include post-card.html %}
+     {% endfor %}
   </div>
 </div>
