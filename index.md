@@ -29,8 +29,8 @@ callouts: homepage_callouts
 # Recent Announcements
 <div class="scroll_wrapper">
   {% for post in site.posts %}
-  <div class="scroll">
+  <div class="scroll"><div class="column is-multiline">
         {% include post-card.html %}
-  </div>
+  </div></div>
   {% endfor %}
 </div>
