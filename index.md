@@ -23,14 +23,15 @@ callouts: homepage_callouts
     display:inline-block;
     width: 66%;
     height: 50%;
+    word-wrap: normal;
 }
 </style>
 
 # Recent Announcements
 <div class="scroll_wrapper">
   {% for post in site.posts %}
-  <div class="scroll"><div class="column is-multiline">
+  <div class="scroll">
         {% include post-card.html %}
-  </div></div>
+  </div>
   {% endfor %}
 </div>
