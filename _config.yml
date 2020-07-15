@@ -69,7 +69,7 @@ defaults:
       author: ""
       layout: post
       image: https://via.placeholder.com/1200x800
-      show_sidebar: true
+      show_sidebar: false
       hide_hero: true
 
 markdown: kramdown
