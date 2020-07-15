@@ -12,8 +12,6 @@ callouts: homepage_callouts
 <style>
 .scroll_wrapper {
     position: relative;
-    /* padding-right: 10px;
-    margin-top: -12px; */
     width: 100%;
     height: 50%;
     overflow-x: auto;
@@ -24,6 +22,7 @@ callouts: homepage_callouts
     width: 40%;
     height: 50%;
     white-space: normal;
+    padding:0 10px 10px 10px;
 }
 </style>
 
