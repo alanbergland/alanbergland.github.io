@@ -21,7 +21,7 @@ callouts: homepage_callouts
 }
 .scroll {
     display:inline-block;
-    width: 66%;
+    width: 40%;
     height: 50%;
     white-space: normal;
 }
