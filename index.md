@@ -20,7 +20,7 @@ callouts: homepage_callouts
 .scroll {
     overflow-x: scroll;
     overflow-y: hidden;
-    height: 800px;
+    height: 50%;
     white-space: nowrap;
 }
 </style>
