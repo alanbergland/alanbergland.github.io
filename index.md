@@ -17,17 +17,16 @@ callouts: homepage_callouts
     margin-top: -12px;
     width: 100%;
 }
-</style>
-<style>
 .scroll {
     overflow-x: scroll;
     overflow-y: hidden;
     height: 800px;
+    white-space: nowrap;
 }
 </style>
 
-<div class="wrapper">
-  <div class="scrolls">
+<div class="scroll_wrapper">
+  <div class="scroll">
   <img src="http://placehold.it/1200x800" />
        <img src="http://placehold.it/1200x800" />
        <img src="http://placehold.it/1200x800" />
