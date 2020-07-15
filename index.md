@@ -12,16 +12,15 @@ callouts: homepage_callouts
 <style>
 .scroll_wrapper {
     position: relative;
-    display: inline-block;
-    padding-right: 10px;
-    margin-top: -12px;
+    /* padding-right: 10px;
+    margin-top: -12px; */
     width: 100%;
     height: 50%;
+    overflow-x: auto;
+    white-space:nowrap;
 }
 .scroll {
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
+    display:inline-block;
 }
 </style>
 
