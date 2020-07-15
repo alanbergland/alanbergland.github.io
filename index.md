@@ -23,7 +23,7 @@ callouts: homepage_callouts
     display:inline-block;
     width: 66%;
     height: 50%;
-    word-wrap: normal;
+    white-space: normal;
 }
 </style>
 
