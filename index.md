@@ -16,19 +16,20 @@ callouts: homepage_callouts
     padding-right: 10px;
     margin-top: -12px;
     width: 100%;
+    height: 50%;
 }
 .scroll {
     overflow-x: scroll;
     overflow-y: hidden;
-    height: 50%;
     white-space: nowrap;
 }
 </style>
 
+# Recent Announcements
 <div class="scroll_wrapper">
+  {% for post in site.posts %}
   <div class="scroll">
-     {% for post in site.posts %}
         {% include post-card.html %}
-     {% endfor %}
   </div>
+  {% endfor %}
 </div>
