@@ -42,7 +42,7 @@
                               <p class="text">
                                 {{ sponsor.profile }}
                               </p>
-                            <button><i class="arrow"></i></button>
+                            <button onclick="clicked();"><i class="arrow"></i></button>
                             </div>
                             {% else %}
                             &nbsp;
@@ -128,10 +128,11 @@
 </style>
 <!-- JAVASCRIPT -->
 <script>
-const expand = document.querySelector('.expand');
-let isOpen = false;
-document.querySelector('button').addEventListener('click', () => {
-  isOpen = !isOpen;
-  isOpen ? expand.classList.add('open') : expand.classList.remove('open')
-});
+  const expand = document.querySelector('.expand');
+  let isOpen = false;
+
+  function clicked(){
+    isOpen = !isOpen;
+    isOpen ? expand.classList.add('open') : expand.classList.remove('open')
+  };
 </script>
