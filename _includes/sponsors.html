@@ -42,7 +42,7 @@
                               <p class="text">
                                 {{ sponsor.profile }}
                               </p>
-                            <button onclick="clicked();"><i class="arrow"></i></button>
+                            <button><i class="arrow"></i></button>
                             </div>
                             {% else %}
                             &nbsp;
@@ -125,29 +125,13 @@
     -webkit-transform: rotate(-135deg);
     margin-top: 5px;
   }
-
-  button {
-  background: transparent;
-  border: 2px solid #000;
-  height: 32px;
-  width: 32px;
-  border-radius: 50%;
-  outline: none;
-  cursor: pointer;
-  font-size: 16px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto;
-}
 </style>
 <!-- JAVASCRIPT -->
 <script>
   const expand = document.querySelector('.expand');
-  let isOpen = false;
-
-  function clicked(){
-    isOpen = !isOpen;
-    isOpen ? expand.classList.add('open') : expand.classList.remove('open')
-  };
+let isOpen = false;
+document.expand.querySelector('button').addEventListener('click', () => {
+  isOpen = !isOpen;
+  isOpen ? expand.classList.add('open') : expand.classList.remove('open')
+});
 </script>
