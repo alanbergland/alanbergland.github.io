@@ -36,14 +36,17 @@
                             &nbsp;
                             {% endif %}
                         </p>
-                        <div class="expand">
+
                             {% if sponsor.profile %}
-                            {{ sponsor.profile }}
+                            <div class="expand">
+                              <p class="text">
+                                {{ sponsor.profile }}
+                              </p>
+                            <button><i class="arrow"></i></button>
+                            </div>
                             {% else %}
                             &nbsp;
                             {% endif %}
-                            <button><i class="arrow"></i></button>
-                        </div>
                     </div>
                 </div>
                 {% endfor %}
