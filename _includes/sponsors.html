@@ -18,11 +18,11 @@
             <div class="columns is-multiline is-centered">
                 {% for sponsor in tier.sponsors %}
                 <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %}">
-                    <div class="box has-text-centered">
+                    <div class="box has-text-centered" style="float:left;">
                         <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
                             {{ sponsor.name }}
                         </p>
-                        <p class="subtitle {% if tier.size == 'large' %} is-6 {% elsif tier.size == 'small' %} is-8 {% else %} is-7 {% endif %}">
+                        <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
                             {% if sponsor.subtitle %}
                             {{ sponsor.subtitle }}
                             {% else %}
@@ -36,6 +36,8 @@
                             &nbsp;
                             {% endif %}
                         </p>
+                        </div>
+                        <div class="box">
                         <p class="subtitle is-6">
                             {% if sponsor.profile %}
                             {{ sponsor.profile }}
@@ -43,7 +45,7 @@
                             &nbsp;
                             {% endif %}
                         </p>
-                    </div>
+                        </div>
                 </div>
                 {% endfor %}
             </div>
