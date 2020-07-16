@@ -36,13 +36,14 @@
                             &nbsp;
                             {% endif %}
                         </p>
-                        <p class="subtitle is-6">
+                        <div class="expand">
                             {% if sponsor.profile %}
                             {{ sponsor.profile }}
                             {% else %}
                             &nbsp;
                             {% endif %}
-                        </p>
+                            <button><i class="arrow"></i></button>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}
@@ -54,3 +55,82 @@
         {% endfor %}
     </div>
 {% endif %}
+
+<!-- DEFINE EXPADABLE PROFILE TEXTS source:https://codepen.io/dev_jonas/pen/dyPxyvp-->
+<!-- CSS -->
+<style>
+  /* expandable text */
+  .expand {
+    margin: 22px auto;
+    width: 320px;
+    padding: 12px 32px 64px;
+    max-height: 162px;
+    overflow: hidden;
+    transition: max-height 0.3s cubic-bezier(0, 1, 0, 1);
+  }
+
+  .expand.open {
+    max-height: 100rem;
+    transition: max-height 0.5s cubic-bezier(0.9, 0, 0.8, 0.2);
+  }
+
+  /* Text */
+  @keyframes open {
+    from {
+      line-clamp: 3;
+      -webkit-line-clamp: 3;
+    }
+    to {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+  }
+
+  @keyframes close {
+    from {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+    to {
+      line-clamp: 3;
+      -webkit-line-clamp: 3;
+    }
+  }
+
+  .text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 12px 0;
+    animation: close 0.1s linear 0.1s forwards;
+  }
+  .open .text {
+    animation: open 0.1s linear 0s forwards;
+  }
+
+  /* Irrelavant css... */
+  .arrow {
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .open .arrow {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    margin-top: 5px;
+  }
+</style>
+<!-- JAVASCRIPT -->
+<script>
+const expand = document.querySelector('.expand');
+let isOpen = false;
+document.querySelector('button').addEventListener('click', () => {
+  isOpen = !isOpen;
+  isOpen ? expand.classList.add('open') : expand.classList.remove('open')
+});
+</script>
