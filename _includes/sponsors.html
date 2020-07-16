@@ -129,8 +129,8 @@
 <!-- JAVASCRIPT -->
 <script>
   const expand = document.querySelector('.expand');
-  let isOpen = false;
-  document.expand.querySelectorAll('button').addEventListener('click', () => {
+  expand.querySelectorAll('button').addEventListener('click', () => {
+    let isOpen = false;
     isOpen = !isOpen;
     isOpen ? expand.classList.add('open') : expand.classList.remove('open')
   });
