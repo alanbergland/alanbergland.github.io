@@ -22,7 +22,7 @@
                         <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
                             {{ sponsor.name }}
                         </p>
-                        <p class="subtitle is-4">
+                        <p class="subtitle {% if tier.size == 'large' %} is-6 {% elsif tier.size == 'small' %} is-8 {% else %} is-7 {% endif %}">
                             {% if sponsor.subtitle %}
                             {{ sponsor.subtitle }}
                             {% else %}
