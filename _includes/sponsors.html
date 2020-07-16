@@ -42,7 +42,7 @@
                               <p class="text">
                                 {{ sponsor.profile }}
                               </p>
-                             <button onclick="clicked();"><i class="arrow"></i></button>
+                             <button><i class="arrow"></i></button>
                             </div>
                             {% else %}
                             &nbsp;
@@ -130,9 +130,8 @@
 <script>
   const expand = document.querySelectorAll('.expand');
   let isOpen = false;
-
-  function clicked(){
+  document.querySelectorAll('button').addEventListener('click', () => {
     isOpen = !isOpen;
     isOpen ? expand.classList.add('open') : expand.classList.remove('open')
-  };
+  });
 </script>
