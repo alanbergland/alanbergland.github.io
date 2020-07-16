@@ -20,6 +20,13 @@
     - name: Dörthe Becker
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
+    - name: Joaquin C. B. Nunez
+      subtitle: Post-doc, 2020-current
+      image: /assets/images/profiles/joaquinnunez.jpg
+      profile: |-
+      My research studies patterns of genetic variation in natural populations living  in highly variable environments. I seek to characterize what loci are under selection at different scales of environmental heterogeneity both in space and time. My research program seeks to determine the identity of these ecologically important loci, as well as the mechanisms that underlie their maintenance of genetic variation. I did my PhD at Brown with David M. Rand woking on intertidal barnacles. I did my undergraduate at the University of Miami with  Margie F. Oleksiak and Doug L. Crawford working on killifish.
+      [website](https://www.jcbnunez.org/)
+      [google scholar](https://scholar.google.com/citations?user=r1E84bEAAAAJ&hl=en&authuser=2)
 - tier_name: PhD Students
   description: |-
   sponsors:
