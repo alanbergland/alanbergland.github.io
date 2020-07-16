@@ -128,10 +128,20 @@
 </style>
 <!-- JAVASCRIPT -->
 <script>
-  const expand = document.querySelector('.expand');
-  let isOpen = false;
-  function clicked(){
-    isOpen = !isOpen;
-    isOpen ? expand.classList.add('open') : expand.classList.remove('open')
-  };
+  // const expand = document.querySelector('.expand');
+  // let isOpen = false;
+  // function clicked(){
+  //   isOpen = !isOpen;
+  //   isOpen ? expand.classList.add('open') : expand.classList.remove('open')
+  // };
+
+  const expands = document.getElementsByClassName("expand");
+  var i = 0;
+  for (i = 0; i < expands.length; i++) {
+    var isClicked = false;
+    expands[i].addEventListener("click", () => {
+      isClicked = !isClicked;
+      isClicked ? expands[i].classList.add("open") : expands[i].classList.remove("open");
+    })
+  }
 </script>
