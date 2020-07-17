@@ -51,7 +51,7 @@
 
                             <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
                                 {% if sponsor.website and sponsor.gscholar %}
-                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a><a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
+                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>   <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
                                 {% elsif sponsor.website %}
                                 <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>
                                 {% elsif sponsor.gscholar %}
