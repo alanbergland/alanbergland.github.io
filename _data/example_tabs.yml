@@ -2,15 +2,12 @@ alignment: is-left
 style: is-boxed
 size: is-large
 items:
-  - name: Tabs
+  - name: Undergraduates
     link: /page-4/
     icon: fa-smile-wink
-  - name: Sidebar
+  - name: Graduate Students
     link: /page-1/
     icon: fa-angle-double-right
-  - name: No Sidebar
+  - name: Post-docs
     link: /page-2/
     icon: fa-ellipsis-v
-  - name: Menubar
-    link: /page-3/
-    icon: fa-bars
