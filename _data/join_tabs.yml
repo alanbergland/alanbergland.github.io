@@ -3,14 +3,11 @@ style: is-boxed
 size: is-large
 items:
   - name: Undergraduates
-    link: /page-4/
+    link: /join-us/
     icon: fa-smile-wink
-    index: 1
   - name: Graduate Students
-    link: /page-1/
+    link: /join-us/grad-students
     icon: fa-angle-double-right
-    index: 2
   - name: Post-docs
-    link: /page-2/
+    link: /join-us/post-docs
     icon: fa-ellipsis-v
-    index: 3
