@@ -4,10 +4,7 @@ size: is-medium
 items:
   - name: Undergraduates
     link: /join-us/
-    icon: fa-smile-wink
   - name: Graduate Students
     link: /join-us/grad-students
-    icon: fa-angle-double-right
   - name: Post-docs
     link: /join-us/post-docs
-    icon: fa-ellipsis-v
