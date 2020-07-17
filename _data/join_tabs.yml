@@ -1,6 +1,6 @@
 alignment: is-left
 style: is-boxed
-size: is-large
+size: is-medium
 items:
   - name: Undergraduates
     link: /join-us/

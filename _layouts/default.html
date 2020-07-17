@@ -1,6 +1,6 @@
 {% if page.menubar and page.show_sidebar %}
     {% assign content_width = 'is-6' %}
-{% elsif page.menubar %}
+{% elsif page.menubar or page.tabs %}
     {% assign content_width = 'is-10' %}
 {% elsif page.show_sidebar %}
     {% assign content_width = 'is-6' %}
