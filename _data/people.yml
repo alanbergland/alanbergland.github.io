@@ -12,11 +12,18 @@
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
     - name: Karen Barnard-Kubow
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: Research Scientist, 2016-current
+      image: /assets/images/profiles/karenbardnardkubow.jpg
+      profile: Dr. Karen Barnard-Kubow is interested in the processes underlying the generation and maintenance of genetic variation, and how genetic divergence may eventually lead to the formation of new species. For her PhD with [Laura Galloway](http://gallowaylab.weebly.com/) she worked on cytonuclear incompatibility and speciation in an herbaceous plant species. She conducted post-doctoral research with [Ben Blackman](http://plantandmicrobiology.berkeley.edu/profile/bblackman) examining the genetic architecture of photoperiod in wild populations of sunflowers. Her current research is focused on understanding how the interplay between ecology and reproductive polymorphism influences the maintenance of genetic diversity within populations of the model facultative parthenogen, _Daphnia pulex_.
+        [kbkubow@virginia.edu](mailto:kbkubow@virginia.edu)
+        [website](https://sites.google.com/virginia.edu/karen-barnard-kubow/home)
     - name: Priscilla Erickson
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: Post-doc, 2016-current
+      image: /assets/images/profiles/priscillaerickson.JPG
+      profile: |
+        Priscilla is interested in studying how organisms survive in changing environments. She focuses on the genetic basis of traits related to cold tolerance and overwintering in fruit flies, using a combination of field work, lab experiments, and genomics. Starting in 2021, Priscilla will have her own lab at the University of Richmond, where she will work with undergraduates to study evolutionary genetics in the invasive fruit fly _Zaprionus indianus_.
+        [website](www.priscillaerickson.com)
+        [google scholar](https://scholar.google.com/citations?user=RMy_dC8AAAAJ&hl=en)
     - name: Dörthe Becker
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
@@ -30,12 +37,14 @@
 - tier_name: PhD Students
   description: |-
   sponsors:
-    - name: Alyssa Black
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+    - name: Alyssa Bangerter
+      subtitle: 2016-current
+      image: /assets/images/profiles/alyssabangerter.jpg
+      profile: Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research. [ab5dr@virginia.edu](mailto:ab5dr@virginia.edu)
     - name: Yang Yu
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: 2017-current
+      image: /assets/images/profiles/yangyu.jpeg
+      profile: I am interested in understanding how Drosophila melanogaster populations adapt to spatial and temporal environmental heterogeneity. My current projects are looking at 1. Adaptive signals and genetic mechanisms underlying local adaptation at functional genetic loci; 2. Relative contributions of genetic adaptation and plasticity to seasonal fitness-related traits; 3. Seasonal gene expression patterns and the evolutionary trajectory of the expression quantitative trait loci (eQTLs).
     - name: Connor Murray
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
@@ -58,11 +67,13 @@
 - tier_name: Alumni
   size: small
   description: |-
-    Keep this here or link to a separate alumni page.
+    Previous members of the Bergland Lab
   sponsors:
-    - name: Placeholder
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
-    - name: Placeholder
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+    - name:  Daniel Y. Song
+      subtitle: 2016-2019
+      image: /assets/images/profiles/danielsong.jpg
+      profile: Daniel Song was an undergraduate student working with Priscilla Erickson to determine the effect of olfactory and nutrition cues on diapause in varying lines of D. melanogaster. He helped lay down the foundations and cages for the outdoor D. melanogaster seasonal experiments in Morven Gardens (where he also saved turtles traveling on main roads). After graduating UVA with a BA in Biology, he is currently working on getting a Master's in Biomedical Sciences at Virginia Tech. He is expected to graduate 2021 with hopes of attending VCOM the following fall.
+    - name: Cynthia Ong
+      subtitle: 2016-2019
+      image: /assets/images/profiles/cynthiaong.jpg
+      profile: Cynthia was an undergraduate student who was an active member of the lab for over three years, during which she conducted numerous independent research projects and significantly contributed to numerous research studies. Her projects studying Daphnia pulex included characterizing phenotypic responses to predation, examining potential costs associated with phenotypic plasticity, and studying population dynamics in natural populations through fine scale temporal sampling. She completed her distinguished majors program, presenting at the 2018 Katz Symposium and receiving high distinction. She was also awarded the Harrison Undergraduate Research Award, presenting her research at the 2019 URN Symposium. Cynthia is currently attending Virginia Commonwealth University School of Medicine as part of the Class of 2024.

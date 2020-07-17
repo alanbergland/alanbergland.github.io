@@ -39,9 +39,10 @@
 
                             {% if sponsor.profile %}
                             <div class="expand">
-                              <p class="text">
+                              <p class="text" markdown="1">
                                 {{ sponsor.profile }}
                               </p>
+                             <!-- <button><i class="arrow"></i></button> -->
                              <button onclick="clicked()"><i class="arrow"></i></button>
                             </div>
                             {% else %}
@@ -128,18 +129,12 @@
 </style>
 <!-- JAVASCRIPT -->
 <script>
-  // const expand = document.querySelector('.expand');
-  // let isOpen = false;
-  // function clicked(){
-  //   isOpen = !isOpen;
-  //   isOpen ? expand.classList.add('open') : expand.classList.remove('open')
-  // };
 
-  const expands = document.getElementsByClassName("expand");
+  const expands = document.getElementsByTagName("button");
   var i = 0;
   for (i = 0; i < expands.length; i++) {
-    var isClicked = false;
     expands[i].addEventListener("click", () => {
+      var isClicked = false;
       isClicked = !isClicked;
       isClicked ? expands[i].classList.add("open") : expands[i].classList.remove("open");
     })
