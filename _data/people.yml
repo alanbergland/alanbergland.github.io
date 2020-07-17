@@ -16,14 +16,14 @@
       image: /assets/images/profiles/karenbarnardkubow.jpg
       profile: Dr. Karen Barnard-Kubow is interested in the processes underlying the generation and maintenance of genetic variation, and how genetic divergence may eventually lead to the formation of new species. For her PhD with [Laura Galloway](http://gallowaylab.weebly.com/) she worked on cytonuclear incompatibility and speciation in an herbaceous plant species. She conducted post-doctoral research with [Ben Blackman](http://plantandmicrobiology.berkeley.edu/profile/bblackman) examining the genetic architecture of photoperiod in wild populations of sunflowers. Her current research is focused on understanding how the interplay between ecology and reproductive polymorphism influences the maintenance of genetic diversity within populations of the model facultative parthenogen, _Daphnia pulex_.
         [kbkubow@virginia.edu](mailto:kbkubow@virginia.edu)
-        [website](https://sites.google.com/virginia.edu/karen-barnard-kubow/home)
+      website: https://sites.google.com/virginia.edu/karen-barnard-kubow/home
     - name: Priscilla Erickson
       subtitle: Post-doc, 2016-current
       image: /assets/images/profiles/priscillaerickson.JPG
       profile: |
         Priscilla is interested in studying how organisms survive in changing environments. She focuses on the genetic basis of traits related to cold tolerance and overwintering in fruit flies, using a combination of field work, lab experiments, and genomics. Starting in 2021, Priscilla will have her own lab at the University of Richmond, where she will work with undergraduates to study evolutionary genetics in the invasive fruit fly _Zaprionus indianus_.
-        [website](www.priscillaerickson.com)
-        [google scholar](https://scholar.google.com/citations?user=RMy_dC8AAAAJ&hl=en)
+      website: www.priscillaerickson.com
+      gscholar: https://scholar.google.com/citations?user=RMy_dC8AAAAJ&hl=en
     - name: Dörthe Becker
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
@@ -32,8 +32,8 @@
       image: /assets/images/profiles/joaquinnunez.jpg
       profile: |-
         My research studies patterns of genetic variation in natural populations living  in highly variable environments. I seek to characterize what loci are under selection at different scales of environmental heterogeneity both in space and time. My research program seeks to determine the identity of these ecologically important loci, as well as the mechanisms that underlie their maintenance of genetic variation. I did my PhD at Brown with David M. Rand woking on intertidal barnacles. I did my undergraduate at the University of Miami with  Margie F. Oleksiak and Doug L. Crawford working on killifish.
-        [website](https://www.jcbnunez.org/)
-        [google scholar](https://scholar.google.com/citations?user=r1E84bEAAAAJ&hl=en&authuser=2)
+      website: https://www.jcbnunez.org/
+      gscholar: https://scholar.google.com/citations?user=r1E84bEAAAAJ&hl=en&authuser=2
 - tier_name: PhD Students
   description: |-
   sponsors:
