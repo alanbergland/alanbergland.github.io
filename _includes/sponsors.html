@@ -142,13 +142,13 @@
 <!-- JAVASCRIPT -->
 <script>
 
-  const expands = document.getElementsByTagName("button");
+  const expands = document.getElementsByClassName("expand");
   var i = 0;
   for (i = 0; i < expands.length; i++) {
     expands[i].addEventListener("click", () => {
-      var isClicked = false;
-      isClicked = !isClicked;
-      isClicked ? expands[i].classList.add("open") : expands[i].classList.remove("open");
+      var expands[i].isClicked = false;
+      expands[i].isClicked = !expands[i].isClicked;
+      expands[i].isClicked ? expands[i].classList.add("open") : expands[i].classList.remove("open");
     })
   }
 </script>
