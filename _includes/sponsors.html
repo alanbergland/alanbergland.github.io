@@ -39,9 +39,9 @@
 
                             {% if sponsor.profile %}
                             <div class="expand" data-is-open="0" style="font-size:small">
-                              <!-- <p class="text"> -->
+                              <text>
                                 {{ sponsor.profile | markdownify }}
-                              <!-- </p> -->
+                              </text>
                              <button><i class="arrow"></i></button>
                             </div>
                             {% else %}
@@ -111,7 +111,7 @@
     }
   }
 
-  p {
+  text {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
@@ -120,7 +120,7 @@
     animation: close 0.1s linear 0.1s forwards;
     font-size: small;
   }
-  .open p {
+  .open text {
     animation: open 0.1s linear 0s forwards;
   }
 
