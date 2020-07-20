@@ -39,8 +39,8 @@
 
                             {% if sponsor.profile %}
                             <div class="expand" data-is-open="0">
-                              <p class="text" markdown="1">
-                                {{ sponsor.profile }}
+                              <p class="text">
+                                {{ sponsor.profile | markdownify }}
                               </p>
                              <button><i class="arrow"></i></button>
                             </div>
