@@ -17,9 +17,9 @@
 
             <div class="columns is-multiline is-centered">
                 {% for sponsor in tier.sponsors %}
-                <div class="column {% if tier.size == 'large' %} is-6-desktop is-6-tablet {% else %} is-6-desktop is-12-tablet {% endif %}">
-                    <div class="box has-text-centered">
-                      <div style="float:left;width:800">
+                <div class="column {% if tier.size == 'large' %} is-6-desktop is-12-tablet {% elsif tier.size == 'small' %} is-4-desktop is-6-tablet {% else %} is-6-desktop is-12-tablet {% endif %}">
+                    <div class="box has-text-centered columns">
+                      <div style="float:left;width:800%">
                         <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
                             {{ sponsor.name }}
                         </p>
@@ -39,6 +39,7 @@
                         </p>
                       </div>
 
+                      <div class="column">
                             {% if sponsor.profile %}
                             <div class="expand" data-is-open="0" style="font-size:small">
                               <text>
@@ -61,6 +62,7 @@
                                 &nbsp;
                                 {% endif %}
                             </p>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}
