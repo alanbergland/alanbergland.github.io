@@ -38,7 +38,7 @@
                         </p>
 
                             {% if sponsor.profile %}
-                            <div class="expand">
+                            <div class="expand" isOpen="0">
                               <p class="text" markdown="1">
                                 {{ sponsor.profile }}
                               </p>
@@ -142,16 +142,16 @@
 <!-- JAVASCRIPT -->
 <script>
   const expandList= document.querySelectorAll(".expand");
-  var i=0;
-  for (i = 0; i < expandList.length; i++) {
-    let expandList[i].isOpen=false }
+  // var i=0;
+  // for (i = 0; i < expandList.length; i++) {
+  //   let expandList[i].isOpen=false }
 
   const buttonList= document.querySelectorAll("button");
   var j=0;
   for (j=0; j< buttonList.length; j++) {
       buttonList[j].addEventListener('click', () => {
-        expandList[j].isOpen = !expandList[j].isOpen;
-        expandList[j].isOpen ? expandList[j].classList.add("open") : expandList[j].classList.remove("open"); 
+        expandList[j].dataset.isOpen = abs(expandList[j].dataset.isOpen - 1);
+        expandList[j].dataset.isOpen==1 ? expandList[j].classList.add("open") : expandList[j].classList.remove("open");
       }
    )}
   // const expands = document.getElementsByClassName("expand");
