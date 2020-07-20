@@ -14,7 +14,8 @@
     - name: Karen Barnard-Kubow
       subtitle: Research Scientist, 2016-current
       image: /assets/images/profiles/karenbarnardkubow.jpg
-      profile: Dr. Karen Barnard-Kubow is interested in the processes underlying the generation and maintenance of genetic variation, and how genetic divergence may eventually lead to the formation of new species. For her PhD with [Laura Galloway](http://gallowaylab.weebly.com/) she worked on cytonuclear incompatibility and speciation in an herbaceous plant species. She conducted post-doctoral research with [Ben Blackman](http://plantandmicrobiology.berkeley.edu/profile/bblackman) examining the genetic architecture of photoperiod in wild populations of sunflowers. Her current research is focused on understanding how the interplay between ecology and reproductive polymorphism influences the maintenance of genetic diversity within populations of the model facultative parthenogen, _Daphnia pulex_.
+      profile: |
+        Dr. Karen Barnard-Kubow is interested in the processes underlying the generation and maintenance of genetic variation, and how genetic divergence may eventually lead to the formation of new species. For her PhD with [Laura Galloway](http://gallowaylab.weebly.com/) she worked on cytonuclear incompatibility and speciation in an herbaceous plant species. She conducted post-doctoral research with [Ben Blackman](http://plantandmicrobiology.berkeley.edu/profile/bblackman) examining the genetic architecture of photoperiod in wild populations of sunflowers. Her current research is focused on understanding how the interplay between ecology and reproductive polymorphism influences the maintenance of genetic diversity within populations of the model facultative parthenogen, _Daphnia pulex_.
         [kbkubow@virginia.edu](mailto:kbkubow@virginia.edu)
       website: https://sites.google.com/virginia.edu/karen-barnard-kubow/home
     - name: Priscilla Erickson
@@ -40,7 +41,8 @@
     - name: Alyssa Bangerter
       subtitle: 2016-current
       image: /assets/images/profiles/alyssabangerter.jpg
-      profile: Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research. [ab5dr@virginia.edu](mailto:ab5dr@virginia.edu)
+      profile: |
+        Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research. [ab5dr@virginia.edu](mailto:ab5dr@virginia.edu)
     - name: Yang Yu
       subtitle: 2017-current
       image: /assets/images/profiles/yangyu.jpeg
@@ -48,7 +50,8 @@
     - name: Connor Murray
       subtitle: 2019-current
       image: /assets/images/profiles/connormurray.JPG
-      profile: Connor Murray is a Ph.D. student studying the evolutionary forces that generate and maintain diversity in the wild. Using population genomics and phenomics, he hopes to better understand how genetic diversity is influenced by competition, demographics, and sexual recombination. Future experiments will involve large scale genomics and implement technology that is cross-disciplinary to assist him in gathering high-quality data for his dissertation research. Current work has him quantifying the properties of mutation accumulation within a wild _Daphnia pulex_ population in England.
+      profile: |
+        Connor Murray is a Ph.D. student studying the evolutionary forces that generate and maintain diversity in the wild. Using population genomics and phenomics, he hopes to better understand how genetic diversity is influenced by competition, demographics, and sexual recombination. Future experiments will involve large scale genomics and implement technology that is cross-disciplinary to assist him in gathering high-quality data for his dissertation research. Current work has him quantifying the properties of mutation accumulation within a wild _Daphnia pulex_ population in England.
     - name: Adam Lenhart
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
