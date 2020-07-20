@@ -39,9 +39,9 @@
 
                             {% if sponsor.profile %}
                             <div class="expand" data-is-open="0">
-                              <p class="text">
+                              <!-- <p class="text"> -->
                                 {{ sponsor.profile | markdownify }}
-                              </p>
+                              <!-- </p> -->
                              <button><i class="arrow"></i></button>
                             </div>
                             {% else %}
@@ -78,7 +78,7 @@
   /* expandable text */
   .expand {
     margin: 22px auto;
-    max-height: 162px;
+    max-height: 170px;
     overflow: hidden;
     transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
   }
@@ -111,7 +111,7 @@
     }
   }
 
-  .text {
+  p {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
@@ -120,7 +120,7 @@
     animation: close 0.1s linear 0.1s forwards;
     font-size: small;
   }
-  .open .text {
+  .open p {
     animation: open 0.1s linear 0s forwards;
   }
 
