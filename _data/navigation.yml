@@ -1,4 +1,4 @@
-- name: Home
+- name: ::bergland lab:: #home 
   link: /
 - name: Who We Are
   link: /who-we-are/
