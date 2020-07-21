@@ -1,7 +1,5 @@
 - name: Home
   link: /
-# - name: Announcements
-#   link: /announcements/
 - name: Who We Are
   link: /who-we-are/
 - name: What We Do
