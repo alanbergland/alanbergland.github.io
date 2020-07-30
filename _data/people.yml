@@ -3,8 +3,10 @@
   description: |-
   sponsors:
     - name: Alan Bergland
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      image: /assets/images/profiles/alanbergland.JPG
+      profile: |
+        Dr. Alan O. Bergland is an Assistant Professor in the Biology Deptartment at the University of Virginia.He is interested in basic questions in evolutionary and ecological genetics and studies flies, water-fleas, and birds. Check out the [research page](/what-we-do/) for more details. For papers from the Bergland lab, check out the [publications page](/publications/). [aob2x@virginia.edu](mailto:aob2x@virginia.edu) <br> CV available [here](http://bergland-lab.org/pdfs/Bergland_CV.pdf)
+      gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
 - tier_name: Lab Managers
   description: |-
   sponsors:
