@@ -5,8 +5,9 @@
     - name: Alan Bergland
       image: /assets/images/profiles/alanbergland.JPG
       profile: |
-        Dr. Alan O. Bergland is an Assistant Professor in the Biology Deptartment at the University of Virginia.He is interested in basic questions in evolutionary and ecological genetics and studies flies, water-fleas, and birds. Check out the [research page](/what-we-do/) for more details. For papers from the Bergland lab, check out the [publications page](/publications/). [aob2x@virginia.edu](mailto:aob2x@virginia.edu) <br> CV available [here](http://bergland-lab.org/pdfs/Bergland_CV.pdf)
+        Dr. Alan O. Bergland is an Assistant Professor in the Biology Deptartment at the University of Virginia.He is interested in basic questions in evolutionary and ecological genetics and studies flies, water-fleas, and birds. Check out the [research page](/what-we-do/) for more details. For papers from the Bergland lab, check out the [publications page](/publications/). <br> CV available [here](http://bergland-lab.org/pdfs/Bergland_CV.pdf)
       gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
+      email: aob2x@virginia.edu
 - tier_name: Lab Managers
   description: |-
   sponsors:
@@ -21,8 +22,8 @@
       image: /assets/images/profiles/karenbarnardkubow.jpg
       profile: |
         Dr. Karen Barnard-Kubow is interested in the processes underlying the generation and maintenance of genetic variation, and how genetic divergence may eventually lead to the formation of new species. For her PhD with [Laura Galloway](http://gallowaylab.weebly.com/) she worked on cytonuclear incompatibility and speciation in an herbaceous plant species. She conducted post-doctoral research with [Ben Blackman](http://plantandmicrobiology.berkeley.edu/profile/bblackman) examining the genetic architecture of photoperiod in wild populations of sunflowers. Her current research is focused on understanding how the interplay between ecology and reproductive polymorphism influences the maintenance of genetic diversity within populations of the model facultative parthenogen, _Daphnia pulex_.
-        [kbkubow@virginia.edu](mailto:kbkubow@virginia.edu)
       website: https://sites.google.com/virginia.edu/karen-barnard-kubow/home
+      email: kbkubow@virginia.edu
     - name: Priscilla Erickson
       subtitle: Post-doc, 2016-current
       image: /assets/images/profiles/priscillaerickson.JPG
@@ -49,7 +50,8 @@
       subtitle: 2016-current
       image: /assets/images/profiles/alyssabangerter.jpg
       profile: |
-        Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research. [ab5dr@virginia.edu](mailto:ab5dr@virginia.edu)
+        Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research.
+      email: ab5dr@virginia.edu
     - name: Yang Yu
       subtitle: 2017-current
       image: /assets/images/profiles/yangyu.jpeg
@@ -88,7 +90,8 @@
       subtitle: 2016-2019
       image: /assets/images/profiles/coryweller.JPG
       profile: |
-        Dr. Cory Weller was a Ph.D. candidate in the Biology Department. Cory developed computational approaches to map cis-eQTL and perform whole genome resonstruction in experimental crosses of _Drosophila_. His previous work at the University of Virginia with [Dr. Martin Wu](http://wolbachia.biology.virginia.edu/WuLab/Home.html) included a phylogenomic analysis of 200 bacterial genomes, uncovering a generation-time effect in spore-forming bacteria (read about it [here](http://dx.doi.org/10.1111/evo.12597)) and was supported by an [ARCS scholarship](https://www.arcsfoundation.org/). Cory also leads the organization of the [Huskey Research Exhbition](http://gradcouncil.com/2015-huskey-research-exhibition/) as UVA's Research Chair of the Graduate Student Council. [caw5cv@virginia.edu](mailto:caw5cv@virginia.edu)
+        Dr. Cory Weller was a Ph.D. candidate in the Biology Department. Cory developed computational approaches to map cis-eQTL and perform whole genome resonstruction in experimental crosses of _Drosophila_. His previous work at the University of Virginia with [Dr. Martin Wu](http://wolbachia.biology.virginia.edu/WuLab/Home.html) included a phylogenomic analysis of 200 bacterial genomes, uncovering a generation-time effect in spore-forming bacteria (read about it [here](http://dx.doi.org/10.1111/evo.12597)) and was supported by an [ARCS scholarship](https://www.arcsfoundation.org/). Cory also leads the organization of the [Huskey Research Exhbition](http://gradcouncil.com/2015-huskey-research-exhibition/) as UVA's Research Chair of the Graduate Student Council.
+      email: caw5cv@virginia.edu
     - name:  Daniel Y. Song
       subtitle: 2016-2019
       image: /assets/images/profiles/danielsong.jpg
