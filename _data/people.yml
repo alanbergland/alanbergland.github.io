@@ -5,12 +5,15 @@
     - name: Alan Bergland
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
-- tier_name: Scientists
+- tier_name: Lab Managers
   description: |-
   sponsors:
     - name: Robert Porter
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
+- tier_name: Post-docs
+  description: |-
+  sponsors:
     - name: Karen Barnard-Kubow
       subtitle: Research Scientist, 2016-current
       image: /assets/images/profiles/karenbarnardkubow.jpg
