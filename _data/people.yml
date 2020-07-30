@@ -26,8 +26,10 @@
       website: www.priscillaerickson.com
       gscholar: https://scholar.google.com/citations?user=RMy_dC8AAAAJ&hl=en
     - name: Dörthe Becker
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: 2016-current
+      image: /assets/images/profiles/dorthebecker.JPEG
+      profile: |
+        Dr. Dörthe Becker is a physiological ecologist interested in the molecular mechanisms by which various stressors are tolerated via acclimation. During her PhD, her research focused on highly conserved stress-induced signaling processes that enable Daphnia to adequately adjust their physiological performance upon environmental change. For her subsequent post-doctoral research with [Andrew Beckerman](http://www.beckslab.staff.shef.ac.uk/) and [John Colbourne](http://www.birmingham.ac.uk/staff/profiles/biosciences/colbourne-john.aspx) she broadened her research towards the field of environmental genomics in order to explore the regulatory mechanisms that provide the basis for tolerance, acclimation and phenotypic plasticity. Specifically, her research on different Daphnia genotypes investigated the molecular signatures of predator induced changes in life history and morphology, with particular focus on how these responses are modified by other environmental contaminants (e.g. metals). Her research in the Bergland lab will continue this line of research as part of the on-going project on dynamics of predation induced adaptation in Daphnia.
     - name: Joaquin C. B. Nunez
       subtitle: Post-doc, 2020-current
       image: /assets/images/profiles/joaquinnunez.jpg
@@ -77,6 +79,11 @@
       subtitle: 2018-2020
       image: /assets/images/profiles/sashabilal.jpg
       profile:  My work focused on the seasonal variation of two alleles (miR-184 A and miR-184 B) in the species Drosophila melanogaster and their role in diapause. I will be going to Georgetown University in Fall 2020 to receive a Masters in Physiology!
+    - name: Cory Weller
+      subtitle: 2016-2019
+      image: /assets/images/profiles/coryweller.JPG
+      profile: |
+        Dr. Cory Weller was a Ph.D. candidate in the Biology Department. Cory developed computational approaches to map cis-eQTL and perform whole genome resonstruction in experimental crosses of _Drosophila_. His previous work at the University of Virginia with [Dr. Martin Wu](http://wolbachia.biology.virginia.edu/WuLab/Home.html) included a phylogenomic analysis of 200 bacterial genomes, uncovering a generation-time effect in spore-forming bacteria (read about it [here](http://dx.doi.org/10.1111/evo.12597)) and was supported by an [ARCS scholarship](https://www.arcsfoundation.org/). Cory also leads the organization of the [Huskey Research Exhbition](http://gradcouncil.com/2015-huskey-research-exhibition/) as UVA's Research Chair of the Graduate Student Council. [caw5cv@virginia.edu](mailto:caw5cv@virginia.edu)
     - name:  Daniel Y. Song
       subtitle: 2016-2019
       image: /assets/images/profiles/danielsong.jpg
@@ -85,3 +92,12 @@
       subtitle: 2016-2019
       image: /assets/images/profiles/cynthiaong.jpg
       profile: Cynthia was an undergraduate student who was an active member of the lab for over three years, during which she conducted numerous independent research projects and significantly contributed to numerous research studies. Her projects studying Daphnia pulex included characterizing phenotypic responses to predation, examining potential costs associated with phenotypic plasticity, and studying population dynamics in natural populations through fine scale temporal sampling. She completed her distinguished majors program, presenting at the 2018 Katz Symposium and receiving high distinction. She was also awarded the Harrison Undergraduate Research Award, presenting her research at the 2019 URN Symposium. Cynthia is currently attending Virginia Commonwealth University School of Medicine as part of the Class of 2024.
+    - name: Austin Edwards
+      subtitle: 2017-2018
+      image: /assets/images/profiles/austinedwards.JPG
+      profile: |
+        Austin Edwards was a technician building devices to study Drosophila behavior. He previously was a technician at Janelia Research Campus studying the neuronal basis of social and visual behaviors in Drosophila with [Kristin Branson](https://www.janelia.org/lab/branson-lab) and [Michael Reiser](https://www.janelia.org/lab/reiser-lab). He is broadly interested in applying machine learning and computer vision techniques to quantifying animal behavior.
+    - name: Erin Voss
+      subtitle: 2017-2018
+      image: /assets/images/profiles/erinvoss.JPEG
+      profile: Erin Voss was a technician working on Daphnia evolutionary genetics. Erin attended Bowdoin College in Maine where she studied the evolutionary history of the European Green Crab.
