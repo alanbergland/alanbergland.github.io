@@ -12,8 +12,10 @@
   description: |-
   sponsors:
     - name: Robert Porter
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: 2017-current
+      image: /assets/images/profiles/robertporter.JPEG
+      profile: |
+        I am interested in the production and hatching of daphnia resting eggs, and investigating the environmental cues involved in the differing responses between clonal lineages. As part of this, I am also interested in how populations of daphnia maintain genetic diversity over longer timescales. Previously, I worked on image collection and analysis of _Daphnia pulex_ neonates exposed to predator kairomones, to measure the plastic response of necktooth induction.
 - tier_name: Post-docs
   description: |-
   sponsors:
@@ -65,8 +67,9 @@
       image: https://via.placeholder.com/1200x800
       profile: https://github.com/
     - name: Taylor Nystrom
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: 2019-current
+      image: /assets/images/profiles/taylornystrom.jpg
+      profile: Taylor is a graduate student working on a collaboration between the Bergland and Siegrist labs. Her research focuses on the effects of environmental factors on neurodevelopment in natural populations of D. melanogaster. She was originally introduced to flies here at UVA, working during the summers in the Condron lab.  She then graduated with her bachelor’s from the University of Colorado - Boulder, worked in the Grueber Lab at Columbia University building the InSITE collection of Gal4 lines, and taught middle school science and PE. In addition to her lab research, Taylor is very excited about science education and helping make advanced research science more accessible.
 - tier_name: Undergraduate Students
   size: small
   description: |-
