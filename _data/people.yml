@@ -81,8 +81,9 @@
         Courtney Tern (CLAS ‘22) is conducting independent computational research on the evolutionary history of _Drosophila simulans_ in North America. She is writing Bash and AWK scripts to pull whole genome sequencing data from online repositories, which she will then analyze for admixture from African and European _D. simulans_ populations. Previously, she conducted a 10-month long fecundity assay on _D. melanogaster_ in the field. Courtney also coded the updated website that you’re looking at right now! <br> She is pursuing a Human Biology Distinguished Major with a double major in Statistics.
       email: cat7ep@virginia.edu
     - name: Liam Miller
-      image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      subtitle: 2018-current
+      image: /assets/images/profiles/liammiller.jpg
+      profile: I've done work looking at starvation/desiccation in drosophila, and am getting into research with seasonal allometry in drosophila.
 - tier_name: Alumni
   size: small
   description: |-
