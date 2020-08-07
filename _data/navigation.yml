@@ -6,8 +6,8 @@
   link: /what-we-do/
 - name: Join us!
   link: /join-us/
-- name: Diversity Inclusion
-  link: /diversity/
+# - name: Diversity Inclusion
+#   link: /diversity/
 - name: Publications
   link: /publications/
 - name: Backyard Evolution!
