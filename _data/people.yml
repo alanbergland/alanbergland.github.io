@@ -65,7 +65,7 @@
         Connor Murray is a Ph.D. student studying the evolutionary forces that generate and maintain diversity in the wild. Using population genomics and phenomics, he hopes to better understand how genetic diversity is influenced by competition, demographics, and sexual recombination. Future experiments will involve large scale genomics and implement technology that is cross-disciplinary to assist him in gathering high-quality data for his dissertation research. Current work has him quantifying the properties of mutation accumulation within a wild _Daphnia pulex_ population in England.
     - name: Adam Lenhart
       image: https://via.placeholder.com/1200x800
-      profile: https://github.com/
+      profile: |
     - name: Taylor Nystrom
       subtitle: 2019-current
       image: /assets/images/profiles/taylornystrom.jpg
