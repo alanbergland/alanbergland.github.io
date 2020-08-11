@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 # baseurl: "/bulma-clean-theme"
-url: "https://alanbergland.github.io"
+url: "https://bergland-lab.org"
 permalink: pretty
 favicon: /assets/images/favicon.png
 gh_sponsor: chrisrhymes
