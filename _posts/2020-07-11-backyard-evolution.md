@@ -28,7 +28,7 @@ Your compost pile is teaming with life, and fruit flies are an important part of
 ##### \*If you miss a week or two, that's okay!
 
 ### Participate in a world-wide effort
-Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [http://www.droseu.net](http://www.droseu.net)
+Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [https://www.droseu.net](https://www.droseu.net)
 
 # To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 

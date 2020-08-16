@@ -1,0 +1,284 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What We Do - Bergland Lab</title>
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="http://localhost:4000/assets/images/favicon.png" 
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>What We Do | Bergland Lab</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="What We Do" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites" />
+<meta property="og:description" content="The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites" />
+<link rel="canonical" href="http://localhost:4000/what-we-do/" />
+<meta property="og:url" content="http://localhost:4000/what-we-do/" />
+<meta property="og:site_name" content="Bergland Lab" />
+<script type="application/ld+json">
+{"description":"The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites","@type":"WebPage","url":"http://localhost:4000/what-we-do/","headline":"What We Do","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts --></head>
+
+  <body>
+    
+<nav class="navbar is-primary" >
+    <div class="container" style="margin:0">
+        <!-- <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                Bergland Lab
+            </a>s
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div> -->
+        <div class="navbar-menu" id="navMenu">
+            <div class="navbar-start">
+                <!-- <a href="/" class="navbar-item ">Home</a> -->
+                
+                
+                    
+                    <a href="http://localhost:4000/" class="navbar-item ">::bergland lab::</a>
+                    
+                
+                    
+                    <a href="http://localhost:4000/who-we-are/" class="navbar-item ">Who We Are</a>
+                    
+                
+                    
+                    <a href="http://localhost:4000/what-we-do/" class="navbar-item is-active">What We Do</a>
+                    
+                
+                    
+                    <a href="http://localhost:4000/join-us/" class="navbar-item ">Join us!</a>
+                    
+                
+                    
+                    <a href="http://localhost:4000/publications/" class="navbar-item ">Publications</a>
+                    
+                
+                    
+                    <a href="http://localhost:4000/2020/07/11/backyard-evolution/" class="navbar-item ">Backyard Evolution!</a>
+                    
+                
+                
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+    
+        <section class="hero  is-medium  is-bold is-primary" >
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">What We Do</h1>
+            <p class="subtitle is-3">Addressing basic problems in ecological and evolutionary genetics</p>
+            
+        </div>
+    </div>
+</section>
+
+    
+    <a id="callouts"></a>
+
+
+    <section class="section">
+        <div class="container">
+            <div class="columns">
+                
+                <div class="column fit">
+                    
+
+<aside class="menu">
+
+    <p class="menu-label">Page Contents</p>
+    <ul class="menu-list">
+        
+        <li>
+            <a href="http://localhost:4000/what-we-do/#research_overview" class="">Research Overview</a>
+            
+            <ul>
+                
+                <li><a href="http://localhost:4000/what-we-do/#molecular_basis" class="">The molecular basis of local adaptation</a></li>
+                
+                <li><a href="http://localhost:4000/what-we-do/#temporal_dynamics" class="">The temporal dynamics of adaptation in the wild</a></li>
+                
+                <li><a href="http://localhost:4000/what-we-do/#behavioral_mechanisms" class="">Behavioral mechanisms & consequences of balancing selection</a></li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+
+</aside>
+
+                </div>
+                
+                <div class="column is-10">
+                    
+
+                    
+                    
+
+<!-- DEFINE EXPANDABLE PROFILE TEXTS adapted from
+     source:https://codepen.io/dev_jonas/pen/dyPxyvp-->
+<!-- CSS -->
+<style>
+  /* expandable text */
+  .expand {
+    margin: 22px auto;
+    max-height: 170px;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+  }
+
+  .expand.open {
+    max-height: 100rem;
+    transition: max-height 0.5s cubic-bezier(0.9, 0, 0.8, 0.2);
+  }
+
+  /* Text */
+  @keyframes open {
+    from {
+      line-clamp: 5;
+      -webkit-line-clamp: 5;
+    }
+    to {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+  }
+
+  @keyframes close {
+    from {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+    to {
+      line-clamp: 5;
+      -webkit-line-clamp: 5;
+    }
+  }
+
+  text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 12px 0;
+    animation: close 0.1s linear 0.1s forwards;
+    font-size: small;
+  }
+  .open text {
+    animation: open 0.1s linear 0s forwards;
+  }
+
+  .arrow {
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .open .arrow {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    margin-top: 5px;
+  }
+</style>
+<!-- JAVASCRIPT -->
+<script>
+const buttonList= document.querySelectorAll(".expand");
+var i;
+
+for (i = 0; i < buttonList.length; i++) {
+  buttonList[i].addEventListener("click", function() {
+    this.dataset.isOpen = Math.abs(this.dataset.isOpen - 1);
+    this.dataset.isOpen==1 ? this.classList.add("open") : this.classList.remove("open");
+  });
+}
+</script>
+
+                    
+<div class="content">
+    <p><a id="research_overview"></a></p>
+<h2 id="research-overview">Research overview</h2>
+<p>Research in the Bergland Lab addresses basic problems in ecological and evolutionary genetics. Our work focuses on the dynamics and molecular underpinnings of adaptation with particular attention to the role of local adaptation, tradeoffs, and behavior as mechanisms of balancing selection. We use tools from population-, molecular-, and quantitative-genetics and work in a variety of organisms, including <a href="https://en.wikipedia.org/wiki/Daphnia_pulex">Daphnia</a>, <a href="https://en.wikipedia.org/wiki/Drosophila_melanogaster">Drosophila</a>, and <a href="https://en.wikipedia.org/wiki/White-throated_sparrow">sparrows</a>. Several of the species we study experience strong fluctuations in selection pressure over seasonal time scales providing us the opportunity to study adaptive evolution as it unfolds in the wild.</p>
+
+<p><a id="molecular_basis"></a></p>
+<h2 id="the-molecular-basis-of-local-adaptation">The molecular basis of local adaptation</h2>
+<p><strong>Background</strong>. One of the major systems we work on is <em>Drosophila melanogaster</em> which has served for decades as an important model for understanding local adaptation. Fly populations arrayed along latitudinal and altitudinal clines exhibit patterns of genetically based phenotypic differentiation in morphological and life-history traits consistent with local adaptation to temperate environments (<a href="http://bergland-lab.org/pdfs/Paaby_etal_2014.pdf">Paaby et al.2014</a>, <a href="http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf">Bergland et al. 2016</a>, <a href="http://bergland-lab.org/pdfs/Machado_etal_2016.pdf">Machado et al. 2016</a>). Genetically based phenotypic differentiation in fitness related traits also occurs among seasons. For instance, flies sampled in spring - the recent descendants of individuals that survived winter - tend to be more hardy whereas those sampled during fall - the descendants of those individuals that prospered during summer - tend to invest more resources into reproduction. Quantitative genetic variation in these stress tolerance and life-history traits is thus shaped over seasonal time scales (10-15 generations) and we can identify polymorphisms that vary through time and space (<a href="http://bergland-lab.org/pdfs/Bergland_etal_2014.pdf">Bergland et al. 2014</a>) and underlie local adaptation.</p>
+
+<p><strong>Current project</strong> - <em>photoperiodism &amp; thermoperiodism</em>. Flies that survive winter often do so by entering a physiologically protective state called ‘diapause.’ As in other species, diapause in flies is cued by the perception of short days and cold temperatures (photo- and thermoperiodism, respectively). We are currently investigating the genetic and neurological basis of photoperiodism and thermoperiodism in D. melanogaster. This work is in collaboration with <a href="http://sites.sas.upenn.edu/paul-schmidt-lab/">Paul Schmidt</a> at UPenn.</p>
+
+<p><strong>Current project</strong> - <em>identification of functional polymorphisms genome-wide</em>. Our previous work has identified hundreds of polymorphisms that vary in frequency through time and space (<a href="http://bergland-lab.org/pdfs/Bergland_etal_2014.pdf">Bergland et al. 2014</a>, <a href="http://bergland-lab.org/pdfs/Bergland_etal_2016.pdf">Bergland et al. 2016</a>). We do not know the function of many of these polymorphisms. To ameliorate this, we are conducting cis-eQTL experiments in an experimental orchard we are building at <a href="http://www.uvafoundation.com/morven">Morven</a>.</p>
+
+<p><strong>Current project</strong> - <em>population genomics of Drosophila</em>. The Bergland participates in several consortia, <a href="https://sites.sas.upenn.edu/paul-schmidt-lab/pages/opportunities">DrosRTEC</a> and <a href="https://sites.google.com/site/droseuweb/">DrosEU</a>, whose aim is to sample and resequence fly populations on multiple continents and over decadal time scales. Such efforts will provide valuable information to the broader community about the dynamic process of adaptation in the wild. These efforts are led by members of the Bergland lab, as well as many labs throughout the world. Our consortia are open to anyone and we are actively sampling flies and continuing our organization efforts. Please <a href="/join-us/">be in touch</a> if you are interested in participating.</p>
+
+<p><a id="temporal_dynamics"></a></p>
+<h2 id="the-temporal-dynamics-of-adaptation-in-the-wild">The temporal dynamics of adaptation in the wild</h2>
+<p><strong>Background</strong>. All organisms live in environments that vary through time and space. In response to fluctuations in aspects of the biotic and abiotic environment, many populations rapidly adapt as they track the environment. Such non-anthropogenic environmental change is often caused by genetic shifts at many loci that underly quantitative traits. However, we have little knowledge of the evolutionary dynamics of such loci and how fluctuations of these alleles affects patterns of genetic variation genome-wide. For instance, are these alleles old or do they go to fixation often and subsequently arise again de novo? Do fluctuations at these loci substantially alter patterns of polymorphism at linked neutral sites? We address these basic questions using <em>Daphnia</em> as a model system</p>
+
+<p><strong>Current project</strong> - <em>dynamics of predation induced adaptation in Daphnia</em>. In collaboration with <a href="http://www.beckslab.staff.shef.ac.uk/">Andrew Beckerman</a> at Univ. of Sheffield and <a href="http://ralphlab.usc.edu/">Peter Ralph</a> at USC, we are investigating the evolutionary history of loci that control quantitative genetic variation in predation defensiveness in <em>Daphnia pulex</em>. In response to midge predation, Daphnia grow small spikes on their back (‘neck-teeth’) but the ability to respond midge varies through space and, most likely, seasons. We are currently studying the evolutionary history of loci associated with neck-tooth induction through quantitative- and population-genomic analyses. This work seeks to examine the long term history of rapid adaptation to fluctuations in predation pressure through direct examinination of resurrected Daphnia lineages while simultaneously predicting adaptive evolutionary outcomes in the near future.</p>
+
+<p>In addition to examining adaptive dynamics in response to predation regime, our work on Daphnia will bear direct relevance to our understanding of adaptation to novel anthropogenic stressors as well as adaptation to anthropogenic climate change.</p>
+
+<p><a id="behavioral_mechanisms"></a></p>
+<h2 id="behavioral-mechanisms--consequences-of-balancing-selection">Behavioral mechanisms &amp; consequences of balancing selection</h2>
+<p><strong>Background</strong>. Balancing selection - the selective maintenance of fitness related genetic variation - can be caused by different mechanisms. While much of our work examines how environmental heterogeneity promotes balancing selection, we also investigate how behavioral mechanisms can generate and maintain functional variation.</p>
+
+<p><strong>Current project</strong> - <em>the white throated sparrow</em>. In collaboration with <a href="http://www2.indstate.edu/biology/faculty/tuttle.htm">Elaina Tuttle</a> at Indiana State University, <a href="http://www.ecu.edu/cs-cas/biology/balakrishnan_chris.cfm">Chris Balakrishnan</a> at East Carolina University, and others, we are studying the evolutionary history of an large inversion polymorphism that remains at a stable frequency in the species via nearly obligate disassortative mating. We have recently shown (<a href="http://bergland-lab.org/pdfs/Tuttle_etal_2016.pdf">Tuttle et al. 2016</a>) that this polymorphism arose via interspecific hybridization and appears to be evolving in a similar fashion as a neo-sex chromosome. We are continuing to examine the evolutionary history and functional properties of this super-gene through population- and quantitative-genetic techniques.</p>
+
+</div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+        <footer class="footer">
+    <div class="container">
+
+        
+        <div class="columns is-multiline">
+            
+        </div>
+        
+
+        <div class="columns is-multiline">
+          <div class="column is-3">
+            lab: Gilmer 063 (Ground floor) <br> <br>
+            email: aob2x@virginia.edu <br>
+            office phone: (434) 924-1930 <br>
+            lab phone: (434) 924-2332
+          </div>
+          <div class="column is-1"> </div>
+          <div class="column is-3">
+            shipping: <br>
+            Attn: Alan Bergland <br>
+            409 McCormick Rd Rm 063 <br>
+            Charlottesville, VA 22904 <br>
+          </div>
+          <div class="column"> </div>
+       </div>
+
+        <div class="content is-small">
+            <p class="">Website built by Courtney Tern. Maintained by Courtney Tern and Alan Bergland. Based on Bulma Clean Theme by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+</footer>
+
+    
+    <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
+</html>
