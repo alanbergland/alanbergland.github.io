@@ -19,6 +19,6 @@ items:
     icon: fa-fist-raised
     description: >
       Our lab is committed to anti-racism and intersectional inclusion. As scientists, we have a
-      unique and important role in educating a safer tomorrow. See our official statement below.
-    call_to_action_name: Diversity Statement
-    call_to_action_link: /diversity/
+      unique and important role in educating a safer tomorrow.
+    #call_to_action_name: Diversity Statement
+    #call_to_action_link: /diversity/
