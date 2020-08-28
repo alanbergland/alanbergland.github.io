@@ -61,21 +61,21 @@ Paaby AB, **Bergland AO**, Behrman EL, Schmidt PS. 2014. A highly pleiotropic am
 <br><br>
 Adrion J, Pascual M, Burrack H, Haddad N, **Bergland AO**, Machado H, Sackton T, Schlenke T, Watada M, Singh N. 2014. Reconstructing the invasion history of _Drosophila suzukii_ using multilocus sequence data. [_Molecular Biology Evolution_](https://mbe.oxfordjournals.org/content/early/2014/09/27/molbev.msu246): doi:10.1093/molbev/msu246. [pdf](/assets/pdfs/Adrion_2014.pdf)
 <br><br>
-**Bergland AO**, Behrman EL, O'Brien KR , Schmidt PS, Petrov D. 2014. Genomic evidence of rapid and stable adaptive oscillations over seasonal time scales in _Drosophila_. [_PLoS Genetics_](https://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1004775) 10(11): e1004775. [pdf](/assets/pdfs/Bergland_2014.pdf) <br>
+**Bergland AO**, Behrman EL, O'Brien KR , Schmidt PS, Petrov D. 2014. Genomic evidence of rapid and stable adaptive oscillations over seasonal time scales in _Drosophila_. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775) 10(11): e1004775. [pdf](/assets/pdfs/Bergland_2014.pdf) <br>
 <span style="color:#996888">[Check out the [F1000](https://f1000.com/prime/725227131) evaluation by E. Svensson]</span>
 
 <a id="2012"></a>
 ## 2012
-Feder A, Petrov F, **Bergland AO**. 2012. Estimation of linkage disequilibrium from high-throughput pooled resequencing data. [_PLoS One_](https://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048588) 7(11): e48588. doi:10.1371/journal.pone.0048588. [pdf](/assets/pdfs/Feder_2012.pdf) [[Download program]](https://sourceforge.net/p/ldx/wiki/Home/)
+Feder A, Petrov F, **Bergland AO**. 2012. Estimation of linkage disequilibrium from high-throughput pooled resequencing data. [_PLoS One_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048588) 7(11): e48588. doi:10.1371/journal.pone.0048588. [pdf](/assets/pdfs/Feder_2012.pdf) [[Download program]](https://sourceforge.net/p/ldx/wiki/Home/)
 <br><br>
 Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pooled whole genome population re-sequencing in _Drosophila melanogaster_. [_PLoS One_](https://dx.plos.org/10.1371/journal.pone.0041901) 7(7): e41901. doi: 10.1371/journal.pone.0041901. [pdf](/assets/pdfs/Zhu_2012.pdf)
 <br><br>
-**Bergland AO**, Chae HS, Kim YJ, Tatar M. 2012. Fine scale mapping of natural variation in fly fecundity identifies neuronal domain of expression and function of an aquaporin. [_PLoS Genetics_](https://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002631) 8(4): e1002631, doi: 10.1371/journal.pgen.1002631. [pdf](/assets/pdfs/Bergland_2012.pdf)<br>
+**Bergland AO**, Chae HS, Kim YJ, Tatar M. 2012. Fine scale mapping of natural variation in fly fecundity identifies neuronal domain of expression and function of an aquaporin. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002631) 8(4): e1002631, doi: 10.1371/journal.pgen.1002631. [pdf](/assets/pdfs/Bergland_2012.pdf)<br>
 <span style="color:#996888">[Check out the [F1000](https://f1000.com/prime/714647860?bd=1) evaluation by J. True & J. Lachance]</span>
 
 <a id="2011-and-earlier"></a>
 ## 2011 & earlier
-**Bergland AO**. 2011. Mechanisms and ecological genetics of reproduction in Dipteran insects.  In [_Molecular mechanisms of life history evolution_](https://www.oup.com/us/catalog/general/subject/LifeSciences/EvolutionaryBiology/?view=usa&ci=9780199568765), eds. Flatt, T. & A. Heyland.  Oxford University Press, Oxford, UK. [pdf](/assets/pdfs/Bergland_2011.pdf)
+**Bergland AO**. 2011. Mechanisms and ecological genetics of reproduction in Dipteran insects.  In [_Molecular mechanisms of life history evolution_](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199568765.001.0001/acprof-9780199568765), eds. Flatt, T. & A. Heyland.  Oxford University Press, Oxford, UK. [pdf](/assets/pdfs/Bergland_2011.pdf)
 <br><br>
 **Bergland AO**, Genissel A, Nuzhdin SV, Tatar M. 2008. Quantitative trait loci affecting phenotypic plasticity and the allometric relationship of ovariole number and thorax length in _Drosophila melanogaster_. [_Genetics_](https://www.genetics.org/content/180/1/567.long) 180: 567-582. [pdf](/assets/pdfs/Bergland_2008.pdf)
 <br><br>
