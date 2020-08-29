@@ -114,5 +114,6 @@ Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.c
 
 <br><br>
 #### Drosopholids of the Midwest and Northeast
-<a href="/assets/images/BackyardEvolution/DrosopholidsGuide.pdf" download>Download pdf</a> <br>
+Check out this excelent guide to drosophilid flies by Thomas Werner, Tessa Steenwinkel, and John Jaenike
+<a href="https://digitalcommons.mtu.edu/oabooks/1/" download> here </a>. <br>
 <img src="/assets/images/BackyardEvolution/DrosopholidsGuide.jpg" width="65%" height="100%">
