@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: papers written by members of the Bergland lab
+#subtitle: papers written by members of the Bergland lab
 show_sidebar: false
 menubar: pub_menu
 permalink: /publications/
