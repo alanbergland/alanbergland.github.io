@@ -11,6 +11,12 @@ permalink: /publications/
 Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’ responses to climate change. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154">_Evolution Letters_</a>: 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
 <br><br>
 **HM Stone, PA Erickson\*, AO Bergland\*.** 2020. Phenotypic plasticity, but not adaptive tracking, underlies seasonal variation in post‐cold hardening freeze tolerance of Drosophila melanogaster. [_Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5887): 10.1002/ece3.5887 [pdf](/assets/pdfs/Stone_2020.pdf)
+<br><br>
+Kapun, M., Barrón, M. G., Staubach, F., Obbard, D. J., Wiberg, R. A. W., Vieira, J., ... & Haudry, A. (2020). Genomic analysis of European _Drosophila melanogaster_ populations reveals longitudinal structure, continent-wide selection, and previously unknown DNA viruses. [_Molecular biology and evolution_](https://academic.oup.com/mbe/article/37/9/2661/5837682kapu), 37(9), 2661-2678.[pdf](/assets/pdfs/Kapun_2020.pdf)
+<br><br>
+Wang, Y., Kapun, M., Waidele, L., Kuenzel, S., **Bergland, A. O.**, & Staubach, F. (2020). Common structuring principles of the _Drosophila melanogaster_ microbiome on a continental scale and between host and substrate. [_Environmental Microbiology Reports_](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12826), 12(2), 220-228. [pdf](/assets/pdfs/Wang_2020.pdf)
+<br><br>
+Fu, Z., Meier, A. R., Epstein, B., **Bergland, A. O.**, Castillo Carrillo, C. I., Cooper, W. R., ... & Rashed, A. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079). [pdf](/assets/pdfs/Fu_2020.pdf)
 
 <a id="2019"></a>
 ## 2019
