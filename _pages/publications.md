@@ -17,6 +17,8 @@ Kapun, M., Barrón, M. G., Staubach, F., Obbard, D. J., Wiberg, R. A. W., Vieira
 Wang, Y., Kapun, M., Waidele, L., Kuenzel, S., **Bergland, A. O.**, & Staubach, F. (2020). Common structuring principles of the _Drosophila melanogaster_ microbiome on a continental scale and between host and substrate. [_Environmental Microbiology Reports_](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12826), 12(2), 220-228. [pdf](/assets/pdfs/Wang_2020.pdf)
 <br><br>
 Fu, Z., Meier, A. R., Epstein, B., **Bergland, A. O.**, Castillo Carrillo, C. I., Cooper, W. R., ... & Rashed, A. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079). [pdf](/assets/pdfs/Fu_2020.pdf)
+<br><br>
+**Erickson PA**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [PLoS Genet](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110) 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf)
 
 <a id="2019"></a>
 ## 2019
