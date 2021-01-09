@@ -114,6 +114,6 @@ Email [virginia.backyard.flies@gmail.com](mailto:virginia.backyard.flies@gmail.c
 
 <br><br>
 #### Drosopholids of the Midwest and Northeast
-Check out this excelent guide to drosophilid flies by Thomas Werner, Tessa Steenwinkel, and John Jaenike
+Check out this excellent guide to drosophilid flies by Thomas Werner, Tessa Steenwinkel, and John Jaenike
 <a href="https://digitalcommons.mtu.edu/oabooks/1/" download> here </a>. <br>
 <img src="/assets/images/BackyardEvolution/DrosopholidsGuide.jpg" width="65%" height="100%">
