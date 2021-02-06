@@ -7,14 +7,14 @@ menubar: pub_menu
 permalink: /publications/
 ---
 <a id="Pre-prints"></a>
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & Bergland AO. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1) <br>
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & Bergland AO. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
 <span style="color:#996888">\[_Data available_](https://dest.bio) <br>
 
-Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3)
+Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3): 10.1101/337543
 
-**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/671925v3)
+**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/671925v3): 10.1101/671925
 
-Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, Bergland A, de Bivort B. (2020). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1)
+Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, Bergland A, de Bivort B. (2020). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 <a id="2020"></a>
 ## 2020
