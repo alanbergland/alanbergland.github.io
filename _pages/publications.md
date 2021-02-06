@@ -6,19 +6,29 @@ show_sidebar: false
 menubar: pub_menu
 permalink: /publications/
 ---
+<a id="Pre-prints"></a>
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & Bergland AO. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1) <br>
+<span style="color:#996888">\[_Data available_](https://dest.bio) <br>
+
+Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3)
+
+**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/671925v3)
+
+Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, Bergland A, de Bivort B. (2020). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1)
+
 <a id="2020"></a>
 ## 2020
-**Erickson PA**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [PLoS Genet](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110) 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf)
+**Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genet_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf)
 <br><br>
-Fu, Z., Meier, A. R., Epstein, B., **Bergland, A. O.**, Castillo Carrillo, C. I., Cooper, W. R., ... & Rashed, A. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079). [pdf](/assets/pdfs/Fu_2020.pdf)
+Fu Z, Meier AR, Epstein B, **Bergland AO**, Castillo Carrillo CI, Cooper WR, ... & Synder WE. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079): (13)2740–2753. [pdf](/assets/pdfs/Fu_2020.pdf)
 <br><br>
-Wang, Y., Kapun, M., Waidele, L., Kuenzel, S., **Bergland, A. O.**, & Staubach, F. (2020). Common structuring principles of the _Drosophila melanogaster_ microbiome on a continental scale and between host and substrate. [_Environmental Microbiology Reports_](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12826), 12(2), 220-228. [pdf](/assets/pdfs/Wang_2020.pdf)
+Wang Y, Kapun M, Waidele L, Kuenzel S, **Bergland AO**, & Staubach F. (2020). Common structuring principles of the _Drosophila melanogaster_ microbiome on a continental scale and between host and substrate. [_Environmental Microbiology Reports_](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12826): 12(2), 220-228. [pdf](/assets/pdfs/Wang_2020.pdf)
 <br><br>
-Kapun, M., Barrón, M. G., Staubach, F., Obbard, D. J., Wiberg, R. A. W., Vieira, J., ... & Haudry, A. (2020). Genomic analysis of European _Drosophila melanogaster_ populations reveals longitudinal structure, continent-wide selection, and previously unknown DNA viruses. [_Molecular biology and evolution_](https://academic.oup.com/mbe/article/37/9/2661/5837682kapu), 37(9), 2661-2678.[pdf](/assets/pdfs/Kapun_2020.pdf)
+Kapun M, Barrón MG, Staubach F, Obbard DJ, Wiberg RAW, Vieira J, ... & Flatt T, Gonzalez J. (2020). Genomic analysis of European _Drosophila melanogaster_ populations reveals longitudinal structure, continent-wide selection, and previously unknown DNA viruses. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/37/9/2661/5837682kapu): 37(9), 2661-2678.[pdf](/assets/pdfs/Kapun_2020.pdf)
 <br><br>
-**HM Stone, PA Erickson\*, AO Bergland\*.** 2020. Phenotypic plasticity, but not adaptive tracking, underlies seasonal variation in post‐cold hardening freeze tolerance of Drosophila melanogaster. [_Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5887): 10.1002/ece3.5887 [pdf](/assets/pdfs/Stone_2020.pdf)
+**Stone HM, Erickson PA\*, Bergland AO\*.** 2020. Phenotypic plasticity, but not adaptive tracking, underlies seasonal variation in post‐cold hardening freeze tolerance of Drosophila melanogaster. [_Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5887): 10.1002/ece3.5887 [pdf](/assets/pdfs/Stone_2020.pdf)
 <br><br>
-Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’ responses to climate change. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154">_Evolution Letters_</a>: 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
+Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’ responses to climate change. [_Evolution Letters_](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154): 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
 
 <a id="2019"></a>
 ## 2019
@@ -88,3 +98,6 @@ Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pool
 **Bergland AO**, Genissel A, Nuzhdin SV, Tatar M. 2008. Quantitative trait loci affecting phenotypic plasticity and the allometric relationship of ovariole number and thorax length in _Drosophila melanogaster_. [_Genetics_](https://www.genetics.org/content/180/1/567.long) 180: 567-582. [pdf](/assets/pdfs/Bergland_2008.pdf)
 <br><br>
 **Bergland AO**, Agotsch M, Mathias D, Bradshaw WE, Holzapfel CM. 2005. Factors influencing the seasonal life history of the pitcher plant mosquito, _Wyeomyia smithii_. [_Ecological Entomology_](https://onlinelibrary.wiley.com/doi/10.1111/j.0307-6946.2005.00687.x/abstract), 30: 129-137. [pdf](/assets/pdfs/Bergland_2005.pdf)
+
+<a id="Data notes"></a>
+**Nunez JCB**, Paris M, Machado H, Bogaerts M, Gonzalez J, Flatt T, Coronado M, Kapun M, Schmdit P, Petrov D, **Bergland A**. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.26.428249v1)
