@@ -7,9 +7,9 @@ menubar: pub_menu
 permalink: /publications/
 ---
 <a id="preprints"></a>
-## Pre-prints 
+## Pre-prints
 Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & Bergland AO. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
-<span style="color:#996888">\[_Data available_](https://dest.bio) <br>
+<a href="https://dest.bio">\[_Data available_\]</a> <br>
 
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3): 10.1101/337543
 
@@ -100,5 +100,6 @@ Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pool
 <br><br>
 **Bergland AO**, Agotsch M, Mathias D, Bradshaw WE, Holzapfel CM. 2005. Factors influencing the seasonal life history of the pitcher plant mosquito, _Wyeomyia smithii_. [_Ecological Entomology_](https://onlinelibrary.wiley.com/doi/10.1111/j.0307-6946.2005.00687.x/abstract), 30: 129-137. [pdf](/assets/pdfs/Bergland_2005.pdf)
 
-<a id="Data notes"></a>
+<a id="data-notes"></a>
+## Data Notes
 **Nunez JCB**, Paris M, Machado H, Bogaerts M, Gonzalez J, Flatt T, Coronado M, Kapun M, Schmdit P, Petrov D, **Bergland A**. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.26.428249v1)
