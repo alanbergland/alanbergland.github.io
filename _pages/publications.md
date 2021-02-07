@@ -100,6 +100,5 @@ Zhu Y, **Bergland AO**, Gonzalez J, Petrov D. 2012. Empirical validation of pool
 <br><br>
 **Bergland AO**, Agotsch M, Mathias D, Bradshaw WE, Holzapfel CM. 2005. Factors influencing the seasonal life history of the pitcher plant mosquito, _Wyeomyia smithii_. [_Ecological Entomology_](https://onlinelibrary.wiley.com/doi/10.1111/j.0307-6946.2005.00687.x/abstract), 30: 129-137. [pdf](/assets/pdfs/Bergland_2005.pdf)
 
-<a id="data-notes"></a>
-## Data Notes
-**Nunez JCB**, Paris M, Machado H, Bogaerts M, Gonzalez J, Flatt T, Coronado M, Kapun M, Schmdit P, Petrov D, **Bergland A**. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.26.428249v1)
+<a id="Data notes"></a>
+**Nunez JCB**, Paris M, Machado H, Bogaerts M, Gonzalez J, Flatt T, Coronado M, Kapun M, Schmdit P, Petrov D, **Bergland A**. Note: Updating the metadata of four misidentified samples in the DrosRTEC dataset. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.26.428249v1): 10.1101/2021.01.26.428249
