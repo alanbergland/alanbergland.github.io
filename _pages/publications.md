@@ -8,7 +8,7 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & Bergland AO. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
 <a href="https://dest.bio">\[_Data available_\]</a> <br>
 
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3): 10.1101/337543
