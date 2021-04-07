@@ -13,9 +13,13 @@ Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, 
 
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, ..., Schmidt PS, Petrov PA. (2019). Broad geographic sampling reveals predictable, pervasive, and strong seasonal adaptation in Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/337543v3): 10.1101/337543
 
-**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/671925v3): 10.1101/671925
-
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
+
+<a id="2021"></a>
+## 2021
+**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf)
+<br><br>
+
 
 <a id="2020"></a>
 ## 2020
