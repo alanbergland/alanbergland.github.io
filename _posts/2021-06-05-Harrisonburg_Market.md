@@ -6,7 +6,7 @@ image: /assets/images/Harrisonburg_interactive_2021.jpg
 hide_hero: false # change to false if you want to display header image
 title: Farmers Market Outreach # title and subtitle only display on hero
 hero_image: /assets/images/Harrisonburg_2021.jpg
-hero_height: is-medium
+hero_height: is-large
 published: true # change this to true
 ---
 The Bergland lab joined the Central Shenandoah Master Gardeners Association at the Harrisonburg Farmers Market to talk about insects, compost, and evolution. These outreach efforts are geared towards increasing public understanding of evolution an diversity and to promote the Backyard Evolution project.
