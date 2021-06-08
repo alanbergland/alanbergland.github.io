@@ -24,13 +24,13 @@ We can observe evolutionary change in populations through the analysis of DNA. B
 ### Fruit flies and compost piles
 Your compost pile is teaming with life, and fruit flies are an important part of that ecosystem. Fruit flies typically eat bacteria and fungi that decompose your scraps, and are therefore part of the decomposition cycles that make the world go around. Over the course of the summer, your pile will likely be inhabited by about a dozen species of fruit flies, in addition to many other flying, walking, and crawling invertebrates. For some species of fruit flies, 10-15 generations can pass between the spring and fall. Populations of fruit flies evolve over the course of the growing season as aspects of the nutritional and thermal environment change. By sampling fruit flies from your compost pile over the growing season, we can track the evolutionary dynamics of fruit flies in real-time.
 
-<a id="sign-up"></a>
 # Will you commit to sampling and preserving small flying insects from your compost piles 2x per month July - December?
 ##### \*If you miss a week or two, that's okay!
 
 ### Participate in a world-wide effort
 Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [https://www.droseu.net](https://www.droseu.net)
 
+<a id="sign-up"></a>
 # To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
 
 ## We supply everything you need to participate!
