@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Welcome to the Bergland Lab
-subtitle: an ecological- and evolutionary-genetics lab
-hero_height: is-large
-hero_link: /#callouts
-hero_link_text: Scroll for more
+subtitle: ecological and evolutionary genetics
+hero_height: is-medium
 show_sidebar: false
-callouts: homepage_callouts
 ---
 <!-- set up scroll elements for the announcements -->
 <style>
