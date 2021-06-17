@@ -28,7 +28,7 @@ Your compost pile is teaming with life, and fruit flies are an important part of
 ##### \*If you miss a week or two, that's okay!
 
 ### Participate in a world-wide effort
-Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [https://www.droseu.net](https://www.droseu.net)
+Your participation in this project will contribute to an ongoing, international collaboration of fruit fly biologists to study the genomes of flies sampled throughout the world. Your samples will represent a unique contribution from Virginia. Read more about this effort at [https://dest.bio](https://dest.bio)
 
 <a id="sign-up"></a>
 # To sign up, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdI_mAGyaLcagkICDY0XUnVwyIv2kuT15rcAjIrePtSQNQhmg/viewform?embedded=true)
@@ -81,7 +81,7 @@ Ideally, you will fill the preservation tube more than half way full with flies.
 **Record** your sample by filling in the date and time of collection on your specimen label and apply to the vial. Please use a pencil or ball-point pen, as Sharpies tend to bleed when exposed to ethanol. Your labels will contain a unique collector ID (that’s you!) and a sample number. For safety, record the sample number, time, and
 date on your collection log.<br>
 
-We will **pick-up** your samples at the end of the year (**December 1-15 2020, or earlier upon request**). <br>
+We will **pick-up** your samples at the end of the year (**December 1-15 2021, or earlier upon request**). <br>
 We will **remind** you to collect every two weeks via text message or email (your choice).<br>
 
 \***Cold shock your flies.** If you are having a difficult time transferring your flies from the collection vial to the preservation tube, place the collection vial in the freezer for ~1-2 minutes. This will slow the flies down.<br>
@@ -91,17 +91,8 @@ years. One of these species is the genetic model species, _Drosophila melanogast
 and natural history of many of the species in our area can be found in _**Drosophilids of the Midwest and Northeast (2018) by Werner, Steenwinkel, and Jaenike**_
 [https://digitalcommons.mtu.edu/oabooks/1/](https://digitalcommons.mtu.edu/oabooks/1/) (the 2nd version includes bedtime stories for kids!)<br><br>
 
-**What are we going to do with the flies you collect?** Samples that you collect during this first year will be sorted by students at UVA. We will then sequence the genomes of one species you collect, _D. melanogaster_, using a technique called Illumina sequencing. This approach will allow us
-to track the frequency of every genetic variant in the genome through the growing season. This is the basic approach that we use to study the evolutionary process. The remaining samples of species will be retained for future work.<br>
+**What are we going to do with the flies you collect?** Samples that you collect will be sorted by students at UVA. We will characterize the species distributions of compost-pile samples collected across the growing season, and compare the community composition with samples collected in local orchards. We will use genetic information from the samples that you collect to ask whether your compost pile has a resident community of flies, or if colonization happens recurrently every year and to study the genetic basis of adaptation.
 
-The 2020 Backyard Evolution collection effort is a pilot project that will augment ongoing research in the Bergland lab. We aim to include ~35 participants this year, and will be pursuing National Science Foundation funding to expand the program to include more of the state for 2021-2026. We look forward to working with you to incorporate your ideas to improve this project and to increase outreach and education efforts.<br><br>
-
-<a id="diversity"></a>
-**Statement on the evolution of diversity.** In many species, populations differ from each other and these different varieties are sometimes locally adapted to the environment where they are found. It is easy to relate this ubiquitous biological phenomenon to racial categories. We cannot confuse ancestry and evolutionary history with race. Racial labels reflect the imposition of power of one group over another and arbitrary distinctions of who is superior and inferior. There is no biological justification for oppression. There is no better and worse, just different.<br><br>
-
-<a id="covid"></a>
-**COVID-19 safety**<br>
-Collection kits will be dropped off at your house with no personal contact.
 <br><br>
 <a id="privacy"></a>
 **Privacy statement**

@@ -19,3 +19,8 @@ items:
       Questions? Contact virginia.backyard.flies@gmail.com
     call_to_action_name: Email us
     call_to_action_link: mailto:virginia.backyard.flies@gmail.com
+  - title: Download the Experiment Booklet
+    description: >
+      The 2021 Booklet with background information and instructions is available here.
+    call_to_action_name: Download the PDF
+    call_to_action_link: "assets/pdfs/2021Backyard_Evoultion_Handout_small.pdf"
