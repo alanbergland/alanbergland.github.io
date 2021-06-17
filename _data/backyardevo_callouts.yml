@@ -11,16 +11,12 @@ items:
   - title: Participate in this citizen science project!
     description: >
       The Bergland Lab at UVA is looking for volunteers to collect and preserve
-      flying insects from their compost piles this spring, summer, and fall.
-    call_to_action_name: Collection Video
-    call_to_action_link: "https://vimeo.com/429830849"
+      flying insects from their compost piles this spring, summer, and fall. Download the experiment booklet here.
+    call_to_action_name: Download the PDF
+    call_to_action_link: "assets/pdfs/2021Backyard_Evoultion_Handout_small.pdf"
   - title: We provide the collection gear and online training
     description: >
       Questions? Contact virginia.backyard.flies@gmail.com
     call_to_action_name: Email us
     call_to_action_link: mailto:virginia.backyard.flies@gmail.com
-  - title: Download the Experiment Booklet
-    description: >
-      The 2021 Booklet with background information and instructions is available here.
-    call_to_action_name: Download the PDF
-    call_to_action_link: "assets/pdfs/2021Backyard_Evoultion_Handout_small.pdf"
+  
