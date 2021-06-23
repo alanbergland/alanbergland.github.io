@@ -17,6 +17,9 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2021"></a>
 ## 2021
+Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
+Gonzalez J, Karasov T, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577
+
 **Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf)
 <br><br>
 
