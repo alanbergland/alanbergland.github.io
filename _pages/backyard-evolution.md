@@ -4,7 +4,7 @@ hide_hero: false
 hero_height: is-medium
 title:  "Backyard Evolution"
 subtitle: Capture evolution in your own backyard!
-date:   2021-06-08
+date:   2021-06-25
 image: "/assets/images/BackyardEvolution/backyardEvoHeader.png"
 published: true
 show_sidebar: false
@@ -14,6 +14,10 @@ menubar: backyardevo_menu
 permalink: /backyard-evolution/
 ---
 <a id="top"></a>
+#### Introduction to Backyard Evolution:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h-6pYx1KNgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<img src="/assets/images/BackyardEvolution/Outreach_poster_print.jpg" width="80%"> <br>
 <img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="30%" height="30%">
 ### Evolution in your backyard
 For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in population size across time. Many of the organisms in your backyard - for instance small invertebrates and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
@@ -63,16 +67,13 @@ Your participation in this project will contribute to an ongoing, international 
 <a id="how-to"></a>
 ### Tutorial Videos
 We hope that these videos will help you successfully complete your fruit fly collections. These videos cover all 3 variations of the experiment. <br>
-#### Video 1 - Introduction to Backyard Evolution:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h-6pYx1KNgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-#### Video 2 - How to collect fruit flies:
+#### How to collect fruit flies:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 <br>
-#### Video 3 - What’s in your collection kit?
+#### What’s in your collection kit?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dA6_tVlnc_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-#### Video 4 -  How to set up the bait-buckets:
+#### How to set up the bait-buckets:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dp4YZpUa404" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Here's what you'll be doing 2x a month:
