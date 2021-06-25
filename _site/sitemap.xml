@@ -41,12 +41,12 @@
 <lastmod>2020-09-01T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/12/16/cory-g3/</loc>
+<loc>http://localhost:4000/2020/12/16/priscilla-plos-paper/</loc>
 <lastmod>2020-12-16T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/12/16/priscilla-plos-paper/</loc>
-<lastmod>2020-12-16T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/2021/04/16/cory-g3/</loc>
+<lastmod>2021-04-16T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2021/05/28/BackyardEvolution2021/</loc>
@@ -55,6 +55,10 @@
 <url>
 <loc>http://localhost:4000/2021/06/05/Harrisonburg_Market/</loc>
 <lastmod>2021-06-05T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2021/06/23/DrosRTEC-Paper/</loc>
+<lastmod>2021-06-23T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/_posts/2016-01-25-January-25-2016/</loc>
@@ -99,6 +103,9 @@
 <loc>http://localhost:4000/_posts/2021-06-05-Harrisonburg_Market/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_posts/2021-06-23-DrosRTEC-Paper/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/announcements/</loc>
 </url>
 <url>
@@ -137,6 +144,10 @@
 <url>
 <loc>http://localhost:4000/assets/images/BackyardEvolution/DrosopholidsGuide.pdf</loc>
 <lastmod>2020-07-14T11:29:39-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/2021Backyard_Evoultion_Handout_small.pdf</loc>
+<lastmod>2021-06-25T10:13:29-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/Adrion_2014.pdf</loc>
