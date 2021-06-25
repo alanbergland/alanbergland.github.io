@@ -61,8 +61,19 @@ Your participation in this project will contribute to an ongoing, international 
 </div>
 
 <a id="how-to"></a>
-### Learn how to collect flies with this video:
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+### Tutorial Videos
+We hope that these videos will help you successfully complete your fruit fly collections. These videos cover all 3 variations of the experiment. <br>
+#### Video 1 - Introduction to Backyard Evolution:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h-6pYx1KNgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+#### Video 2 - How to collect fruit flies:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<br>
+#### Video 3 - What’s in your collection kit?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dA6_tVlnc_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+#### Video 4 -  How to set up the bait-buckets:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp4YZpUa404" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Here's what you'll be doing 2x a month:
 **Goal**: We want you to sample ~100-200 fruit-flies every several weeks over the growing season and into early winter.<br>
