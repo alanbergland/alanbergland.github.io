@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: Alan and colleagues publish paper in eLife demonstrating paralle seasonal adaptation in flies
+excerpt: Alan and colleagues publish paper in eLife demonstrating parallel seasonal adaptation in flies
 date: 2021-06-23
 image: assets/images/DrosRTEC_small.jpg
 hide_hero: false # change to false if you want to display header image
