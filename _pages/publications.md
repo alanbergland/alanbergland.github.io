@@ -10,7 +10,7 @@ permalink: /publications/
 ## Pre-prints
 
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
-JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.06.23.449662v1): 10.1101/2021.06.23.449662. 
+JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.06.23.449662v1): 10.1101/2021.06.23.449662.
 
 Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
 <a href="https://dest.bio">\[_Data available_\]</a> <br>
@@ -20,7 +20,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 <a id="2021"></a>
 ## 2021
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
-Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577
+Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf)
 
 **Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf)
 <br><br>
