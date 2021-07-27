@@ -2,7 +2,7 @@
 layout: post
 excerpt: The Bergland Lab promotes Backyard Evolution at the Harrisonburg Farmer's Market
 date: 2021-06-05
-image: /assets/images/Harrisonburg_interactive_2021.jpg
+image: /assets/images/Harrisonburg_2021.jpg
 hide_hero: false # change to false if you want to display header image
 title: Farmers Market Outreach # title and subtitle only display on hero
 hero_image: /assets/images/Harrisonburg_2021.jpg
