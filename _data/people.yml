@@ -8,19 +8,15 @@
         Dr. Alan O. Bergland is an Assistant Professor in the Biology Deptartment at the University of Virginia. He is interested in basic questions in evolutionary and ecological genetics and studies flies, water-fleas, and birds. Check out the [research page](/what-we-do/) for more details. For papers from the Bergland lab, check out the [publications page](/publications/). <br> CV available [here](https://bergland-lab.org/pdfs/Bergland_CV.pdf)
       gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
       email: aob2x@virginia.edu
-- tier_name: Lab Managers
-  description: |-
-  sponsors:
-    - name: Grace Gutierrez
-      subtitle: 2020-current
-      image: /assets/images/profiles/gracegutierrez.jpeg
-      profile: |
-        Grace is the current lab tech in the Bergland lab and has previously conducted research on male production rates in Daphnia pulex. In the future she is interested in going to graduate school to study research on the effects that human-impacted landscapes have on pollinators as well as the effects of pollinators on these landscapes.
-- tier_name: Post-docs
+# - tier_name: Lab Managers
+#   description: |-
+#   sponsors:
+
+- tier_name: Scientific Staff
   description: |-
   sponsors:
     - name: Joaquin C. B. Nunez
-      subtitle: Post-doc, 2020-current
+      subtitle: Genomics Research Associate, 2020-current
       image: /assets/images/profiles/joaquinnunez.jpg
       profile: |-
         My research studies patterns of genetic variation in natural populations living  in highly variable environments. I seek to characterize what loci are under selection at different scales of environmental heterogeneity both in space and time. My research program seeks to determine the identity of these ecologically important loci, as well as the mechanisms that underlie their maintenance of genetic variation. I did my PhD at Brown with David M. Rand woking on intertidal barnacles. I did my undergraduate at the University of Miami with  Margie F. Oleksiak and Doug L. Crawford working on killifish.
@@ -80,6 +76,11 @@
   description: |-
     Previous members of the Bergland Lab
   sponsors:
+    - name: Grace Gutierrez
+      subtitle: Lab Tech (2020-2021)
+      image: /assets/images/profiles/gracegutierrez.jpeg
+      profile: |
+        Grace was the lab tech in the Bergland lab and has previously conducted research on male production rates in Daphnia pulex. In the future she is interested in going to graduate school to study research on the effects that human-impacted landscapes have on pollinators as well as the effects of pollinators on these landscapes.
     - name: Sasha Bilal
       subtitle: Undergraduate (2018-2020)
       image: /assets/images/profiles/sashabilal.jpg
