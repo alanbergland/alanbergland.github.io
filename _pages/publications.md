@@ -11,24 +11,24 @@ permalink: /publications/
 
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
 JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.06.23.449662v1): 10.1101/2021.06.23.449662.
-
+<br><br>
 Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
 <a href="https://dest.bio">\[_Data available_\]</a> <br>
-
+<br><br>
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 <a id="2021"></a>
 ## 2021
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
 Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf)
-
+<br><br>
 **Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf)
 <br><br>
 
 
 <a id="2020"></a>
 ## 2020
-**Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genet_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf)
+**Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf)
 <br><br>
 Fu Z, Meier AR, Epstein B, **Bergland AO**, Castillo Carrillo CI, Cooper WR, ... & Synder WE. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079): (13)2740–2753. [pdf](/assets/pdfs/Fu_2020.pdf)
 <br><br>
