@@ -8,6 +8,8 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
+**Yu Y**, **Begrland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.30.454552v1): 10.1101/2021.07.30.454552.
+<br><br>
 **Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.29.454146v1): 10.1101/2021.07.29.454146.
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
