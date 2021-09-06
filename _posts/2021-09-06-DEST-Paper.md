@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: The Bergland lab and colleauges publish the largets population genomic repository for Drosophila to date
-date: 2021-06-23
+date: 2021-09-08
 image: assets/images/DEST.png
 hide_hero: false # change to false if you want to display header image
 title: Drosophila Evolution over Space and Time # title and subtitle only display on hero
