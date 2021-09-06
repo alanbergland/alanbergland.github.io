@@ -15,13 +15,13 @@ permalink: /publications/
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
 JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.06.23.449662v1): 10.1101/2021.06.23.449662.
 <br><br>
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.02.01.428994v1): 10.1101/2021.02.01.428994 <br>
-<a href="https://dest.bio">\[_Data available_\]</a>
-<br><br>
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 <a id="2021"></a>
 ## 2021
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259 <br>
+<a href="https://dest.bio">\[_Data available_\]</a>
+<br><br>
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
 Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf)
 <br><br>
