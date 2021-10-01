@@ -19,8 +19,8 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2021"></a>
 ## 2021
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259 <br>
-<a href="https://dest.bio">\[_Data available_\]</a>
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259. [pdf](/assets/pdfs/Kapun_etal_2021.pdf) <br>
+<a href="https://dest.bio">\[_Data available at the DEST website_\]</a>
 <br><br>
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
 Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf)
