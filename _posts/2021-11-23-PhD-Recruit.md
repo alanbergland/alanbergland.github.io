@@ -9,7 +9,7 @@ published: true # change this to true
 ---
 University of Virginia: PhD position in Evolutionary Genetics.
 
-The Bergland lab at the University of Virginia is recruiting a PhD student to work on a NSF funded project study rapid adaptive evolution and meta-population biology of Drosophila over seasonal time-scales. This position will provide training in quantitative and population genetics incorporating field based sampling, laboratory experiments, NGS library prep and data-analysis and will allow the selected student to pursue new and original research questions. This position will also include the development of an outreach program with Citizen Scientists and the opportunity to collaborate in international consortium of Drosophila evolutionary biologists.
+The Bergland lab at the University of Virginia is recruiting a PhD student to work on a NSF funded project studying rapid adaptive evolution and meta-population biology of Drosophila over seasonal time-scales. This position will provide training in quantitative and population genetics incorporating field based sampling, laboratory experiments, NGS library prep and data-analysis and will allow the selected student to pursue new and original research questions. This position will also include the development of an outreach program with Citizen Scientists and the opportunity to collaborate in international consortium of Drosophila evolutionary biologists.
 
 Applicants with a background in evolutionary biology, genetics, and genomics are encouraged to apply. Experience with Drosophila or other model systems is encouraged but not necessary.
 
