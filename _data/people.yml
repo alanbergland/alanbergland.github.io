@@ -25,12 +25,6 @@
 - tier_name: PhD Students
   description: |-
   sponsors:
-    - name: Alyssa Bangerter
-      subtitle: 2016-current
-      image: /assets/images/profiles/alyssabangerter.jpg
-      profile: |
-        Alyssa is a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research.
-      email: ab5dr@virginia.edu
     - name: Yang Yu
       subtitle: 2017-current
       image: /assets/images/profiles/yangyu.jpeg
@@ -76,6 +70,12 @@
   description: |-
     Previous members of the Bergland Lab
   sponsors:
+    - name: Alyssa Bangerter
+      subtitle: Phd Student (2016-2021)
+      image: /assets/images/profiles/alyssabangerter.jpg
+      profile: |
+        Alyssa was a Ph.D. candidate in the Biology Department. She is broadly interested in how populations adapt to their environments and is currently interested in how they adapt to their environments in the short term. For her Ph.D. dissertation work, Alyssa does very fine-scale temporal sampling of wild Drosophila melanogaster to look at seasonal evolution. She is also investigating how other Drosophilids may evolve seasonally. Alyssa just wrapped up her 5th and final year as a [Jefferson Fellow](https://www.jeffersonscholars.org/), which has in part supported her research.
+      email: ab5dr@virginia.edu
     - name: Grace Gutierrez
       subtitle: Lab Tech (2020-2021)
       image: /assets/images/profiles/gracegutierrez.jpeg
