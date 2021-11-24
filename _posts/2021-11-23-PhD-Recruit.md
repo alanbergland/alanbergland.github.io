@@ -1,10 +1,10 @@
 ---
 layout: post
-excerpt: The Bergland lab is recruiting a PhD student to study rapid adaptation
+excerpt: The Bergland lab is recruiting a PhD student to study adaptation in Drosophila
 date: 2021-11-23
-image: assets/images/UVA_lawn.jpg
+image: assets/images/UVA_lawn_small.jpg
 hide_hero: false # change to false if you want to display header image
-title: Graduate student position in rapid adaptation # title and subtitle only display on hero
+title: Graduate student position seasonal adaptation across a metapopulation # title and subtitle only display on hero
 published: true # change this to true
 ---
 University of Virginia: PhD position in Evolutionary Genetics.
