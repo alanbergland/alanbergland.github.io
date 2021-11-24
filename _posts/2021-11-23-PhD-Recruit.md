@@ -19,6 +19,6 @@ The University of Virginia is located in Charlottesville, Virginia nestled in th
 
 The deadline to apply for PhD positions in the Biology Depart at UVA is Dec 1, however applications will be considered through December 5.
 
-See https://bio.as.virginia.edu/graduate/how-to-apply for more information.
+See <a href="https://bio.as.virginia.edu/graduate/how-to-apply">https://bio.as.virginia.edu/graduate/how-to-apply</a> for more information.
 
 Please contact Alan Bergland (aob2x@virginia.edu) to discuss the position. Please include a CV and a cover letter addressing your research and educational background to start the conversation.
