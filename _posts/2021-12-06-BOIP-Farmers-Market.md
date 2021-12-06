@@ -5,6 +5,8 @@ date: 2021-12-06
 image: /assets/images/11-12-2021-farmers-market.jpeg
 hide_hero: false # change to false if you want to display header image
 title: Farmer's Market Outreach # title and subtitle only display on hero
+hero_image: /assets/images/11-12-2021-farmers-market.jpeg
+hero_height: is-medium
 published: true # change this to true
 ---
 
