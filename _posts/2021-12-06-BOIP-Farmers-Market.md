@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: The Bergland Lab ran BOIP's Farmer's Market Science booth on November 13
-date: 2020-05-08
+date: 2021-12-06
 image: /assets/images/11-12-2021-farmers-market.jpeg
 hide_hero: false # change to false if you want to display header image
 title: Farmer's Market Outreach # title and subtitle only display on hero
