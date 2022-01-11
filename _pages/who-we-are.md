@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who We Are
-subtitle: from undergraduates to postdocs and everything in between
+subtitle: false
 sponsors: people
 show_sidebar: false
 permalink: /who-we-are/
