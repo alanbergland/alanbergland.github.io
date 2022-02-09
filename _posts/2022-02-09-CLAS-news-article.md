@@ -2,10 +2,10 @@
 layout: post
 excerpt: The Backyard Evolution project is highlighted in UVA news for its impact and NSF grant
 date: 2022-02-09
-image: assets/images/UVA_lawn_small.jpg
+image: /assets/images/UVA_lawn_small.jpg
 hide_hero: false # change to false if you want to display header image
 title: Bergland Lab in the News! # title and subtitle only display on hero
-hero_image: assets/images/UVA_lawn_small.jpg
+hero_image: /assets/images/UVA_lawn_small.jpg
 hero_height: is-medium
 published: true # change this to true
 ---
