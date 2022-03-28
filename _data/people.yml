@@ -69,6 +69,10 @@
       subtitle: 2018-current
       image: /assets/images/profiles/liammiller.jpg
       profile: I've done work looking at starvation/desiccation in drosophila, and am getting into research with seasonal allometry in drosophila.
+    - name: David Bass
+      subtitle: 2022-current
+      image: /assets/images/profiles/davidbass.JPG
+      profile: David (he/him/his) is a third-year undergraduate student majoring in statistics and mathematics with minors in biology and Spanish. As a recipient of the Harrison Undergraduate Research Award, he is studying the potential of Pool-seq for demographic inference by benchmarking the performance of prominent inferential methods on simulated Pool-seq data. Upon graduation, David hopes to get his PhD in computational biology. Outside of his classes and research, David can be found competing on UVA’s quizbowl team and attending meetings of the Jefferson Society.
 - tier_name: Alumni
   size: small
   description: |-
