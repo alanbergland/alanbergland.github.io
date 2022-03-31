@@ -12,9 +12,14 @@
         <br> CV available [here](/assets/pdfs/Bergland CV Nov29_2021_public.pdf)
       gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
       email: aob2x@virginia.edu
-# - tier_name: Lab Managers
-#   description: |-
-#   sponsors:
+- tier_name: Lab Managers
+  description: |-
+  sponsors:
+    - name: Megan Delamont
+      subtitle: 2022-current
+      image: /assets/images/profiles/megandelamont.jpg
+      profile: |-
+        Megan is the lab tech in the Bergland lab. She was previously a lab tech for the University of Arizona where she worked on projects related to sphingolipid metabolism in the colon, and the University of Montana where she worked on quantitative avian ecology projects. In the Bergland lab, Megan will assist projects investigating adaptive tracking in Drosophila species. When she isn’t working, Megan is probably out hiking, running, or cuddling her dog, Molly!
 
 - tier_name: Post-docs
   description: |-
