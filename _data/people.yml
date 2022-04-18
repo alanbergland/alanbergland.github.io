@@ -42,7 +42,9 @@
       subtitle: 2019-current
       image: /assets/images/profiles/connormurray.jpg
       profile: |
-        My research examines how genetic diversity evolves in response to environmental variability. I seek to characterize the selective forces that maintain genetic diversity across the genome by using experimental mesocosms, genomics, and simulations. My co-mentor is Dr. Aakrosh Ratan at the Center for Public Heath Genomics at UVA. I completed my undergraduate degree at Florida State University and pursued an honor’s thesis under Dr. David Houle studying Drosophila macroevolution. 
+        My research examines how genetic diversity evolves in response to environmental variability. I seek to characterize the selective forces that maintain genetic diversity across the genome by using experimental mesocosms, genomics, and simulations. My co-mentor is Dr. Aakrosh Ratan at the Center for Public Heath Genomics at UVA. I completed my undergraduate degree at Florida State University and pursued an honor’s thesis under Dr. David Houle studying Drosophila macroevolution.
+      gscholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4RQZpDkAAAAJ&sortby=pubdate
+      email: csm6hg@virginia.edu
     - name: Adam Lenhart
       subtitle: 2020-current
       image: /assets/images/profiles/adamlenhart.jpg
