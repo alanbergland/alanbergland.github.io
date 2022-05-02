@@ -17,7 +17,7 @@ permalink: /backyard-evolution/
 <img src="/assets/images/BackyardEvolution/bkydevo1.png" style="float:right" width="30%" height="30%">
 ### Evolution in your backyard
 For many plants, animals, and fungi, we think of the seasons as a cycle of growth and dormancy. What is growth? For an individual, growth is the transition from one stage of life to another; the accumulation of resources. However, for a population, growth is the increase in population size across time. Many of the organisms in your backyard - for instance small invertebrates and weedy plants - have rapid development time, and are able to undergo multiple generations between spring to fall. The environment changes during the course of the growing season, imposing variable natural selection through time. As these populations grow, and eventually decline, they evolve in response to these changing environments.
-
+<img src="/assets/images/BackyardEvolution/GeneFrequenciesTrackTheSeasons.jpg" style="float:left" width="30%" height="30%">
 ### DNA as a historical record
 We can observe evolutionary change in populations through the analysis of DNA. Because most individuals in a population have slightly different genomes, we can infer the evolutionary history of the population and species. In some cases, such patterns reveal the more distant past, for instance large scale migration events. In other cases, we identify regions of the genome that have recently undergone adaptive evolution. Patterns of variation not only tell the story of the past, but also the present. We can track evolutionary dynamics in real-time. And, we can do it from your backyard.
 
