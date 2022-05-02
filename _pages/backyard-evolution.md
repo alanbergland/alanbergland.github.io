@@ -61,11 +61,11 @@ Your participation in this project will contribute to an ongoing, international 
 </div>
 
 <a id="how-to"></a>
+### Tutorial Videos
+We hope that these videos will help you successfully complete your fruit fly collections. These videos cover all 3 variations of the experiment. <br>
 #### Introduction to Backyard Evolution:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h-6pYx1KNgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-### Tutorial Videos
-We hope that these videos will help you successfully complete your fruit fly collections. These videos cover all 3 variations of the experiment. <br>
 #### How to collect fruit flies:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429830849" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 <br>
