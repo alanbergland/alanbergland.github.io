@@ -72,8 +72,6 @@ We hope that these videos will help you successfully complete your fruit fly col
 #### What’s in your collection kit?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dA6_tVlnc_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-#### How to set up the bait-buckets:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp4YZpUa404" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Here's what you'll be doing 2x a month:
 **Goal**: We want you to sample ~100-200 fruit-flies every several weeks over the growing season and into early winter.<br>
