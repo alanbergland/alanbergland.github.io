@@ -24,6 +24,11 @@ We can observe evolutionary change in populations through the analysis of DNA. B
 ### Fruit flies and compost piles
 Your compost pile is teaming with life, and fruit flies are an important part of that ecosystem. Fruit flies typically eat bacteria and fungi that decompose your scraps, and are therefore part of the decomposition cycles that make the world go around. Over the course of the summer, your pile will likely be inhabited by about a dozen species of fruit flies, in addition to many other flying, walking, and crawling invertebrates. For some species of fruit flies, 10-15 generations can pass between the spring and fall. Populations of fruit flies evolve over the course of the growing season as aspects of the nutritional and thermal environment change. By sampling fruit flies from your compost pile over the growing season, we can track the evolutionary dynamics of fruit flies in real-time.
 
+### How you can get involved
+**Goal:** Sample 100-200 fruit-flies every two weeks over the growing season and into early winter.
+You will sweep a net back and forth over your compost pile to catch as many flying insects as you can. After filling a preservation tube with ethanol, you’ll carefully transfer the insects from the net to the preservation tube using the provided collection vial and funnel. Once you’ve captured as many flying things as you can, you’ll store the preservation tube in your freezer until we come to pick up all of your collections at the end of the year. Don’t forget to label the preservation tube and fill out the collection log for that day’s collection!
+
+
 # Will you commit to sampling and preserving small flying insects from your compost piles 2x per month July - December?
 ##### \*If you miss a week or two, that's okay!
 
@@ -74,7 +79,7 @@ We hope that these videos will help you successfully complete your fruit fly col
 <br>
 
 ## Here's what you'll be doing 2x a month:
-**Goal**: We want you to sample ~100-200 fruit-flies every several weeks over the growing season and into early winter.<br>
+**Goal:** We want you to sample ~100-200 fruit-flies every several weeks over the growing season and into early winter.<br>
 
 Fruit flies are most active in the early morning (6:00AM-9:00AM) or evening (6:00PM-9:00PM), and will be easier to collect then. They may be hiding in the heat of the day.<br>
 **To sample**, first hold a large collection vial in your non-dominant hand; keep the lid nearby. Then, with your other hand, sweep your net back and forth in a gentle motion and kick or tap your compost pile with your foot.
@@ -98,7 +103,7 @@ We will **remind** you to collect every two weeks via text message or email (you
 **What species of fruit flies can you expect to find?** In Central Virginia, we typically find about 10 species of flies. Some of these species are endemic to Virginia and North America. One group of endemic species that you can easily spot are species in the _affinis_ group. They tend to be quite dark and males have bright red testicles that are visible on the bottom of their abdomen. Other species you find are invasive, and have established in North America over the last several hundred
 years. One of these species is the genetic model species, _Drosophila melanogaster_. Even though this species is not native, it is capable of overwintering and populations in your backyard might be permanent. Most of the species you collect are not economically important pests. One exception is _Drosophila suzukii_, the spotted wing Drosophila. This species has colonized the world in the last decade and is a major pest on soft-skinned fruits. An excellent resource for species identification
 and natural history of many of the species in our area can be found in _**Drosophilids of the Midwest and Northeast (2018) by Werner, Steenwinkel, and Jaenike**_
-[https://digitalcommons.mtu.edu/oabooks/1/](https://digitalcommons.mtu.edu/oabooks/1/) (the 2nd version includes bedtime stories for kids!)<br><br>
+[https://digitalcommons.mtu.edu/oabooks/1/](https://digitalcommons.mtu.edu/oabooks/1/) (the 2nd version includes bedtime stories for kids!)<br>
 
 **What are we going to do with the flies you collect?** Samples that you collect will be sorted by students at UVA. We will characterize the species distributions of compost-pile samples collected across the growing season, and compare the community composition with samples collected in local orchards. We will use genetic information from the samples that you collect to ask whether your compost pile has a resident community of flies, or if colonization happens recurrently every year and to study the genetic basis of adaptation.
 
