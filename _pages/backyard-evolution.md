@@ -68,7 +68,7 @@ Your participation in this project will contribute to an ongoing, international 
 <a id="how-to"></a>
 ### The Science Behind Backyard Evolution
 Watch this presentation by Dr. Alan Bergland about why individuals are different from each other, adaptation, and how your Backyard Evolution samples will help us answer important questions in ecology and evolution!
-<iframe title="vimeo-player" src="https://vimeo.com/716844320" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video716844320" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 <br>
 ### Tutorial Videos
 We hope that these videos will help you successfully complete your fruit fly collections. These videos cover all 3 variations of the experiment. <br>
