@@ -2,6 +2,10 @@
   items:
     - name: Pre-prints
       link: /publications/#preprints
+    - name: 2022
+      link: /publications/#2022
+    - name: 2021
+      link: /publications/#2021
     - name: 2020
       link: /publications/#2020
     - name: 2019
