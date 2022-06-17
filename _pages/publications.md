@@ -18,7 +18,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 **Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. In Press Nature Ecology and Evolution. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.29.454146v1): 10.1101/2021.07.29.454146.
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
-JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. In Press Molecular Biology and Evolution. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.06.23.449662v1): 10.1101/2021.06.23.449662.
+JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf)
 <br><br>
 
 
