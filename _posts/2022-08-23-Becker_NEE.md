@@ -5,7 +5,7 @@ date: 2022-08-23
 image: /assets/images/Daphnia_glow.jpg
 hide_hero: false # change to false if you want to display header image
 title: Paper published in NEE # title and subtitle only display on hero
-hero_image: /assets/images/Daphnia_glow.jpg
+hero_image: /assets/images/Daphnia_DAPCHA.jpg
 hero_height: is-medium
 published: true # change this to true
 ---
