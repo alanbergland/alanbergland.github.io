@@ -8,8 +8,6 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
-**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.30.454552v1): 10.1101/2021.07.30.454552.
-<br><br>
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 
