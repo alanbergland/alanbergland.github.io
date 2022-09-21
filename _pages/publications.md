@@ -13,8 +13,9 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2022"></a>
 ## 2022
-**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. In Press Evolution [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.30.454552v1): 10.1101/2021.07.30.454552.
+**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf)
 <br><br>
+
 **Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. In Press Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.29.454146v1).
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
