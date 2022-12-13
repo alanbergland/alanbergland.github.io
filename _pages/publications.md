@@ -8,61 +8,47 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
-**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. (2022). A cosmopolitan inversion drives seasonal adaptation in overwintering Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2022.12.09.519676v1). [code](https://github.com/Jcbnunez/Cville-Seasonality-2016-2019)<br><br>
-
+**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. (2022). A cosmopolitan inversion drives seasonal adaptation in overwintering Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2022.12.09.519676v1). [code](https://github.com/Jcbnunez/Cville-Seasonality-2016-2019).<br><br>
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 
 <a id="2022"></a>
 ## 2022
-**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf). [code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.6m905qg32)
+**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf). [code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.6m905qg32).
 <br><br>
-
-**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.29.454146v1). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1)
+**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2021.07.29.454146v1). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
 <br><br>
-
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
-JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git)
+JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
 <br><br>
-
 
 <a id="2021"></a>
 ## 2021
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259. [pdf](/assets/pdfs/Kapun_etal_2021.pdf). [code](https://github.com/DEST-bio/data-paper) <br>
+Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259. [pdf](/assets/pdfs/Kapun_etal_2021.pdf). [code](https://github.com/DEST-bio/data-paper). <br>
 <a href="https://dest.bio">\[_Data and pipeline available at the DEST website_\]</a>
-
 <br><br>
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
-Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf). [code](https://github.com/BerglandLab/dmel_seasonal_RTEC.git)
-
+Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf). [code](https://github.com/BerglandLab/dmel_seasonal_RTEC.git).
 <br><br>
-**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf). [code](https://github.com/BerglandLab/HS-reconstruction-gwas.git)
+**Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf). [code](https://github.com/BerglandLab/HS-reconstruction-gwas.git).
 <br><br>
-
 
 <a id="2020"></a>
 ## 2020
-**Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf). [code](https://github.com/BerglandLab/diapause-scripts-clean.git)
+**Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf). [code](https://github.com/BerglandLab/diapause-scripts-clean.git).
 <br><br>
-
 Fu Z, Meier AR, Epstein B, **Bergland AO**, Castillo Carrillo CI, Cooper WR, ... & Synder WE. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079): (13)2740–2753. [pdf](/assets/pdfs/Fu_2020.pdf)
 <br><br>
-
 Wang Y, Kapun M, Waidele L, Kuenzel S, **Bergland AO**, & Staubach F. (2020). Common structuring principles of the _Drosophila melanogaster_ microbiome on a continental scale and between host and substrate. [_Environmental Microbiology Reports_](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12826): 12(2), 220-228. [pdf](/assets/pdfs/Wang_2020.pdf)
 <br><br>
-
 Kapun M, Barrón MG, Staubach F, Obbard DJ, Wiberg RAW, Vieira J, ... & Flatt T, Gonzalez J. (2020). Genomic analysis of European _Drosophila melanogaster_ populations reveals longitudinal structure, continent-wide selection, and previously unknown DNA viruses. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/37/9/2661/5837682kapu): 37(9), 2661-2678.[pdf](/assets/pdfs/Kapun_2020.pdf)
 <br><br>
-
 **Stone HM, Erickson PA\*, Bergland AO\*.** 2020. Phenotypic plasticity, but not adaptive tracking, underlies seasonal variation in post‐cold hardening freeze tolerance of Drosophila melanogaster. [_Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5887): 10.1002/ece3.5887 [pdf](/assets/pdfs/Stone_2020.pdf)
 <br><br>
-
 Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’ responses to climate change. [_Evolution Letters_](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154): 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
-
 <a id="2019"></a>
 ## 2019
 Tilk S, **Bergland AO**, Goodman A, Schmidt P, Petrov D, Greeblum S. 2019. Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments. [_G3_](https://www.g3journal.org/content/9/12/4159.abstract): 10.1534/g3.119.400755 [pdf](/assets/pdfs/Tilk_2019.pdf)
-
 <a id="2018"></a>
 ## 2018
 Rajpurohit S, Gefen E, **Bergland AO**, Petrov DA, Gibbs AG, Schmidt PS. 2018. Spatiotemporal dynamics and genome‐wide association analysis of desiccation tolerance in _Drosophila melanogaster_. [_Molecular Ecology_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129450/): 10.1111/mec.14814 [pdf](/assets/pdfs/Rajpurohit_2018.pdf)
