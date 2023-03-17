@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: We are hiring a post-doc and a technician
+excerpt: Join us!
 date: 2023-03-17
 image: /assets/images/Drosophila_flying.gif
 hide_hero: false # change to false if you want to display header image
