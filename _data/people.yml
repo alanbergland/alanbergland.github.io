@@ -15,21 +15,16 @@
 - tier_name: Lab Managers
   description: |-
   sponsors:
-    - name: Megan Delamont
-      subtitle: 2022-current
-      image: /assets/images/profiles/megandelamont.jpg
-      profile: |-
-        Megan is the Lab Manager in the Bergland lab. She was previously a lab tech for the University of Arizona where she worked on projects related to sphingolipid metabolism in the colon, and the University of Montana where she worked on quantitative avian ecology projects. In the Bergland lab, Megan will assist projects investigating adaptive tracking in Drosophila species. When she isn’t working, Megan is probably out hiking, running, or cuddling her dog, Molly!
+  - name: Megan Stephenson
+    subtitle: 2023-current
+    image: /assets/images/megan_stephenson_headshot_22.jpg
+    profile: |-
+      Megan is the Lab Manager in the Bergland lab. Megan is the lab manager in the Bergland Lab. They are assisting projects investigating the seasonal metapopulation dynamics of flies. They completed their bachelor’s degree in biology at George Mason University, where they worked in the Hanley Lab studying the coevolution of egg colors and brood parasites. In their free time, they enjoy reading memoirs, looking for bugs, and making miniatures with their family.
+
 - tier_name: Post-docs
   description: |-
   sponsors:
-    - name: Joaquin C. B. Nunez
-      subtitle: Post-doctoral Research Associate, 2020-current
-      image: /assets/images/profiles/joaquinnunez.jpg
-      profile: |-
-        My research studies patterns of genetic variation in natural populations living  in highly variable environments. I seek to characterize what loci are under selection at different scales of environmental heterogeneity both in space and time. My research program seeks to determine the identity of these ecologically important loci, as well as the mechanisms that underlie their maintenance of genetic variation. I did my PhD at Brown with David M. Rand woking on intertidal barnacles. I did my undergraduate at the University of Miami with  Margie F. Oleksiak and Doug L. Crawford working on killifish.
-      website: https://www.jcbnunez.org/
-      gscholar: https://scholar.google.com/citations?user=r1E84bEAAAAJ&hl=en&authuser=2
+
 - tier_name: PhD Students
   description: |-
   sponsors:
@@ -85,6 +80,18 @@
   description: |-
     Previous members of the Bergland Lab
   sponsors:
+    - name: Joaquin C. B. Nunez
+      subtitle: Post-doctoral Research Associate, 2020-2023; Henderson Fellow and PI at UVM Biology
+      image: /assets/images/profiles/joaquinnunez.jpg
+      profile: |-
+        My research studies patterns of genetic variation in natural populations living  in highly variable environments. I seek to characterize what loci are under selection at different scales of environmental heterogeneity both in space and time. My research program seeks to determine the identity of these ecologically important loci, as well as the mechanisms that underlie their maintenance of genetic variation. I did my PhD at Brown with David M. Rand woking on intertidal barnacles. I did my undergraduate at the University of Miami with  Margie F. Oleksiak and Doug L. Crawford working on killifish.
+      website: https://www.jcbnunez.org/
+      gscholar: https://scholar.google.com/citations?user=r1E84bEAAAAJ&hl=en&authuser=2
+    - name: Megan Delamont
+      subtitle: 2022-2023
+      image: /assets/images/profiles/megandelamont.jpg
+      profile: |-
+        Megan was the Lab Manager in the Bergland lab. She was previously a lab tech for the University of Arizona where she worked on projects related to sphingolipid metabolism in the colon, and the University of Montana where she worked on quantitative avian ecology projects. In the Bergland lab, Megan will assist projects investigating adaptive tracking in Drosophila species. When she isn’t working, Megan is probably out hiking, running, or cuddling her dog, Molly!
     - name: Alyssa Bangerter
       subtitle: Phd Student (2016-2021)
       image: /assets/images/profiles/alyssabangerter.jpg
