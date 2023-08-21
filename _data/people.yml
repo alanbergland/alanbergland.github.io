@@ -2,7 +2,7 @@
   size: large
   description: |-
   sponsors:
-    - name: Alan Bergland
+    - name: Alan Bergland (he/him)
       image: /assets/images/profiles/alanbergland.JPG
       profile: |
         Dr. Alan O. Bergland is an Associate Professor in the Biology Deptartment at the University of Virginia.
@@ -28,10 +28,6 @@
 - tier_name: PhD Students
   description: |-
   sponsors:
-    - name: Yang Yu
-      subtitle: 2017-current
-      image: /assets/images/profiles/yangyu.jpeg
-      profile: I am interested in understanding how Drosophila melanogaster populations adapt to spatial and temporal environmental heterogeneity. My current projects are looking at 1. Adaptive signals and genetic mechanisms underlying local adaptation at functional genetic loci; 2. Relative contributions of genetic adaptation and plasticity to seasonal fitness-related traits; 3. Seasonal gene expression patterns and the evolutionary trajectory of the expression quantitative trait loci (eQTLs).
     - name: Connor Murray
       subtitle: 2019-current
       image: /assets/images/profiles/connormurray.jpg
@@ -60,26 +56,31 @@
   size: small
   description: |-
   sponsors:
-    - name: Courtney Tern
-      subtitle: 2018-current
-      image: /assets/images/profiles/courtneytern.jpg
-      profile: |
-        Courtney Tern (CLAS ‘22) is conducting independent computational research on the evolutionary history of _Drosophila simulans_ in North America. She is writing Bash and AWK scripts to pull whole genome sequencing data from online repositories, which she will then analyze for admixture from African and European _D. simulans_ populations. Previously, she conducted a 10-month long fecundity assay on _D. melanogaster_ in the field. Courtney also coded the updated website that you’re looking at right now! <br> She is pursuing a Human Biology Distinguished Major with a double major in Statistics.
-      email: cat7ep@virginia.edu
-    - name: Liam Miller
-      subtitle: 2018-current
-      image: /assets/images/profiles/liammiller.jpg
-      profile: I've done work looking at starvation/desiccation in drosophila, and am getting into research with seasonal allometry in drosophila.
-    - name: David Bass
-      subtitle: 2022-current
-      image: /assets/images/profiles/davidbass.JPG
-      profile: |
-        David (he/him/his) is a third-year undergraduate student majoring in statistics and mathematics with minors in biology and Spanish. As a recipient of the Harrison Undergraduate Research Award, he is studying the potential of Pool-seq for demographic inference by benchmarking the performance of prominent inferential methods on simulated Pool-seq data. Upon graduation, David hopes to get his PhD in computational biology. Outside of his classes and research, David can be found competing on UVA’s quizbowl team and attending meetings of the Jefferson Society.
 - tier_name: Alumni
   size: small
   description: |-
     Previous members of the Bergland Lab
   sponsors:
+    - name: Yang Yu
+      subtitle: 2017-2022; Currently a post-doc at Harvard Medical School
+      image: /assets/images/profiles/yangyu.jpeg
+      profile: I am interested in understanding how Drosophila melanogaster populations adapt to spatial and temporal environmental heterogeneity. My current projects are looking at 1. Adaptive signals and genetic mechanisms underlying local adaptation at functional genetic loci; 2. Relative contributions of genetic adaptation and plasticity to seasonal fitness-related traits; 3. Seasonal gene expression patterns and the evolutionary trajectory of the expression quantitative trait loci (eQTLs).
+    - name: Courtney Tern
+      subtitle: 2018-2022
+      image: /assets/images/profiles/courtneytern.jpg
+      profile: |
+        Courtney Tern (CLAS ‘22) is conducting independent computational research on the evolutionary history of _Drosophila simulans_ in North America. She is writing Bash and AWK scripts to pull whole genome sequencing data from online repositories, which she will then analyze for admixture from African and European _D. simulans_ populations. Previously, she conducted a 10-month long fecundity assay on _D. melanogaster_ in the field. Courtney also coded the updated website that you’re looking at right now! <br> She is pursuing a Human Biology Distinguished Major with a double major in Statistics.
+      email: cat7ep@virginia.edu
+    - name: Liam Miller
+      subtitle: 2018-2022
+      image: /assets/images/profiles/liammiller.jpg
+      profile: I've done work looking at starvation/desiccation in drosophila, and am getting into research with seasonal allometry in drosophila.
+    - name: David Bass
+      subtitle: 2022-2023; currently a PhD student at Johns Hopkins
+      image: /assets/images/profiles/davidbass.JPG
+      profile: |
+        David (he/him/his) is a third-year undergraduate student majoring in statistics and mathematics with minors in biology and Spanish. As a recipient of the Harrison Undergraduate Research Award, he is studying the potential of Pool-seq for demographic inference by benchmarking the performance of prominent inferential methods on simulated Pool-seq data. Upon graduation, David hopes to get his PhD in computational biology. Outside of his classes and research, David can be found competing on UVA’s quizbowl team and attending meetings of the Jefferson Society.
+
     - name: Joaquin C. B. Nunez
       subtitle: Post-doctoral Research Associate, 2020-2023; Henderson Fellow and PI at UVM Biology
       image: /assets/images/profiles/joaquinnunez.jpg
