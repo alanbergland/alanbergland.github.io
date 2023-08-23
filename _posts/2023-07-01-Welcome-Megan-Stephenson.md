@@ -1,7 +1,7 @@
 ---
 layout: post
-excerpt: Join us!
-date: 2023-03-17
+excerpt: Welcome!
+date: 2023-07-01
 image: /assets/images/megan_stephenson_headshot_22.jpg
 hide_hero: false # change to false if you want to display header image
 title: Welcome Megan Stephenson! # title and subtitle only display on hero
