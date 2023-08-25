@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: 
+excerpt: Welcome!
 date: 2023-08-24
 image: /assets/images/JV_Photo_Aug_2023.jpg
 hide_hero: false # change to false if you want to display header image
