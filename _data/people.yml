@@ -1,9 +1,9 @@
-- tier_name: Primary Investigator
+- tier_name: Current Staff
   size: large
   description: |-
   sponsors:
     - name: Alan Bergland (he/him)
-      image: /assets/images/profiles/alanbergland.JPG
+      image: /assets/images/profiles/alanbergland.webp
       profile: |
         Dr. Alan O. Bergland is an Associate Professor in the Biology Deptartment at the University of Virginia.
         He is interested in basic questions in evolutionary and ecological genetics and studies flies, water-fleas,
@@ -12,22 +12,13 @@
         <br> CV available [here](/assets/pdfs/Bergland CV Nov29_2021_public.pdf)
       gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
       email: aob2x@virginia.edu
-- tier_name: Lab Managers
-  description: |-
-  sponsors:
-  - name: Megan Stephenson (they/them)
-    subtitle: 2023-current
-    image: /assets/images/megan_stephenson_headshot_22.jpg
-    profile: |-
-      Megan is the Lab Manager in the Bergland lab. Megan is the lab manager in the Bergland Lab. They are assisting projects investigating the seasonal metapopulation dynamics of flies. They completed their bachelor’s degree in biology at George Mason University, where they worked in the Hanley Lab studying the coevolution of egg colors and brood parasites. In their free time, they enjoy reading memoirs, looking for bugs, and making miniatures with their family.
-
-- tier_name: Post-docs
-  description: |-
-  sponsors:
-
-- tier_name: PhD Students
-  description: |-
-  sponsors:
+      role: Primary Investigator
+    - name: Megan Stephenson (they/them)
+      subtitle: 2023-current
+      image: /assets/images/megan_stephenson_headshot_22.jpg
+      profile: |-
+        Megan is the Lab Manager in the Bergland lab. Megan is the lab manager in the Bergland Lab. They are assisting projects investigating the seasonal metapopulation dynamics of flies. They completed their bachelor’s degree in biology at George Mason University, where they worked in the Hanley Lab studying the coevolution of egg colors and brood parasites. In their free time, they enjoy reading memoirs, looking for bugs, and making miniatures with their family.
+      role: Lab Manager
     - name: Connor Murray (he/him)
       subtitle: 2019-current
       image: /assets/images/profiles/connormurray.jpg
@@ -35,27 +26,27 @@
         My research examines how genetic diversity evolves in response to environmental variability. I seek to characterize the selective forces that maintain genetic diversity across the genome by using experimental mesocosms, genomics, and simulations. My co-mentor is Dr. Aakrosh Ratan at the Center for Public Heath Genomics at UVA. I completed my undergraduate degree at Florida State University and pursued an honor’s thesis under Dr. David Houle studying Drosophila macroevolution.
       gscholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4RQZpDkAAAAJ&sortby=pubdate
       email: csm6hg@virginia.edu
+      role: PhD Student
     - name: Adam Lenhart (he/him)
       subtitle: 2020-current
       image: /assets/images/profiles/adamlenhart.jpg
       profile: Studies adaption to environmental stress, with an emphasis on connecting genetic variation to trait adaptability.
       website:  https://bio.as.virginia.edu/people/bal7cg
       gscholar: https://www.researchgate.net/scientific-contributions/2141838320-B-Adam-Lenhart
+      role: PhD Student
     - name: Taylor Nystrom (she/her)
       subtitle: 2019-current
       image: /assets/images/profiles/taylornystrom.jpg
       profile: Taylor is a graduate student working on a collaboration between the Bergland and Siegrist labs. Her research focuses on the effects of environmental factors on neurodevelopment in natural populations of D. melanogaster. She was originally introduced to flies here at UVA, working during the summers in the Condron lab.  She then graduated with her bachelor’s from the University of Colorado - Boulder, worked in the Grueber Lab at Columbia University building the InSITE collection of Gal4 lines, and taught middle school science and PE. In addition to her lab research, Taylor is very excited about science education and helping make advanced research science more accessible.
+      role: PhD Student
     - name: Robert Porter (he/him)
       subtitle: |
-        2020-current <br>
-        (lab tech 2017-2020)
+        2020-current; lab tech 2017-2020
       image: /assets/images/profiles/robertporter.JPEG
       profile: |
         I am interested in the production and hatching of daphnia resting eggs, and investigating the environmental cues involved in the differing responses between clonal lineages. As part of this, I am also interested in how populations of daphnia maintain genetic diversity over longer timescales. Previously, I worked on image collection and analysis of _Daphnia pulex_ neonates exposed to predator kairomones, to measure the plastic response of necktooth induction.
-- tier_name: Undergraduate Students
-  size: small
-  description: |-
-  sponsors:
+      role: PhD Student
+
 - tier_name: Alumni
   size: small
   description: |-
