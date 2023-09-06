@@ -1,0 +1,165 @@
+{% if page.sponsors %}
+{% assign tiers=site.data.[page.sponsors] %}
+    <div class="columns is-multiline">
+        {% for tier in tiers %}
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered">
+                <span>{{ tier.tier_name }}</span>
+            </p>
+            <p class="subtitle has-text-centered">
+                <span class="icon is-large gh-sponsor"><i class="fas fa-seedling" style="color:#32CD32"></i></span>
+            </p>
+            <div class="columns is-centered">
+                <div class="column is-6 content has-text-centered">
+                    <p>{{ tier.description | markdownify }}</p>
+                </div>
+            </div>
+
+            <div class="columns is-multiline is-centered">
+                {% for sponsor in tier.sponsors %}
+                <div class="column {% if tier.size == 'large' %} is-6-desktop is-12-tablet {% elsif tier.size == 'small' %} is-5-desktop is-6-tablet {% else %} is-6-desktop is-12-tablet {% endif %}" style="padding:25px">
+                    <div class="box has-text-centered columns">
+                      <div style="float:left;width:800%">
+                        <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
+                            {{ sponsor.name }}
+                        </p>
+                        <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
+                            {% if sponsor.subtitle %}
+                            {{ sponsor.subtitle }}
+                            {% else %}
+                            &nbsp;
+                            {% endif %}
+                        </p>
+                        <p class="subtitle is-6">
+                            {% if sponsor.image %}
+                            <img src="{{ sponsor.image }}">
+                            {% else %}
+                            &nbsp;
+                            {% endif %}
+                        </p>
+                      </div>
+
+                      <div class="column is-6">
+                            {% if sponsor.profile %}
+                            <div class="expand" data-is-open="0" style="font-size:small">
+                              <text>
+                                {{ sponsor.profile | markdownify }}
+                              </text>
+                             <button><i class="arrow"></i></button>
+                            </div>
+                            {% else %}
+                            &nbsp;
+                            {% endif %}
+
+                            <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
+                                {% if sponsor.website and sponsor.gscholar and sponsor.email %}
+                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>   <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>    <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
+                                {% elsif sponsor.website and sponsor.gscholar %}
+                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>   <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
+                                {% elsif sponsor.website and sponsor.email %}
+                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>    <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
+                                {% elsif sponsor.gscholar and sponsor.email %}
+                                <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>   <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
+                                {% elsif sponsor.website %}
+                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>
+                                {% elsif sponsor.gscholar %}
+                                <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
+                                {% elsif sponsor.email %}
+                                <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
+                                {% else %}
+                                &nbsp;
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="column is-12">
+            <hr />
+        </div>
+        {% endfor %}
+    </div>
+{% endif %}
+
+<!-- DEFINE EXPANDABLE PROFILE TEXTS adapted from
+     source:https://codepen.io/dev_jonas/pen/dyPxyvp-->
+<!-- CSS -->
+<style>
+  /* expandable text */
+  .expand {
+    margin: 22px auto;
+    max-height: 170px;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+  }
+
+  .expand.open {
+    max-height: 100rem;
+    transition: max-height 0.5s cubic-bezier(0.9, 0, 0.8, 0.2);
+  }
+
+  /* Text */
+  @keyframes open {
+    from {
+      line-clamp: 5;
+      -webkit-line-clamp: 5;
+    }
+    to {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+  }
+
+  @keyframes close {
+    from {
+      line-clamp: initial;
+      -webkit-line-clamp: initial;
+    }
+    to {
+      line-clamp: 5;
+      -webkit-line-clamp: 5;
+    }
+  }
+
+  text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 12px 0;
+    animation: close 0.1s linear 0.1s forwards;
+    font-size: small;
+  }
+  .open text {
+    animation: open 0.1s linear 0s forwards;
+  }
+
+  .arrow {
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .open .arrow {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    margin-top: 5px;
+  }
+</style>
+<!-- JAVASCRIPT -->
+<script>
+const buttonList= document.querySelectorAll(".expand");
+var i;
+
+for (i = 0; i < buttonList.length; i++) {
+  buttonList[i].addEventListener("click", function() {
+    this.dataset.isOpen = Math.abs(this.dataset.isOpen - 1);
+    this.dataset.isOpen==1 ? this.classList.add("open") : this.classList.remove("open");
+  });
+}
+</script>

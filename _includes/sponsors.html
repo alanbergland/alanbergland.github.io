@@ -1,86 +1,66 @@
 {% if page.sponsors %}
 {% assign tiers=site.data.[page.sponsors] %}
-    <div class="columns is-multiline">
-        {% for tier in tiers %}
-        <div class="column is-12">
-            <p class="title is-3 has-text-centered">
-                <span>{{ tier.tier_name }}</span>
-            </p>
-            <p class="subtitle has-text-centered">
-                <span class="icon is-large gh-sponsor"><i class="fas fa-seedling" style="color:#32CD32"></i></span>
-            </p>
-            <div class="columns is-centered">
-                <div class="column is-6 content has-text-centered">
-                    <p>{{ tier.description | markdownify }}</p>
-                </div>
-            </div>
-
-            <div class="columns is-multiline is-centered">
-                {% for sponsor in tier.sponsors %}
-                <div class="column {% if tier.size == 'large' %} is-6-desktop is-12-tablet {% elsif tier.size == 'small' %} is-5-desktop is-6-tablet {% else %} is-6-desktop is-12-tablet {% endif %}" style="padding:25px">
-                    <div class="box has-text-centered columns">
-                      <div style="float:left;width:800%">
-                        <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
-                            {{ sponsor.name }}
-                        </p>
-                        <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
-                            {% if sponsor.subtitle %}
-                            {{ sponsor.subtitle }}
-                            {% else %}
-                            &nbsp;
-                            {% endif %}
-                        </p>
-                        <p class="subtitle is-6">
-                            {% if sponsor.image %}
-                            <img src="{{ sponsor.image }}">
-                            {% else %}
-                            &nbsp;
-                            {% endif %}
-                        </p>
-                      </div>
-
-                      <div class="column is-6">
-                            {% if sponsor.profile %}
-                            <div class="expand" data-is-open="0" style="font-size:small">
-                              <text>
-                                {{ sponsor.profile | markdownify }}
-                              </text>
-                             <button><i class="arrow"></i></button>
-                            </div>
-                            {% else %}
-                            &nbsp;
-                            {% endif %}
-
-                            <p class="subtitle {% if tier.size == 'large' %} is-5 {% elsif tier.size == 'small' %} is-7 {% else %} is-6 {% endif %}">
-                                {% if sponsor.website and sponsor.gscholar and sponsor.email %}
-                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>   <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>    <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
-                                {% elsif sponsor.website and sponsor.gscholar %}
-                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>   <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
-                                {% elsif sponsor.website and sponsor.email %}
-                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>    <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
-                                {% elsif sponsor.gscholar and sponsor.email %}
-                                <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>   <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
-                                {% elsif sponsor.website %}
-                                <a href="{{ sponsor.website }}"}<i class="fas fa-link"></i></a>
-                                {% elsif sponsor.gscholar %}
-                                <a href="{{ sponsor.gscholar }}"}<i class="fab fa-google"></i></a>
-                                {% elsif sponsor.email %}
-                                <a href="mailto:{{ sponsor.email }}"}<i class="far fa-envelope"></i></a>
-                                {% else %}
-                                &nbsp;
-                                {% endif %}
-                            </p>
-                        </div>
+  <div class="columns is-multiline">
+    {% for tier in tiers %}
+      <div class="column is-full mb-6">
+        <p class="title is-4">
+          {{ tier.tier_name }}<span class="icon is-large gh-sponsor"><i class="fas fa-seedling" style="color:#32CD32"></i></span>
+        </p>
+        <div class="columns is-multiline is-centered">
+          {% for sponsor in tier.sponsors %}
+            <div class="column is-full">
+              <div class="box">
+                <article class="media">
+                  <div class="media-left">
+                    <figure class="image is-96x96">
+                      <img class="is-rounded" src="{{ sponsor.image }}" alt="{{ sponsor.name }}">
+                    </figure>
+                  </div>
+                  <div class="media-content">
+                    <div class="content">
+                      <p id="profile">
+                        <strong>{{ sponsor.name }}</strong> <small>{{ sponsor.subtitle }}</small>
+                        <br>
+                        <span class="is-size-7">{{ sponsor.role }}</span>
+                        <p class="is-size-7-mobile">{{ sponsor.profile | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+                      </p>
                     </div>
-                </div>
-                {% endfor %}
+                    <nav class="level is-mobile">
+                      <div class="level-left">
+                        {% if sponsor.website %}
+                          <a class="level-item" aria-label="Sponsor Website" href="{{ sponsor.website }}" target="_blank">
+                            <span class="icon is-small">
+                              <i class="fas fa-link" aria-hidden="true"></i>
+                            </span>
+                          </a>
+                        {% endif %}
+
+                        {% if sponsor.gscholar %}
+                          <a class="level-item" aria-label="Google Scholar" href="{{ sponsor.gscholar }}" target="_blank">
+                            <span class="icon is-small">
+                              <i class="fab fa-google" aria-hidden="true"></i>
+                            </span>
+                          </a>
+                        {% endif %}
+
+                        {% if sponsor.email %}
+                          <a class="level-item" aria-label="Email" href="mailto:{{ sponsor.email }}">
+                            <span class="icon is-small">
+                              <i class="far fa-envelope" aria-hidden="true"></i>
+                            </span>
+                          </a>
+                        {% endif %}
+                      </div>
+                    </nav>
+                  </div>
+                </article>
+              </div>
             </div>
+          {% endfor %}
         </div>
-        <div class="column is-12">
-            <hr />
-        </div>
-        {% endfor %}
-    </div>
+      </div>
+    {% endfor %}
+  </div>
 {% endif %}
 
 <!-- DEFINE EXPANDABLE PROFILE TEXTS adapted from
