@@ -15,7 +15,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2023"></a>
 ## 2023
-**Porter RJ\***, **Gutierrez GM\***, **Barnard-Kubow KB**, **Bergland AO**. (2022). Maternal control of spontaneous dormancy termination in Daphnia pulex. [_Hydrobiologia_](https://link.springer.com/article/10.1007/s10750-023-05361-w): 10.1007/s10750-023-05361-w. [pdf](/assets/pdfs/Porter_etal_2023.pdf). [code](https://github.com/BerglandLab/EarlyEphippiaHatching).
+**Porter RJ\***, **Gutierrez GM\***, **Barnard-Kubow KB**, **Bergland AO**. (2023). Maternal control of spontaneous dormancy termination in Daphnia pulex. [_Hydrobiologia_](https://link.springer.com/article/10.1007/s10750-023-05361-w): 10.1007/s10750-023-05361-w. [pdf](/assets/pdfs/Porter_etal_2023.pdf). [code](https://github.com/BerglandLab/EarlyEphippiaHatching).
 <br><br>
 
 <a id="2022"></a>
