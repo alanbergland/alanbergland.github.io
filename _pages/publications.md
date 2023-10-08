@@ -8,13 +8,14 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
-
 **Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. (2022). A cosmopolitan inversion drives seasonal adaptation in overwintering Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2022.12.09.519676v1): 10.1101/2022.12.09.519676v1. [code](https://github.com/Jcbnunez/Cville-Seasonality-2016-2019).<br><br>
 
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 
 <a id="2023"></a>
 ## 2023
+Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Bergland AO**, Erickson PA. 2023. Spatial and temporal variation in abundance of introduced African fig fly (<i>Zaprionus indianus</i>) (Diptera: Drosophilidae) in the eastern United States. In press Journal of Insect Science. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.24.534156). <br><br>
+
 **Porter RJ\***, **Gutierrez GM\***, **Barnard-Kubow KB**, **Bergland AO**. (2023). Maternal control of spontaneous dormancy termination in Daphnia pulex. [_Hydrobiologia_](https://link.springer.com/article/10.1007/s10750-023-05361-w): 10.1007/s10750-023-05361-w. [pdf](/assets/pdfs/Porter_etal_2023.pdf). [code](https://github.com/BerglandLab/EarlyEphippiaHatching).
 <br><br>
 
