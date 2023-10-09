@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: Abbey joins the lab as a new post-doc
-date: 2024-09-24
+date: 2023-09-24
 image: /assets/images/profiles/abbeyhayes.jpg
 hide_hero: false # change to false if you want to display header image
 title: Welcome Abbey Hayes! # title and subtitle only display on hero
