@@ -13,7 +13,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2024"></a>
 ## 2024
-**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. (In press). A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://doi.org/10.1093/genetics/iyad207): iyad207. [pdf](/assets/pdfs/Nunez_etal_2023.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
+**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://doi.org/10.1093/genetics/iyad207): iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
 <br><br>
 
 <a id="2023"></a>
