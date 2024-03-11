@@ -2,7 +2,7 @@
 layout: post
 excerpt: An inversion facilitates rapid adaptation
 date: 2024-02-01
-image: /assets/images/profiles/In2Lt_square.jpeg
+image: /assets/images/profiles/In2Lt_square.jpg
 hide_hero: false # change to false if you want to display header image
 title: Paper published in genetics # title and subtitle only display on hero
 hero_image: /assets/images/In2Lt_pheno.jpg
