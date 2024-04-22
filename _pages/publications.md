@@ -8,6 +8,10 @@ permalink: /publications/
 ---
 <a id="preprints"></a>
 ## Pre-prints
+
+**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. Balancing selection and the functional effects of shared polymorphism in cryptic Daphnia species. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.04.16.589693v1): 10.1101/2024.04.16.589693v1
+<br><br>
+
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 <br><br>
 
@@ -27,7 +31,7 @@ Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Ber
 ## 2022
 **Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf). [code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.6m905qg32).
 <br><br>
-**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Stabilizing selection shapes variation in phenotypic plasticity. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [pdf](/assets/pdfs/Becker_et_al_2022.pdf). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
+**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Adaptive phenotypic plasticity is under stabilizing selection in Daphnia. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [pdf](/assets/pdfs/Becker_et_al_2022.pdf). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
 JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
