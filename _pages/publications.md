@@ -17,6 +17,9 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2024"></a>
 ## 2024
+
+**Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
+<br><br>
 **Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://doi.org/10.1093/genetics/iyad207): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
 <br><br>
 
@@ -35,7 +38,7 @@ Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Ber
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
 JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
-<br><br>
+
 
 <a id="2021"></a>
 ## 2021
@@ -46,7 +49,6 @@ Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, 
 Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf). [code](https://github.com/BerglandLab/dmel_seasonal_RTEC.git).
 <br><br>
 **Weller CAW**, Tilk S, Rajpurohit S, **Bergland AO**. (2021). Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. [_G3_](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab062/6156828): 10.1093/g3journal/jkab062. [pdf](/assets/pdfs/Weller_2021.pdf). [code](https://github.com/BerglandLab/HS-reconstruction-gwas.git).
-<br><br>
 
 <a id="2020"></a>
 ## 2020
@@ -60,10 +62,13 @@ Kapun M, Barrón MG, Staubach F, Obbard DJ, Wiberg RAW, Vieira J, ... & Flatt T,
 <br><br>
 **Stone HM, Erickson PA\*, Bergland AO\*.** 2020. Phenotypic plasticity, but not adaptive tracking, underlies seasonal variation in post‐cold hardening freeze tolerance of Drosophila melanogaster. [_Ecology and Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5887): 10.1002/ece3.5887 [pdf](/assets/pdfs/Stone_2020.pdf)
 <br><br>
-Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’ responses to climate change. [_Evolution Letters_](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154): 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
+Waldvogel AM, Feldmeyer B, Rolshausen G, Exposito‐Alonso M, Rellstab C, Kofler R, Mock T, Schmid K, Schmitt I, Bataillon T, Savolainen O, **Bergland A**, Flatt T, Guillaume F, Pfenninger M. 2020. Evolutionary genomics can improve prediction of species’
+responses to climate change. [_Evolution Letters_](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.154): 10.1002/evl3.154 [pdf](/assets/pdfs/Waldvogel_2020.pdf)
+
 <a id="2019"></a>
 ## 2019
 Tilk S, **Bergland AO**, Goodman A, Schmidt P, Petrov D, Greeblum S. 2019. Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments. [_G3_](https://www.g3journal.org/content/9/12/4159.abstract): 10.1534/g3.119.400755 [pdf](/assets/pdfs/Tilk_2019.pdf)
+
 <a id="2018"></a>
 ## 2018
 Rajpurohit S, Gefen E, **Bergland AO**, Petrov DA, Gibbs AG, Schmidt PS. 2018. Spatiotemporal dynamics and genome‐wide association analysis of desiccation tolerance in _Drosophila melanogaster_. [_Molecular Ecology_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129450/): 10.1111/mec.14814 [pdf](/assets/pdfs/Rajpurohit_2018.pdf)
