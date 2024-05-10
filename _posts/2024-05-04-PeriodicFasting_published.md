@@ -10,7 +10,7 @@ hero_height: is-medium
 published: true # change this to true
 ---
 
-Congrats to Adam Lenhart, a graduate student in the lab, for publishing a paper showing that periodic fasting can improve starvation tolerance. One intruiguing aspect of this work is that the improved fasting tolerance via periodic fasting is genetically variable. Adam and team, show that periodic fasting improves starvation tolerance in standard lab strains (replicating previously published results), but this effect is dependent on the genetic background.
+Congrats to Adam Lenhart, a graduate student in the lab, for publishing a paper showing that periodic fasting can improve starvation tolerance. One interesting aspect of this work is that the improved fasting tolerance via periodic fasting is genetically variable. Adam and team, show that periodic fasting improves starvation tolerance in standard lab strains (replicating previously published results), but this effect is dependent on the genetic background.
 
 
 <br><br>
