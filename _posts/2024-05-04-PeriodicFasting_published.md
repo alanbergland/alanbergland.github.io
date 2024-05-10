@@ -2,10 +2,10 @@
 layout: post
 excerpt: Genetic variation in fasting response
 date: 2024-05-04
-image: /assets/images/Lenhart_starvation.jpg
+image: /assets/images/Lenhart_starvation.jpeg
 hide_hero: false # change to false if you want to display header image
 title: Paper published in Physiological Entomology # title and subtitle only display on hero
-hero_image: /assets/images/Lenhart_starvation.jpg
+hero_image: /assets/images/Lenhart_starvation.jpeg
 hero_height: is-medium
 published: true # change this to true
 ---
