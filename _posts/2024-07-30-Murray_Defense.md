@@ -23,7 +23,7 @@ Connor will be joining [Prof. Ani Manichaikul's lab](https://sites.google.com/vi
 You can read more about Dr. Murray’s work here:
 
 <br><br>
-Read more about Daphnia opsin polymorphisms here: [_bioRxiv_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11042267/)
-Read more about Drosophila seasonal evolution here: [_Genetics_](/assets/pdfs/Nunez_etal_2024.pdf)
-Read more about the microbial species problem here: [_Nature Communications_]
+Read more about Daphnia opsin polymorphisms here: [_bioRxiv_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11042267/) <br>
+Read more about Drosophila seasonal evolution here: [_Genetics_](/assets/pdfs/Nunez_etal_2024.pdf) <br>
+Read more about the microbial species problem here: [_Nature Communications_] <br>
 <br><br>
