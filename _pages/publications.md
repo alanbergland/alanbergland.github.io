@@ -20,7 +20,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 **Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
 <br><br>
-**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://doi.org/10.1093/genetics/iyad207): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
+**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://academic.oup.com/genetics/article/226/2/iyad207/7459204): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
 <br><br>
 
 <a id="2023"></a>
