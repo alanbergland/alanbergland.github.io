@@ -9,6 +9,12 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
+Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.08.09.607378v1): 10.1101/2024.08.09.607378
+<br><br>
+
+Erickson PA, **Bangerter A**, Ansleigh Gunter, Nikolaos T. Polizos, **Bergland AO**. Limited population structure but signals of recent selection in introduced African Fig Fly (<i>Zaprionus indianus</i>) in North America. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.09.20.614190v1): 10.1101/2024.09.20.614190v1
+<br><br>
+
 **Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. Balancing selection and the functional effects of shared polymorphism in cryptic Daphnia species. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.04.16.589693v1): 10.1101/2024.04.16.589693v1
 <br><br>
 
