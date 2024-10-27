@@ -25,9 +25,23 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 ## 2024
 
 **Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
-<br><br>
-**Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://academic.oup.com/genetics/article/226/2/iyad207/7459204): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
-<br><br>
+
+<article class="media">
+  <figure class="bergland-pub media-left">
+    <p class="image is-64x64">
+      <a href="https://academic.oup.com/genetics/article/226/2/iyad207/7459204" target="_blank">
+        <img class="bergland-pub" src="/assets/images/cover_images/Nunez_Genetics_cover_small.jpg" alt="Cover image" />
+      </a>
+    </p>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+      <p markdown="1">
+        **Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://academic.oup.com/genetics/article/226/2/iyad207/7459204): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
+      </p>
+    </div>
+  </div>
+</article>
 
 <a id="2023"></a>
 ## 2023
@@ -48,8 +62,24 @@ JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic
 
 <a id="2021"></a>
 ## 2021
-Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259. [pdf](/assets/pdfs/Kapun_etal_2021.pdf). [code](https://github.com/DEST-bio/data-paper). <br>
-<a href="https://dest.bio">\[_Data and pipeline available at the DEST website_\]</a>
+<article class="media">
+  <figure class="bergland-pub media-left">
+    <p class="image is-64x64">
+      <a href="https://academic.oup.com/mbe/article/38/12/5782/6361628" target="_blank">
+        <img class="bergland-pub" src="/assets/images/cover_images/Kapun_MBE_cover_small.jpg" alt="Cover image" />
+      </a>
+    </p>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+      <p markdown="1">
+        Kapun M\*, **Nunez JCB\***, Bogaerts-Márquez M\*, Murga-Moreno J\*, Paris M\*, **Outten J**, Coronado-Zamora M, **Tern C**, ... & **Bergland AO**. (2021). Drosophila Evolution over Space and Time (DEST) - A New Population Genomics Resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msab259/6361628): 10.1093/molbev/msab259. [pdf](/assets/pdfs/Kapun_etal_2021.pdf). [code](https://github.com/DEST-bio/data-paper). <br>
+        <a href="https://dest.bio">\[_Data and pipeline available at the DEST website_\]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
 <br><br>
 Machado HE\*, **Bergland AO\***, Taylor R, Tilk S, Behrman E, Dyer K, Fabian D, Flatt T,
 Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brien K, Rajpurohit S, Roy P, Schaeffer S, Serga S, Schmidt P, Petrov D. (2021). Broad geographic sampling reveals the shared basis and environmental correlates of seasonal adaptation in Drosophila. [_eLife_](https://elifesciences.org/articles/67577): 10:e67577 DOI: 10.7554/eLife.67577. [pdf](/assets/pdfs/Machado_etal_2021.pdf). [code](https://github.com/BerglandLab/dmel_seasonal_RTEC.git).

@@ -9,6 +9,7 @@
   },
   "author": "chrisrhymes",
   "license": "MIT",
+  "packageManager": "yarn@1.22.22",
   "dependencies": {
     "bulma": "^0.8.2",
     "bulma-block-list": "^0.3"
