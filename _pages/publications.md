@@ -9,13 +9,16 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
-Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.08.09.607378v1): 10.1101/2024.08.09.607378
+Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.10.28.620721v2): 10.1101/2024.10.28.620721
 <br><br>
 
-Erickson PA, **Bangerter A**, Ansleigh Gunter, Nikolaos T. Polizos, **Bergland AO**. Limited population structure but signals of recent selection in introduced African Fig Fly (<i>Zaprionus indianus</i>) in North America. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.09.20.614190v1): 10.1101/2024.09.20.614190v1
+Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. (2024). <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.08.09.607378v1): 10.1101/2024.08.09.607378
 <br><br>
 
-**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. Balancing selection and the functional effects of shared polymorphism in cryptic Daphnia species. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.04.16.589693v1): 10.1101/2024.04.16.589693v1
+Erickson PA, **Bangerter A**, Ansleigh Gunter, Nikolaos T. Polizos, **Bergland AO**. (2024). Limited population structure but signals of recent selection in introduced African Fig Fly (<i>Zaprionus indianus</i>) in North America. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.09.20.614190v1): 10.1101/2024.09.20.614190v1
+<br><br>
+
+**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. (2024). Balancing selection and the functional effects of shared polymorphism in cryptic Daphnia species. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.04.16.589693v1): 10.1101/2024.04.16.589693v1
 <br><br>
 
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
@@ -24,7 +27,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 <a id="2024"></a>
 ## 2024
 
-**Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
+**Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. (2024). [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
 
 <article class="media">
   <figure class="bergland-pub media-left">
@@ -37,7 +40,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
   <div class="media-content">
     <div class="content">
       <p markdown="1">
-        **Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. 2024. A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://academic.oup.com/genetics/article/226/2/iyad207/7459204): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
+        **Nunez JCB**, **Lenhart BL**, **Bangerter A**, **Murray CSM**, **Yu Y**, **Nystrom TL**, **Tern C**, **Erickson PA**, **Bergland AO**. (2024). A cosmopolitan inversion facilitates seasonal adaptation in overwintering Drosophila. [_Genetics_](https://academic.oup.com/genetics/article/226/2/iyad207/7459204): 10.1093/genetics/iyad207. [pdf](/assets/pdfs/Nunez_etal_2024.pdf). [code](https://github.com/BerglandLab/Cville-Seasonality-2016-2019).
       </p>
     </div>
   </div>
@@ -45,19 +48,19 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2023"></a>
 ## 2023
-Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Bergland AO**, Erickson PA. 2023. Spatial and temporal variation in abundance of introduced African fig fly (<i>Zaprionus indianus</i>) (Diptera: Drosophilidae) in the eastern United States. [_Journal of Insect Science_](https://academic.oup.com/jinsectscience/article/23/5/21/7326515): 10.1093/jisesa/iead092. [pdf](/assets/pdfs/Rakes_2023.pdf).
+Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Bergland AO**, Erickson PA. (2023). Spatial and temporal variation in abundance of introduced African fig fly (<i>Zaprionus indianus</i>) (Diptera: Drosophilidae) in the eastern United States. [_Journal of Insect Science_](https://academic.oup.com/jinsectscience/article/23/5/21/7326515): 10.1093/jisesa/iead092. [pdf](/assets/pdfs/Rakes_2023.pdf).
 <br><br>
 **Porter RJ\***, **Gutierrez GM\***, **Barnard-Kubow KB**, **Bergland AO**. (2023). Maternal control of spontaneous dormancy termination in Daphnia pulex. [_Hydrobiologia_](https://link.springer.com/article/10.1007/s10750-023-05361-w): 10.1007/s10750-023-05361-w. [pdf](/assets/pdfs/Porter_etal_2023.pdf). [code](https://github.com/BerglandLab/EarlyEphippiaHatching).
 <br><br>
 
 <a id="2022"></a>
 ## 2022
-**Yu Y**, **Bergland AO**. Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf). [code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.6m905qg32).
+**Yu Y**, **Bergland AO**. (2022). Unique signals of clinal and seasonal allele frequency change at eQTLs in Drosophila melanogaster. [_Evolution_](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14617): 10.1111/evo.14617. [pdf](/assets/pdfs/Yu_2022.pdf). [code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.6m905qg32).
 <br><br>
-**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	Adaptive phenotypic plasticity is under stabilizing selection in Daphnia. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [pdf](/assets/pdfs/Becker_et_al_2022.pdf). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
+**Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	(2022). Adaptive phenotypic plasticity is under stabilizing selection in Daphnia. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [pdf](/assets/pdfs/Becker_et_al_2022.pdf). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
-JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
+JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. (2022). Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
 
 
 <a id="2021"></a>
