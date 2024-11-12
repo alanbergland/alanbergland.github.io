@@ -9,7 +9,7 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
-**Nunez JCB**, Coronado-Zamora M\*, Gautier M, Kapun M, Steindl S, Ometto L, Hoedjes KM, Beets J, Wiberg RAW, **Mazzeo GR**,  **Bass DJ**,  plus 95 co-authors, Flatt T, **Bergland AO**, Gonzalez J. (2024). Footprints of worldwide adaptation in structured populations of <i>D. melanogaster</i> through the expanded DEST 2.0 genomic resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.11.10.622744v1): 10.1101/2024.11.10.622744
+**Nunez JCB\***, Coronado-Zamora M\*, Gautier M, Kapun M, Steindl S, Ometto L, Hoedjes KM, Beets J, Wiberg RAW, **Mazzeo GR**,  **Bass DJ**,  plus 95 co-authors, Flatt T\*, **Bergland AO\***, Gonzalez J\*. (2024). Footprints of worldwide adaptation in structured populations of <i>D. melanogaster</i> through the expanded DEST 2.0 genomic resource. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.11.10.622744v1): 10.1101/2024.11.10.622744
 <br><br>
 
 Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.10.28.620721v2): 10.1101/2024.10.28.620721
