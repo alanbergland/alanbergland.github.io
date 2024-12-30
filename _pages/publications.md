@@ -21,14 +21,15 @@ Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt
 Erickson PA, **Bangerter A**, Ansleigh Gunter, Nikolaos T. Polizos, **Bergland AO**. (2024). Limited population structure but signals of recent selection in introduced African Fig Fly (<i>Zaprionus indianus</i>) in North America. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.09.20.614190v1): 10.1101/2024.09.20.614190v1
 <br><br>
 
-**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. (2024). Balancing selection and the functional effects of shared polymorphism in cryptic Daphnia species. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.04.16.589693v1): 10.1101/2024.04.16.589693v1
-<br><br>
-
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 <br><br>
 
 <a id="2024"></a>
 ## 2024
+
+**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. (Published online 2024). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf)
+<br><br>
+
 
 **Lenhart BA**, **Ahsan Y**, **McHatty M**, **Bergland AO**. Improvement of starvation resistance via periodic fasting is genetically variable in <i>Drosophila melanogaster</i>. (2024). [_Physiological Entomology_](https://doi.org/10.1111/phen.12443): 10.1111/phen.12443. [pdf](/assets/pdfs/Lenhart_etal_2024.pdf).
 
