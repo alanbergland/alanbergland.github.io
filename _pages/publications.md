@@ -27,7 +27,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 <a id="2024"></a>
 ## 2024
 
-**Murray CS**, **Nunez JCB**, **Bass DJ**, **Becker D**, Ratan A, **Bergland AO**. (Published online 2024). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf)
+**Murray CS**, **Karram M**, **Bass DJ**, **Doceti M**, **Becker D**, **Nunez JCB**, Ratan A, **Bergland AO**. (Published online 2024). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf). [code](https://github.com/BerglandLab/TransSpecificPolymorphisms_Daphnia/)
 <br><br>
 
 
