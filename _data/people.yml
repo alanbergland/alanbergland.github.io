@@ -38,12 +38,12 @@
   description: |-
     Previous members of the Bergland Lab
   sponsors:
-      - name: Megan Stephenson (they/them)
-        subtitle: 2023-current
-        image: /assets/images/megan_stephenson_headshot_22.jpg
-        profile: |-
-          Megan is the Lab Manager in the Bergland lab. Megan is the lab manager in the Bergland Lab. They are assisting projects investigating the seasonal metapopulation dynamics of flies. They completed their bachelor’s degree in biology at George Mason University, where they worked in the Hanley Lab studying the coevolution of egg colors and brood parasites. In their free time, they enjoy reading memoirs, looking for bugs, and making miniatures with their family.
-        role: Lab Manager
+    - name: Megan Stephenson (they/them)
+      subtitle: 2023-current
+      image: /assets/images/megan_stephenson_headshot_22.jpg
+      profile: |-
+        Megan is the Lab Manager in the Bergland lab. Megan is the lab manager in the Bergland Lab. They are assisting projects investigating the seasonal metapopulation dynamics of flies. They completed their bachelor’s degree in biology at George Mason University, where they worked in the Hanley Lab studying the coevolution of egg colors and brood parasites. In their free time, they enjoy reading memoirs, looking for bugs, and making miniatures with their family.
+      role: Lab Manager
     - name: Connor Murray (he/him)
       subtitle: 2019-2025
       image: /assets/images/profiles/connormurray.jpg
