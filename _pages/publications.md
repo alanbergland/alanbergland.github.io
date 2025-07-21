@@ -24,12 +24,20 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 <a id="2025"></a>
 ## 2025
 
-**Murray C**, **Bergland AO**. (2025). Patterns of gene family evolution and selection across Daphnia. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.71453): 15:e71453. [pdf](/assets/pdfs/Murray_2025.pdf). [code](https://github.com/BerglandLab/nf-GeneFamilyEvolution)
+Durmaz Mitchell E, Kerdaffrec E, Harney E, Paulo TF, Veselinovic MS, (+18 co-authors), **Erickson P**, (+63 co-authors), Kapun M, Schlötterer C, Schmidt P, Sucena E, González J, **Bergland AO**, Ritchie MG, Flatt T. (2025). Continent-wide differentiation of fitness traits and patterns of climate adaptation among European populations of <i>Drosophila melanogaster</i>. [_Evolution Letters_](https://doi.org/10.1093/evlett/qraf014): qraf014. [pdf](/assets/pdfs/Durmaz-Mitchell_etal_2925.pdf). [code]((https://esradm.github.io/DrosEU_PhenotypingWG/).
+<br><br>
+
+Gray W, **Stephenson M**, **Bergland AO**, Erickson PA. (2025). Field Sampling of <i>Zaprionus indianus</i> in the Eastern United States in
+2023-2024. [_microPublication Biology_](https://www.micropublication.org/journals/biology/micropub-biology-001707): 10.17912/micropub.biology.001707. [pdf](/assets/pdfs/Gray_etal_2025.pdf).
+<br><br>
+
+**Murray C**, **Bergland AO**. (2025). Patterns of gene family evolution and selection across Daphnia. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.71453): 15:e71453. [pdf](/assets/pdfs/Murray_2025.pdf). [code](https://github.com/BerglandLab/nf-GeneFamilyEvolution).
+<br><br>
 
 Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. (2025). <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_Evolution Letters_](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf008/8108314): 10.1093/evlett/qraf008. [pdf](/assets/pdfs/Berardi_etal_2025.pdf).
 <br><br>
 
-**Murray CS**, **Karram M**, **Bass DJ**, **Doceti M**, **Becker D**, **Nunez JCB**, Ratan A, **Bergland AO**. (2025). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf). [code](https://github.com/BerglandLab/TransSpecificPolymorphisms_Daphnia/)
+**Murray CS**, **Karram M**, **Bass DJ**, **Doceti M**, **Becker D**, **Nunez JCB**, Ratan A, **Bergland AO**. (2025). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf). [code](https://github.com/BerglandLab/TransSpecificPolymorphisms_Daphnia/).
 <br><br>
 
 <a id="2024"></a>
