@@ -20,7 +20,8 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 
 <a id="2025"></a>
 ## 2025
-**Nunez JCB\***, Coronado-Zamora M\*, Gautier M, Kapun M, Steindl S, Ometto L, Hoedjes KM, Beets J, Wiberg RAW, **Mazzeo GR**,  **Bass DJ**,  plus 95 co-authors, Flatt T\*, **Bergland AO\***, Gonzalez J\*. (2025). Footprints of worldwide adaptation in structured populations of <i>D. melanogaster</i> through the expanded DEST 2.0 genomic resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/42/8/msaf132/8237493): 10.1093/molbev/msaf132. [pdf](/assets/pdfs/Nunez_etal_2025.pdf). [code](https://github.com/DEST-bio/DESTv2_data_paper). [data website](https://dest.bio)
+**Nunez JCB\***, Coronado-Zamora M\*, Gautier M, Kapun M, Steindl S, Ometto L, Hoedjes KM, Beets J, Wiberg RAW, **Mazzeo GR**,  **Bass DJ**,  plus 95 co-authors, Flatt T\*, **Bergland AO\***, Gonzalez J\*. (2025). Footprints of worldwide adaptation in structured populations of <i>D. melanogaster</i> through the expanded DEST 2.0 genomic resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/42/8/msaf132/8237493): 10.1093/molbev/msaf132. [pdf](/assets/pdfs/Nunez_etal_2025.pdf). [code](https://github.com/DEST-bio/DESTv2_data_paper). <br>
+<a href="https://dest.bio">\[_Data and pipeline available at the DEST website_\]</a>
 <br><br>
 
 Durmaz Mitchell E, Kerdaffrec E, Harney E, Paulo TF, Veselinovic MS, (+18 co-authors), **Erickson P**, (+63 co-authors), Kapun M, Schlötterer C, Schmidt P, Sucena E, González J, **Bergland AO**, Ritchie MG, Flatt T. (2025). Continent-wide differentiation of fitness traits and patterns of climate adaptation among European populations of <i>Drosophila melanogaster</i>. [_Evolution Letters_](https://doi.org/10.1093/evlett/qraf014): qraf014. [pdf](/assets/pdfs/Durmaz-Mitchell_etal_2925.pdf). [code](https://esradm.github.io/DrosEU_PhenotypingWG/).
