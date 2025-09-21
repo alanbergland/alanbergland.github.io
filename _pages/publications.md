@@ -9,6 +9,12 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
+**Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676858v1.abstract): doi:10.1101/2025.09.17.676858
+<br><br>
+
+**Lenhart BA**, **Bergland AO**. The inversion In(2L)t impacts complex, environmentally sensitive behaviors in <i>Drosophila melanogaster</i>. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676861v1): doi:10.1101/2025.09.17.676861
+<br><br>
+
 Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.10.28.620721v2): 10.1101/2024.10.28.620721
 <br><br>
 
