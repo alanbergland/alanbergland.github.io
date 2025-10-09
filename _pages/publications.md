@@ -10,42 +10,42 @@ permalink: /publications/
 ## Pre-prints
 
 **Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676858v1): doi:10.1101/2025.09.17.676858
-<br><br>
+<br>
 
 **Lenhart BA**, **Bergland AO**. The inversion In(2L)t impacts complex, environmentally sensitive behaviors in <i>Drosophila melanogaster</i>. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676861v1): doi:10.1101/2025.09.17.676861
-<br><br>
+<br>
 
 Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.10.28.620721v2): 10.1101/2024.10.28.620721
-<br><br>
+<br>
 
 
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
-<br><br>
+<br>
 
 <a id="2025"></a>
 ## 2025
 Erickson PA, **Bangerter A**, Ansleigh Gunter, Nikolaos T. Polizos, **Bergland AO**. (2025). Limited population structure but signals of recent selection in introduced African Fig Fly (<i>Zaprionus indianus</i>) in North America. [_G3_](https://academic.oup.com/g3journal/article/15/10/jkaf178/8224043): 10.1093/g3journal/jkaf178. [pdf](/assets/pdfs/Erickson_etal_2025.pdf)
-<br><br>
+<br>
 
 **Nunez JCB\***, Coronado-Zamora M\*, Gautier M, Kapun M, Steindl S, Ometto L, Hoedjes KM, Beets J, Wiberg RAW, **Mazzeo GR**,  **Bass DJ**,  plus 95 co-authors, Flatt T\*, **Bergland AO\***, Gonzalez J\*. (2025). Footprints of worldwide adaptation in structured populations of <i>D. melanogaster</i> through the expanded DEST 2.0 genomic resource. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/42/8/msaf132/8237493): 10.1093/molbev/msaf132. [pdf](/assets/pdfs/Nunez_etal_2025.pdf). [code](https://github.com/DEST-bio/DESTv2_data_paper). <br>
 <a href="https://dest.bio">\[_Data and pipeline available at the DEST website_\]</a>
-<br><br>
+<br>
 
 Durmaz Mitchell E, Kerdaffrec E, Harney E, Paulo TF, Veselinovic MS, (+18 co-authors), **Erickson P**, (+63 co-authors), Kapun M, Schlötterer C, Schmidt P, Sucena E, González J, **Bergland AO**, Ritchie MG, Flatt T. (2025). Continent-wide differentiation of fitness traits and patterns of climate adaptation among European populations of <i>Drosophila melanogaster</i>. [_Evolution Letters_](https://doi.org/10.1093/evlett/qraf014): qraf014. [pdf](/assets/pdfs/Durmaz-Mitchell_etal_2925.pdf). [code](https://esradm.github.io/DrosEU_PhenotypingWG/).
-<br><br>
+<br>
 
 Gray W, **Stephenson M**, **Bergland AO**, Erickson PA. (2025). Field Sampling of <i>Zaprionus indianus</i> in the Eastern United States in
 2023-2024. [_microPublication Biology_](https://www.micropublication.org/journals/biology/micropub-biology-001707): 10.17912/micropub.biology.001707. [pdf](/assets/pdfs/Gray_etal_2025.pdf).
-<br><br>
+<br>
 
 **Murray C**, **Bergland AO**. (2025). Patterns of gene family evolution and selection across Daphnia. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.71453): 15:e71453. [pdf](/assets/pdfs/Murray_2025.pdf). [code](https://github.com/BerglandLab/nf-GeneFamilyEvolution).
 <br><br>
 
 Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. (2025). <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_Evolution Letters_](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf008/8108314): 10.1093/evlett/qraf008. [pdf](/assets/pdfs/Berardi_etal_2025.pdf).
-<br><br>
+<br>
 
 **Murray CS**, **Karram M**, **Bass DJ**, **Doceti M**, **Becker D**, **Nunez JCB**, Ratan A, **Bergland AO**. (2025). Trans-Specific Polymorphisms Between Cryptic Daphnia Species Affect Fitness and Behavior. [_Molecular Ecology_](https://onlinelibrary.wiley.com/doi/10.1111/mec.17632): 10.1111/mec.17632. [pdf](/assets/pdfs/Murray_etal_2024.pdf). [code](https://github.com/BerglandLab/TransSpecificPolymorphisms_Daphnia/).
-<br><br>
+<br>
 
 <a id="2024"></a>
 ## 2024
