@@ -39,7 +39,7 @@ Gray W, **Stephenson M**, **Bergland AO**, Erickson PA. (2025). Field Sampling o
 <br>
 
 **Murray C**, **Bergland AO**. (2025). Patterns of gene family evolution and selection across Daphnia. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.71453): 15:e71453. [pdf](/assets/pdfs/Murray_2025.pdf). [code](https://github.com/BerglandLab/nf-GeneFamilyEvolution).
-<br><br>
+<br>
 
 Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt NJ, **Bergland AO**, Petrov DA, Rajpurohit S, Schmidt P. (2025). <i>Drosophila melanogaster</i> pigmentation demonstrates adaptive phenotypic parallelism but genomic unpredictability over multiple timescales. [_Evolution Letters_](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf008/8108314): 10.1093/evlett/qraf008. [pdf](/assets/pdfs/Berardi_etal_2025.pdf).
 <br>
