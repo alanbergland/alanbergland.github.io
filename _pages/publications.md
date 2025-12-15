@@ -83,7 +83,7 @@ Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Ber
 **Becker D**, **Barnard-Kubow K**, **Porter R**, **Edwards A**, Beckerman A, **Bergland AO**.	(2022). Adaptive phenotypic plasticity is under stabilizing selection in Daphnia. Nature Ecology and Evolution. [_Nature Ecology & Evolution_](https://www.nature.com/articles/s41559-022-01837-5): 10.1038/s41559-022-01837-5. [pdf](/assets/pdfs/Becker_et_al_2022.pdf). [code](https://github.com/BerglandLab/SelectionPlasticity.git). [DAPCHA code](https://github.com/BerglandLab/Dapcha_v.1).
 <br><br>
 **Barnard-Kubow K**, **Becker D**, **Murray C**, **Porter R**, **Gutierrez G**, **Erickson P**, **Nunez
-JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. (2022). Polygenic variation in sexual investment across an ephemerality gradient in Daphnia pulex. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
+JCB**, **Voss E**, Suryamohan K, Ratan A Beckerman A, **Bergland AO**. (2022). Polygenic variation in sexual investment across an ephemerality gradient in <i>Daphnia pulex</i>. [_Molecular Biology and Evolution_](https://academic.oup.com/mbe/article/39/6/msac121/6596364): 10.1093/molbev/msac121. [pdf](/assets/pdfs/Kubow_etal_2022.pdf). [code](https://github.com/BerglandLab/DaphniaFromDorset.git).
 
 
 <a id="2021"></a>
