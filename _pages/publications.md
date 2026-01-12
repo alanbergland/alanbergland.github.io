@@ -9,8 +9,6 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
-**Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676858v1): doi:10.1101/2025.09.17.676858
-<br>
 
 **Lenhart BA**, **Bergland AO**. The inversion In(2L)t impacts complex, environmentally sensitive behaviors in <i>Drosophila melanogaster</i>. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676861v1): doi:10.1101/2025.09.17.676861
 <br>
@@ -21,6 +19,12 @@ Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ,
 
 Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
 <br>
+
+<a id="2026"></a>
+##2026
+**Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2026). [_PLOS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012012): doi:10.1371/journal.pgen.1012012. [pdf](/assets/pdfs/Lenhart_Bergland_2026.pdf)
+<br>
+
 
 <a id="2025"></a>
 ## 2025
