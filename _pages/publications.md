@@ -21,7 +21,7 @@ Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A,
 <br>
 
 <a id="2026"></a>
-##2026
+## 2026
 **Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2026). [_PLOS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012012): doi:10.1371/journal.pgen.1012012. [pdf](/assets/pdfs/Lenhart_Bergland_2026.pdf)
 <br>
 
