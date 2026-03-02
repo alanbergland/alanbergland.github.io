@@ -21,18 +21,41 @@
       gscholar: https://scholar.google.com/citations?user=67CuFyYAAAAJ&hl=en&oi=ao
       email: dke2ab@virginia.edu
       role: Post-doctoral scientist
+    - name: Hanna Makowski (she/her)
+      subtitle: 2026-current
+      image: /assets/images/profiles/hannamakowski.jpg
+      profile: |-
+        Hanna is a Climate Fellow at the Environmental Institute, working with the Bergland and Blumstein labs to understand how genetic variation in tree populations shapes adaptive traits, with a focus on phenological variation. Hanna joins us from a postdoctoral position at Black Rock Forest, where she collaborated with the Carnaval and Reinmann labs at the City University of New York to study intra-population variation in tree leaf phenology. Before Black Rock Forest, Hanna earned her PhD right here in the Biology Department, conducting research in the Galloway lab on plant mating system variation. [Learn more about here on Hanna's website](https://www.hannamakowski.com)
+      gscholar: https://scholar.google.com/citations?user=67CuFyYAAAAJ&hl=en&oi=ao
+      email: hm5dc@virginia.edu
+      role: Post-doctoral scientist co-advised with Megan Blumstein (UVA Environmental Science)
     - name: Robert Porter (he/him)
       subtitle: |
         2020-current
       image: /assets/images/profiles/robertporter.JPEG
       profile: |
         I am interested in the production and hatching of daphnia resting eggs, and investigating the environmental cues involved in the differing responses between clonal lineages. As part of this, I am also interested in how populations of daphnia maintain genetic diversity over longer timescales. Previously, I worked on image collection and analysis of _Daphnia pulex_ neonates exposed to predator kairomones, to measure the plastic response of necktooth induction.
+      email:
       role: PhD Student
     - name: Jingqi Liu
       subtitle: 2025-current
       image: /assets/images/profiles/jingqiliu.jpg
       profile: I am interested in understanding how inversions, particularly In(2L)t in Drosophila melanogaster, contribute to phenotypic variation and rapid adaptation. By developing genetic tools and using global Drosophila collections, my current project aims to identify the specific genes in In(2L)t responsible for phenotypic variation and test two competing hypothesis regarding the role of inversion in adaptation.
+      email: cqh6wn@virginia.edu
       role: PhD Student
+    - name: Chris Oxley (he/him)
+      subtitle: 2024-current
+      image: /assets/images/profiles/chrisoxley.jpg
+      profile: My research examines the different mechanisms driving the biogeography of tidal niche in the eastern oyster. I aim to use a GIS-based approach to understand the abiotic factors linked with tidal niche, common garden plots to compare the population dynamics of intertidal and subtidal reefs, and genomic analysis to determine the extent to which oysters have genetically adapted to their tidal niche. I am passionate about teaching and community outreach, and in my free time I enjoy painting, hiking, and photography.
+      email: ewc5gu@virginia.edu
+      role: Guest PhD Student (Environmental Science, advised by Max Castorani)
+    - name: Saikrishnan (Sai) Panackal Balakrishnan Shailaja (he/him)
+      subtitle: 2025-current
+      image: /assets/images/profiles/sai.jpg
+      profile: I am interested in linking genetic variation to behavior, with a current focus on recording and quantifying behavioral phenotypes associated with the chromosomal inversion In(2L)t in Drosophila, particularly in relation to foraging. Some of my earlier work during my undergraduate and master’s studies at IISER Mohali involved investigating immunity-related phenotypes in flies and exploring how cuticular hydrocarbons are exploited by parasitoid wasps (Nasonia) to induce local mate competition. Additionally, I developed an image-processing pipeline to study male-male interactions. Outside the lab, I am an avid video game enthusiast and, somewhat unexpectedly, an amateur powerlifter.
+      email: xck5rm@virginia.edu
+      role: PhD Student
+
 - tier_name: Alumni
   size: small
   description: |-
