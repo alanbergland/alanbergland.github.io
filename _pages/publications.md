@@ -9,19 +9,19 @@ permalink: /publications/
 <a id="preprints"></a>
 ## Pre-prints
 
+McCabe EA, Gautier M, Eller KA, Garvin MO, McCracken AR, Redondo S, **Bergland AO**, **Bangerter A**, Lotterhos KE, Nunez JCB, Teets NM. (2026).
+Phenotypic and Genomic Evidence of Adaptive Tracking in Thermal Tolerance of Wild Populations of an Invasive Drosophila. [_BioRxiv_](https://www.biorxiv.org/content/10.64898/2026.02.26.708249v1.abstract): 10.64898/2026.02.26.708249
+<br>
 
 **Lenhart BA**, **Bergland AO**. The inversion In(2L)t impacts complex, environmentally sensitive behaviors in <i>Drosophila melanogaster</i>. (2025). [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2025.09.17.676861v1): doi:10.1101/2025.09.17.676861
 <br>
 
-Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2024.10.28.620721v2): 10.1101/2024.10.28.620721
-<br>
-
-
-Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
-<br>
-
 <a id="2026"></a>
 ## 2026
+
+Bitter MC, Greenblum S, Rajpurohit S, **Bergland AO**, Hemker JA, Betancourt NJ, Tilk S, Berardi S, Oke H, Schmidt P, Petrov D. (2024). Pervasive fitness trade-offs revealed by rapid adaptation in large experimental populations of <i>Drosophila melanogaster</i>. [_Ecology Letters_](https://onlinelibrary.wiley.com/doi/10.1111/ele.70363): 10.1111/ele.70363. [pdf](/assets/pdfs/Bitter_etal_2026.pdf)
+<br>
+
 **Lenhart BA**, **Bergland AO**. Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations. (2026). [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012012): doi:10.1371/journal.pgen.1012012. [pdf](/assets/pdfs/Lenhart_Bergland_2026.pdf)
 <br>
 
@@ -118,6 +118,9 @@ Gonzalez J, Karasov T, Kim B, Kozeretska O, Lazzaro B, Merritt T, Pool J, O'Brie
 
 <a id="2020"></a>
 ## 2020
+
+Akhund-Zade J, Yoon D, **Bangerter A**, Polizos N, **Campbell M**, Soloshenko A, Zhang T, Wice E, Albright A, Narayanan A, Schmidt P, Saltz J, Ayroles J, Klein M, **Bergland A**, de Bivort B. (2020). Wild flies hedge their thermal preference bets in response to seasonal fluctuations. [_BioRxiv_](https://www.biorxiv.org/content/10.1101/2020.09.16.300731v1): 10.1101/2020.09.16.300731
+<br><br>
 **Erickson P.A.**, **Weller CA**, **Song DY**, **Bangerter AS**, Schmidt P, **Bergland AO** (2020) Unique genetic signatures of local adaptation over space and time for diapause, an ecologically relevant complex trait, in _Drosophila melanogaster_. [_PLoS Genetics_](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009110): 16(11): e1009110. [pdf](/assets/pdfs/Erickson_2020.pdf). [code](https://github.com/BerglandLab/diapause-scripts-clean.git).
 <br><br>
 Fu Z, Meier AR, Epstein B, **Bergland AO**, Castillo Carrillo CI, Cooper WR, ... & Synder WE. (2020). Host plants and _Wolbachia_ shape the population genetics of sympatric herbivore populations. [_Evolutionary Applications_](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13079): (13)2740–2753. [pdf](/assets/pdfs/Fu_2020.pdf)
