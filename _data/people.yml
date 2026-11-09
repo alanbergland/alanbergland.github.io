@@ -13,15 +13,7 @@
       gscholar: https://scholar.google.com/citations?hl=en&user=fHeiNpIAAAAJ
       email: aob2x@virginia.edu
       role: Primary Investigator
-    - name: Abbey Hayes (they/their she/her)
-      subtitle: 2023-current
-      image: /assets/images/profiles/abbeyhayes.jpg
-      profile: |-
-        Dr. Abigail "Abbey" Hayes is a postdoctoral research associate working on seasonal evolution and the traits associated with a seasonally varying chromosomal inversion in Drosophila. Abbey's general research interests lie at the intersection of phenotype, genotype, and environment. They join us fresh off of an NSF PRFB at the University of Connecticut working with Dr. Elizabeth Jockusch on the evolution of wings focusing on the non-model system Leptoglossus zonatus. Their PhD work focused on wing polyphenic development in crickets with Dr. Laura Lavine. Abbey is also passionate about teaching, outreach and DEI - to learn more visit their [website](https://abigailhayesphd.wixsite.com/main)
-      gscholar: https://scholar.google.com/citations?user=67CuFyYAAAAJ&hl=en&oi=ao
-      email: dke2ab@virginia.edu
-      role: Post-doctoral scientist
-    - name: Hanna Makowski (she/her)
+     - name: Hanna Makowski (she/her)
       subtitle: 2026-current
       image: /assets/images/profiles/hannamakowski.jpg
       profile: |-
@@ -29,15 +21,7 @@
       gscholar: https://scholar.google.com/citations?user=67CuFyYAAAAJ&hl=en&oi=ao
       email: hm5dc@virginia.edu
       role: Post-doctoral scientist co-advised with Megan Blumstein (UVA Environmental Science)
-    - name: Robert Porter (he/him)
-      subtitle: |
-        2020-current
-      image: /assets/images/profiles/robertporter.JPEG
-      profile: |
-        I am interested in the production and hatching of daphnia resting eggs, and investigating the environmental cues involved in the differing responses between clonal lineages. As part of this, I am also interested in how populations of daphnia maintain genetic diversity over longer timescales. Previously, I worked on image collection and analysis of _Daphnia pulex_ neonates exposed to predator kairomones, to measure the plastic response of necktooth induction.
-      email: rjp5nc@virginia.edu
-      role: PhD Student
-    - name: Jingqi Liu
+     - name: Jingqi Liu
       subtitle: 2025-current
       image: /assets/images/profiles/jingqiliu.jpg
       profile: I am interested in understanding how inversions, particularly In(2L)t in Drosophila melanogaster, contribute to phenotypic variation and rapid adaptation. By developing genetic tools and using global Drosophila collections, my current project aims to identify the specific genes in In(2L)t responsible for phenotypic variation and test two competing hypothesis regarding the role of inversion in adaptation.
@@ -61,6 +45,22 @@
   description: |-
     Previous members of the Bergland Lab
   sponsors:
+    - name: Robert Porter (he/him)
+      subtitle: |
+        2020-2026
+      image: /assets/images/profiles/robertporter.JPEG
+      profile: |
+        I am interested in the production and hatching of daphnia resting eggs, and investigating the environmental cues involved in the differing responses between clonal lineages. As part of this, I am also interested in how populations of daphnia maintain genetic diversity over longer timescales. Previously, I worked on image collection and analysis of _Daphnia pulex_ neonates exposed to predator kairomones, to measure the plastic response of necktooth induction.
+      email: rjp5nc@virginia.edu
+      role: PhD Student
+     - name: Abbey Hayes (they/their she/her)
+      subtitle: 2023-2026
+      image: /assets/images/profiles/abbeyhayes.jpg
+      profile: |-
+        Dr. Abigail "Abbey" Hayes was a postdoctoral research associate working on seasonal evolution and the traits associated with a seasonally varying chromosomal inversion in Drosophila. Abbey's general research interests lie at the intersection of phenotype, genotype, and environment. They join us fresh off of an NSF PRFB at the University of Connecticut working with Dr. Elizabeth Jockusch on the evolution of wings focusing on the non-model system Leptoglossus zonatus. Their PhD work focused on wing polyphenic development in crickets with Dr. Laura Lavine. Abbey is also passionate about teaching, outreach and DEI - to learn more visit their [website](https://abigailhayesphd.wixsite.com/main)
+      gscholar: https://scholar.google.com/citations?user=67CuFyYAAAAJ&hl=en&oi=ao
+      email: dke2ab@virginia.edu
+      role: Post-doctoral scientist
     - name: Megan Stephenson (they/them)
       subtitle: 2023-2025
       image: /assets/images/megan_stephenson_headshot_22.jpg

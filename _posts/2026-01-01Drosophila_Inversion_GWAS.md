@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: The effects of inversions on quantitative genetic variation
-date: 2026-01-12
+date: 2026-01-01
 image: /assets/images/lenhart_gwas.jpg
 hide_hero: false # change to false if you want to display header image
 title: Inversions impact quantitative variation in flies # title and subtitle only display on hero
