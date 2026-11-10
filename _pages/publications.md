@@ -75,7 +75,9 @@ Berardi S, Rhodes JA, Berner MC, Greenblum SI, Bitter MC, Behrman EL, Betancourt
 <br><br>
 
 **Porter RJ\***, **Gutierrez GM\***, **Barnard-Kubow KB**, **Bergland AO**. (2024). Maternal control of spontaneous dormancy termination in Daphnia pulex. [_Hydrobiologia_](https://link.springer.com/article/10.1007/s10750-023-05361-w): 10.1007/s10750-023-05361-w. [pdf](/assets/pdfs/Porter_etal_2024.pdf). [code](https://github.com/BerglandLab/EarlyEphippiaHatching).
-<a id="2024"></a><br><br>
+<br><br>
+
+<a id="2023"></a>
 
 ## 2023
 Rakes LM, **Delamont M**, Cole C, Yates JA, **Blevins LJ**, **Hassan FN**, **Bergland AO**, Erickson PA. (2023). Spatial and temporal variation in abundance of introduced African fig fly (<i>Zaprionus indianus</i>) (Diptera: Drosophilidae) in the eastern United States. [_Journal of Insect Science_](https://academic.oup.com/jinsectscience/article/23/5/21/7326515): 10.1093/jisesa/iead092. [pdf](/assets/pdfs/Rakes_2023.pdf).
